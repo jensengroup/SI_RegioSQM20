@@ -1,0 +1,2866 @@
+comp1_t0 corr [2] == 2 2
+taut info: comp1_t0 n1ccc[nH]1 43.99853 
+1> comp1_t0+_1-0 C1=NN[CH+]C1 2 132.39276 
+FINAL SUMMARY: comp1 comp_corr [2] == 2 2
+
+comp2_t0 corr [2] == 2 2
+taut info: comp2_t0 n1cccn1-c1ncccn1 86.60485 
+1> comp2_t0+_1-0 C1=CN=C(N2[CH+]CC=N2)N=C1 2 135.37916 
+FINAL SUMMARY: comp2 comp_corr [2] == 2 2
+
+comp3_t0 corr [2] == 2 2
+taut info: comp3_t0 n1ccc(N)n1-c1c(C)cccc1 65.30981 
+1> comp3_t0+_6-5 CC1=C(N2N=CC[C+]2N)C=CC=C1 2 120.00977 
+FINAL SUMMARY: comp3 comp_corr [2] == 2 2
+
+comp4_t0 corr [2] == 2 2
+taut info: comp4_t0 n1c(C)cc(C)n1-c1nnc(Cl)cc1 80.42903 
+1> comp4_t0+_3-5 CC1=NN(C2=NN=C(Cl)C=C2)[C+](C)C1 2 132.12724000000003 
+FINAL SUMMARY: comp4 comp_corr [2] == 2 2
+
+comp5_t0 corr [1] == 1 1
+taut info: comp5_t0 c1cc(-c2ccc([N+](=O)[O-])c(OC)c2)n[nH]1 15.50395 
+1> comp5_t0+_2-11 COC1=CC(C2=NN[CH+]C2)=CC=C1[N+](=O)[O-] 1 136.64912 
+FINAL SUMMARY: comp5 comp_corr [1] == 1 1
+
+comp6_t0 corr [1] == 1 1
+taut info: comp6_t0 c1(C)ccno1 22.77954 
+1> comp6_t0+_1-1 C[C+]1CC=NO1 1 139.18465 
+FINAL SUMMARY: comp6 comp_corr [1] == 1 1
+
+comp7_t0 corr [1] == 1 1
+taut info: comp7_t0 c1(-c2ccc(OC)cc2)cc(-c2ccccc2)no1 42.50382 
+1> comp7_t0+_7-12 COC1=CC=C([C+]2CC(C3=CC=CC=C3)=NO2)C=C1 1 133.89943000000002 
+FINAL SUMMARY: comp7 comp_corr [1] == 1 1
+
+comp8_t0 corr [1] == 1 1
+taut info: comp8_t0 c1(-c2c(Br)cccc2)ccno1 65.81124 
+1> comp8_t0+_5-3 BrC1=C([C+]2CC=NO2)C=CC=C1 1 137.89049 
+FINAL SUMMARY: comp8 comp_corr [1] == 1 1
+
+comp9_t0 corr [1] == 1 1
+taut info: comp9_t0 c1(-c2ccc(OC)cc2)cc(-c2c(Cl)cccc2)no1 38.14419 
+1> comp9_t0+_7-12 COC1=CC=C([C+]2CC(C3=C(Cl)C=CC=C3)=NO2)C=C1 1 134.66719 
+FINAL SUMMARY: comp9 comp_corr [1] == 1 1
+
+comp10_t0 corr [1] == 1 1
+taut info: comp10_t0 c1ccns1 25.82055 
+1> comp10_t0+_2-0 C1=NS[CH+]C1 1 149.29801 
+FINAL SUMMARY: comp10 comp_corr [1] == 1 1
+
+comp11_t0 corr [1] == 1 1
+taut info: comp11_t0 c1cc(OC(=O)c2ccccc2)ns1 -20.66896 
+1> comp11_t0+_2-1 O=C(OC1=NS[CH+]C1)C1=CC=CC=C1 1 148.64168999999998 
+FINAL SUMMARY: comp11 comp_corr [1] == 1 1
+
+comp13_t0 semi [1] == 9,7 1,9,7
+taut info: comp13_t0 c1(CO)cc(-c2ccc(OC)cc2)ns1 -36.95664 
+1> comp13_t0+_1-5 COC1=CC=C(C2=NSC(CO)=C2)[CH+]C1 9 145.00804 
+2> comp13_t0+_3-4 COC1=CC=C(C2=NS[C+](CO)C2)C=C1 1 147.51766 
+FINAL SUMMARY: comp13 comp_semi [1] == 7,9 1,7,9
+
+comp14_t0 corr [0] == 0 0,3
+taut info: comp14_t0 c1c(C(=O)OC)nc[nH]1 -60.79112 
+1> comp14_t0+_1-0 COC(=O)[C+]1CNC=N1 0 144.14901 
+2> comp14_t0+_2-0 COC(=O)C1=CNC[N+]1 3 145.38441 
+FINAL SUMMARY: comp14 comp_corr [0] == 0 0,3
+
+comp15_t0 corr [1] == 1,2 1,2
+taut info: comp15_t0 n1(C)ccnc1 24.31135 
+1> comp15_t0+_1-0 CN1C=N[CH+]C1 1 135.24032 
+1> comp15_t0+_2-3 CN1C=NC[CH+]1 2 135.59446 
+FINAL SUMMARY: comp15 comp_corr [1] == 1,2 1,2
+
+comp16_t0 corr [2] == 2 2
+taut info: comp16_t0 c1ncc(-c2ccccc2)n1C 48.47596 
+1> comp16_t0+_6-2 CN1C=NC[C+]1C1=CC=CC=C1 2 133.81267000000003 
+FINAL SUMMARY: comp16 comp_corr [2] == 2 2
+
+comp17_t0 corr [2] == 2 2,7,11
+taut info: comp17_t0 c1ncc(-c2cc(OC)c(OC)c(OC)c2)n1C -62.1014 
+1> comp17_t0+_2-18 COC1=CC([C+]2CN=CN2C)=CC(OC)=C1OC 2 135.03879 
+2> comp17_t0+_3-8 COC1=C[C+](C2=CN=CN2C)CC(OC)=C1OC 7 136.96088 
+FINAL SUMMARY: comp17 comp_corr [2] == 2 2,7,11
+
+comp18_t0 corr [2, 8] == 2,8 2,8
+taut info: comp18_t0 n1ccsc1-c1nccs1 82.79113 
+1> comp18_t0+_2-1 C1=CSC(C2=N[CH+]CS2)=N1 2 145.90828 
+FINAL SUMMARY: comp18 comp_corr [2, 8] == 2,8 2,8
+
+comp19_t0 corr [11] == 11 11
+taut info: comp19_t0 c1cc(-c2nccs2)ccc1OC 25.15293 
+1> comp19_t0+_4-2 COC1=CC=C(C2=N[CH+]CS2)C=C1 11 139.59776 
+FINAL SUMMARY: comp19 comp_corr [11] == 11 11
+
+comp20_t0 corr [0] == 0 0,9,7
+taut info: comp20_t0 c1c(OC)sc(-c2ccc(OC)cc2)n1 -7.10243 
+1> comp20_t0+_3-14 COC1=CC=C(C2=NC[C+](OC)S2)C=C1 0 142.48490999999999 
+2> comp20_t0+_1-10 COC1=CC=C(C2=NC=C(OC)S2)[CH+]C1 9 144.59948 
+FINAL SUMMARY: comp20 comp_corr [0] == 0 0,7,9
+
+comp21_t0 corr [0, 2] == 2,0 2,0
+taut info: comp21_t0 c1c(N(C)C)ccnc1 22.26614 
+1> comp21_t0+_1-5 CN(C)C1=CC=N[CH+]C1 2 134.69818999999998 
+FINAL SUMMARY: comp21 comp_corr [0, 2] == 0,2 0,2
+
+comp22_t0 corr [2] == 2 2
+taut info: comp22_t0 c1(C=O)cccnc1N -12.51662 
+1> comp22_t0+_1-1 NC1=N[CH+]CC=C1C=O 2 129.62448 
+FINAL SUMMARY: comp22 comp_corr [2] == 2 2
+
+comp23_t0 corr [0] == 0 0
+taut info: comp23_t0 c1cnc(N)c(O[C@@H](c2cc(Cl)ccc2C(F)(F)F)C)c1 -151.60398 
+1> comp23_t0+_1-0 C[C@@H](OC1=CC[CH+]N=C1N)C1=CC(Cl)=CC=C1C(F)(F)F 0 130.58481 
+FINAL SUMMARY: comp23 comp_corr [0] == 0 0
+
+comp24_t0 corr [5] == 5 3,5
+taut info: comp24_t0 c1nc(NC(=O)NCC)cc(-c2cnccc2)c1 4.34531 
+1> comp24_t0+_5-5 CCNC(=O)NC1=C[C+](C2=CN=CC=C2)CC=N1 5 139.83544999999998 
+2> comp24_t0+_4-1 CCNC(=O)N[C+]1CC(C2=CN=CC=C2)=CC=N1 3 142.00175 
+FINAL SUMMARY: comp24 comp_corr [5] == 5 3,5
+
+comp25_t0 corr [0] == 0 0
+taut info: comp25_t0 c1cnc(N)nc1 27.17797 
+1> comp25_t0+_1-0 NC1=N[CH+]CC=N1 0 129.86335000000003 
+FINAL SUMMARY: comp25 comp_corr [0] == 0 0
+
+comp26_t0 corr [2] == 2 2
+taut info: comp26_t0 n1ccc(-c2ccccc2)nc1N 52.15391 
+1> comp26_t0+_6-2 NC1=N[C+](C2=CC=CC=C2)CC=N1 2 128.94127 
+FINAL SUMMARY: comp26 comp_corr [2] == 2 2
+
+comp27_t0 corr [5] == 5 5
+taut info: comp27_t0 c1nc(N)nc(OC)c1 -14.32031 
+1> comp27_t0+_2-6 CO[C+]1CC=NC(N)=N1 5 126.54623000000001 
+FINAL SUMMARY: comp27 comp_corr [5] == 5 5
+
+comp28_t0 corr [0] == 0 0,10
+taut info: comp28_t0 c1cnc(SC)nc1-c1c(C(C)C)n[nH]c1 61.06873 
+1> comp28_t0+_1-3 CSC1=N[CH+]CC(C2=CNN=C2C(C)C)=N1 0 145.21537 
+2> comp28_t0+_3-16 CSC1=NC=CC([C+]2CNN=C2C(C)C)=N1 10 146.64267 
+FINAL SUMMARY: comp28 comp_corr [0] == 0 0,10
+
+comp29_t0 corr [2] == 2 2,19
+taut info: comp29_t0 n1c(Oc2cc(C(F)(F)F)nn2C)cc(N2CCC(C(=O)OCC)CC2)nc1 -210.530462 
+1> comp29_t0+_1-13 CCOC(=O)C1CCN([C+]2CC(OC3=CC(C(F)(F)F)=NN3C)=NC=N2)CC1 2 139.58543500000002 
+2> comp29_t0+_3-5 CCOC(=O)C1CCN(C2=CC(O[C+]3CC(C(F)(F)F)=NN3C)=NC=N2)CC1 19 141.892762 
+FINAL SUMMARY: comp29 comp_corr [2] == 2 2,19
+
+comp30_t0 corr [2] == 2 2
+taut info: comp30_t0 n1c(N2CCN(C(=O)OC(C)(C)C)[C@@H](CCC)C2)cnc(C(=O)OC)c1 -161.31749 
+1> comp30_t0+_1-10 CCC[C@H]1CN(C2=NC=C(C(=O)OC)[N+]C2)CCN1C(=O)OC(C)(C)C 2 142.571348 
+FINAL SUMMARY: comp30 comp_corr [2] == 2 2
+
+comp31_t0 corr [4] == 4 4
+taut info: comp31_t0 n1c(N2CCN(CC(=O)OC(C)(C)C)CC2)c(Oc2ccc(OC)cc2)ncc1 -104.181197 
+1> comp31_t0+_1-0 COC1=CC=C(OC2=NC[CH+]N=C2N2CCN(CC(=O)OC(C)(C)C)CC2)C=C1 4 137.940274 
+FINAL SUMMARY: comp31 comp_corr [4] == 4 4
+
+comp32_t0 corr [0] == 0 0
+taut info: comp32_t0 c1cc(Cl)nnc1N 39.32333 
+1> comp32_t0+_1-0 NC1=NN=C(Cl)[CH+]C1 0 137.09513 
+FINAL SUMMARY: comp32 comp_corr [0] == 0 0
+
+comp33_t0 corr [14] == 14 14
+taut info: comp33_t0 c1cccc(-c2nnc(N)cc2)c1C(F)(F)F -82.42535 
+1> comp33_t0+_5-0 NC1=NN=C(C2=C(C(F)(F)F)C=CC=C2)[CH+]C1 14 134.08776 
+FINAL SUMMARY: comp33 comp_corr [14] == 14 14
+
+comp34_t0 corr [0] == 0 0
+taut info: comp34_t0 c1c(N)nnc(-c2cn(C3CCN(C(=O)OC(C)(C)C)CC3)nc2)c1 -14.576916 
+1> comp34_t0+_1-1 CC(C)(C)OC(=O)N1CCC(N2C=C(C3=CC[C+](N)N=N3)C=N2)CC1 0 135.84164 
+FINAL SUMMARY: comp34 comp_corr [0] == 0 0
+
+comp35_t0 corr [6] == 6 6
+taut info: comp35_t0 c1ccc2c(c1)cc[nH]2 39.36493 
+1> comp35_t0+_3-0 C1=CC=C2N[CH+]CC2=C1 6 118.68299 
+FINAL SUMMARY: comp35 comp_corr [6] == 6 6
+
+comp36_t0 corr [9] == 9 9
+taut info: comp36_t0 c1(C)nc2n(c(C)c1)nc(-c1ccccc1)c2 83.02772 
+1> comp36_t0+_6-1 CC1=CC(C)=N[C+]2CC(C3=CC=CC=C3)=NN12 9 123.78912999999999 
+FINAL SUMMARY: comp36 comp_corr [9] == 9 9
+
+comp38_t0 corr [0] == 0 0
+taut info: comp38_t0 c1n2ccncc2nc1 58.35167 
+1> comp38_t0+_1-0 C1=CN2C[CH+]N=C2C=N1 0 133.38474000000002 
+FINAL SUMMARY: comp38 comp_corr [0] == 0 0
+
+comp39_t0 corr [1] == 1 1,3
+taut info: comp39_t0 c1cn2ccnc2c(N2CCN(C)CC2)n1 56.14655 
+1> comp39_t0+_2-2 CN1CCN(C2=N[CH+]CN3C=CN=C23)CC1 1 126.50693000000001 
+2> comp39_t0+_3-0 CN1CCN(C2=NC=CN3C[CH+]N=C23)CC1 3 129.11739 
+FINAL SUMMARY: comp39 comp_corr [1] == 1 1,3
+
+comp40_t0 corr [0] == 0 0
+taut info: comp40_t0 c1n2ccnc(Cl)c2nc1 52.46696 
+1> comp40_t0+_1-0 ClC1=NC=CN2C[CH+]N=C12 0 134.52309 
+FINAL SUMMARY: comp40 comp_corr [0] == 0 0
+
+comp41_t0 corr [8] == 8 8
+taut info: comp41_t0 c1ccnn2c1nnc2 95.92116 
+1> comp41_t0+_4-0 C1=CC2=N[N+]CN2N=C1 8 142.76386000000002 
+FINAL SUMMARY: comp41 comp_corr [8] == 8 8
+
+comp43_t0 corr [0] == 0 0
+taut info: comp43_t0 c1cnc(-c2ccccc2)o1 20.96981 
+1> comp43_t0+_1-2 C1=CC=C(C2=N[CH+]CO2)C=C1 0 138.67116000000001 
+FINAL SUMMARY: comp43 comp_corr [0] == 0 0
+
+comp48_t0 corr [3] == 3,5 3,5
+taut info: comp48_t0 c1(N(C)C)cccnc1 23.22702 
+1> comp48_t0+_2-4 CN(C)C1=C[CH+]CN=C1 3 134.83638 
+1> comp48_t0+_4-5 CN(C)C1=CC=C[N+]C1 5 135.23792 
+FINAL SUMMARY: comp48 comp_corr [3] == 3,5 3,5
+
+comp49_t0 corr [6] == 6 6
+taut info: comp49_t0 c1c2n(CC)c(-c3nccnc3N)nc2cnc1 77.1129 
+1> comp49_t0+_1-3 CCN1C2=CC=NC=C2N=C1C1=NC[CH+]N=C1N 6 132.35017 
+FINAL SUMMARY: comp49 comp_corr [6] == 6 6
+
+comp50_t0 corr [0] == 0 0
+taut info: comp50_t0 c1c[nH]nc1-c1ccc([N+](=O)[O-])cc1 51.89997 
+1> comp50_t0+_1-6 O=[N+]([O-])C1=CC=C(C2=NN[CH+]C2)C=C1 0 136.40852 
+FINAL SUMMARY: comp50 comp_corr [0] == 0 0
+
+comp51_t0 corr [0] == 0 0
+taut info: comp51_t0 c1c(-c2cc(C)sc2)n[nH]c1 66.76798 
+1> comp51_t0+_1-0 CC1=CC(C2=NN[CH+]C2)=CS1 0 130.62078 
+FINAL SUMMARY: comp51 comp_corr [0] == 0 0
+
+comp52_t0 corr [9] == 9 0,9
+taut info: comp52_t0 c1cnc(-c2n[nH]c(C(OC)OC)c2)s1 -1.78417 
+1> comp52_t0+_3-15 COC(OC)[C+]1CC(C2=NC=CS2)=NN1 9 136.85835 
+2> comp52_t0+_1-13 COC(OC)C1=CC(C2=N[CH+]CS2)=NN1 0 139.52834 
+FINAL SUMMARY: comp52 comp_corr [9] == 9 0,9
+
+comp53_t0 corr [0] == 0 0
+taut info: comp53_t0 c1c(C(C)C)nn(-c2nc3c(s2)cccc3)c1-c1ccc(F)cc1 72.08696 
+1> comp53_t0+_7-12 CC(C)C1=NN(C2=NC3=C(C=CC=C3)S2)[C+](C2=CC=C(F)C=C2)C1 0 135.62169 
+FINAL SUMMARY: comp53 comp_corr [0] == 0 0
+
+comp54_t0 corr [9] == 9 9
+taut info: comp54_t0 c1nc(-n2nc(C(C)C)cc2-c2ccc(F)cc2)ncc1 50.517393 
+1> comp54_t0+_6-10 CC(C)C1=NN(C2=NC=CC=N2)[C+](C2=CC=C(F)C=C2)C1 9 134.596327 
+FINAL SUMMARY: comp54 comp_corr [9] == 9 9
+
+comp55_t0 corr [8] == 8 8
+taut info: comp55_t0 c1nc(-n2c(-c3ccc(F)cc3)cc(C(C)C)n2)cnc1 52.06838 
+1> comp55_t0+_6-11 CC(C)C1=NN(C2=CN=CC=N2)[C+](C2=CC=C(F)C=C2)C1 8 134.22352800000002 
+FINAL SUMMARY: comp55 comp_corr [8] == 8 8
+
+comp56_t0 corr [3] == 3,14,0 3,14,0
+taut info: comp56_t0 c1c(-c2c[nH]nc2-c2ccc(F)cc2)ccnc1 54.5078 
+1> comp56_t0+_3-4 FC1=CC=C(C2=NNC=C2C2=CC=N[CH+]C2)C=C1 14 145.36335 
+1> comp56_t0+_6-4 FC1=CC=C(C2=NNC[C+]2C2=CC=NC=C2)C=C1 3 145.1335 
+FINAL SUMMARY: comp56 comp_corr [3] == 0,3,14 0,3,14
+
+comp58_t0 corr [1] == 1 1,2
+taut info: comp58_t0 n1(C)ccnc1I 50.98463 
+1> comp58_t0+_1-0 CN1C[CH+]N=C1I 1 134.07226 
+2> comp58_t0+_2-2 CN1[CH+]CN=C1I 2 136.18209 
+FINAL SUMMARY: comp58 comp_corr [1] == 1 1,2
+
+comp59_t0 corr [1] == 1 1
+taut info: comp59_t0 c1csc(N(C(=O)OC(C)(C)C)c2cc(C)cc(C)c2)n1 -43.70634 
+1> comp59_t0+_2-2 CC1=CC(C)=CC(N(C(=O)OC(C)(C)C)C2=N[CH+]CS2)=C1 1 133.24079899999998 
+FINAL SUMMARY: comp59 comp_corr [1] == 1 1
+
+comp60_t0 corr [1] == 1 1
+taut info: comp60_t0 c1csc(-c2c(Cl)cc(C(CO)(O)C)cc2)n1 -40.49623 
+1> comp60_t0+_2-5 CC(O)(CO)C1=CC(Cl)=C(C2=N[CH+]CS2)C=C1 1 143.24000999999998 
+FINAL SUMMARY: comp60 comp_corr [1] == 1 1
+
+comp61_t0 corr [1] == 1 1
+taut info: comp61_t0 c1csc(Nc2cccc(Cl)c2)n1 58.89977 
+1> comp61_t0+_2-3 ClC1=CC(NC2=N[CH+]CS2)=CC=C1 1 126.96703000000002 
+FINAL SUMMARY: comp61 comp_corr [1] == 1 1
+
+comp62_t0 corr [2] == 2 2
+taut info: comp62_t0 c1scc(C)n1 28.06495 
+1> comp62_t0+_2-1 C[C+]1CSC=N1 2 147.1412 
+FINAL SUMMARY: comp62 comp_corr [2] == 2 2
+
+comp64_t0 corr [0] == 0 0
+taut info: comp64_t0 c1c(OC)sc(-c2ccncc2)n1 38.22945 
+1> comp64_t0+_3-9 CO[C+]1CN=C(C2=CC=NC=C2)S1 0 145.04527000000002 
+FINAL SUMMARY: comp64 comp_corr [0] == 0 0
+
+comp66_t0 corr [7] == 7 7
+taut info: comp66_t0 c1ccc(-c2csc(Nc3ncccc3C)n2)nc1 93.08202 
+1> comp66_t0+_7-4 CC1=CC=CN=C1NC1=N[C+](C2=CC=CC=N2)CS1 7 124.63606999999999 
+FINAL SUMMARY: comp66 comp_corr [7] == 7 7
+
+comp67_t0 corr [0] == 0 0
+taut info: comp67_t0 c1cnc(SCc2c(C(F)(F)F)nc(C)s2)s1 -78.88751 
+1> comp67_t0+_1-8 CC1=NC(C(F)(F)F)=C(CSC2=N[CH+]CS2)S1 0 146.40867 
+FINAL SUMMARY: comp67 comp_corr [0] == 0 0
+
+comp68_t0 corr [1] == 1 1,3
+taut info: comp68_t0 c1cccc(N)n1 22.65979 
+1> comp68_t0+_2-0 NC1=N[CH+]CC=C1 1 128.13488 
+2> comp68_t0+_4-0 NC1=NC=C[CH+]C1 3 129.82233000000002 
+FINAL SUMMARY: comp68 comp_corr [1] == 1 1,3
+
+comp69_t0 corr [2] == 2 0,2
+taut info: comp69_t0 c1c(C(F)(F)F)ccnc1N -134.89487 
+1> comp69_t0+_1-0 NC1=N[CH+]CC(C(F)(F)F)=C1 2 134.10757 
+2> comp69_t0+_3-0 NC1=NC=C[C+](C(F)(F)F)C1 0 135.261 
+FINAL SUMMARY: comp69 comp_corr [2] == 2 0,2
+
+comp70_t0 corr [1] == 1 1,3
+taut info: comp70_t0 c1cccc(OC)n1 -12.60437 
+1> comp70_t0+_2-1 COC1=N[CH+]CC=C1 1 143.81197999999998 
+2> comp70_t0+_4-1 COC1=NC=C[CH+]C1 3 145.0441 
+FINAL SUMMARY: comp70 comp_corr [1] == 1 1,3
+
+comp71_t0 corr [1] == 1 1
+taut info: comp71_t0 c1cc(OC)nc2c1C(=O)CCN2 -57.01386 
+1> comp71_t0+_2-2 COC1=NC2=C([CH+]C1)C(=O)CCN2 1 129.46608 
+FINAL SUMMARY: comp71 comp_corr [1] == 1 1
+
+comp73_t0 corr [9] == 9 0,9
+taut info: comp73_t0 c1c(C(F)(F)F)nn(C)c1-c1cnc(N)cc1 -90.87744 
+1> comp73_t0+_1-2 CN1N=C(C(F)(F)F)C=C1C1=CN=C(N)C[CH+]1 9 133.49105 
+2> comp73_t0+_3-1 CN1N=C(C(F)(F)F)C[C+]1C1=CN=C(N)C=C1 0 136.36634 
+FINAL SUMMARY: comp73 comp_corr [9] == 9 0,9
+
+comp74_t0 semi [15] == 5 5,15
+taut info: comp74_t0 c1c(Cl)cc2c(c1)N(CCCCC)C(=O)C21COc2c1cccn2 -41.99297 
+1> comp74_t0+_5-14 CCCCCN1C(=O)C2(COC3=C2C=CC=N3)C2=CC(Cl)=CC[C+]21 5 145.77088 
+2> comp74_t0+_2-9 CCCCCN1C(=O)C2(COC3=C2[CH+]CC=N3)C2=CC(Cl)=CC=C21 15 147.09656999999999 
+FINAL SUMMARY: comp74 comp_semi [15] == 5 5,15
+
+comp75_t0 corr [0] == 0 0,4
+taut info: comp75_t0 c1cnc(NC(=O)C)cc1-c1n(COCC[Si](C)(C)C)c(C(=O)OC)c(-c2ccc(Cl)cc2Cl)n1 -143.424265 
+1> comp75_t0+_1-9 COC(=O)C1=C(C2=CC=C(Cl)C=C2Cl)N=C(C2=CC(NC(C)=O)=N[CH+]C2)N1COCC[Si](C)(C)C 0 136.79838999999998 
+2> comp75_t0+_3-2 COC(=O)C1=C(C2=CC=C(Cl)C=C2Cl)N=C([C+]2C=CN=C(NC(C)=O)C2)N1COCC[Si](C)(C)C 4 138.92013799999998 
+FINAL SUMMARY: comp75 comp_corr [0] == 0 0,4
+
+comp76_t0 corr [10] == 10 10
+taut info: comp76_t0 c1nccc(C(=O)c2cccnc2N)c1 21.42413 
+1> comp76_t0+_3-3 NC1=N[CH+]CC=C1C(=O)C1=CC=NC=C1 10 130.99669 
+FINAL SUMMARY: comp76 comp_corr [10] == 10 10
+
+comp77_t0 corr [8] == 8 8
+taut info: comp77_t0 c1nccc(-c2ccc(=O)[nH]c2)c1 7.80605 
+1> comp77_t0+_4-1 O=C1C[CH+]C(C2=CC=NC=C2)=CN1 8 133.98283 
+FINAL SUMMARY: comp77 comp_corr [8] == 8 8
+
+comp78_t0 corr [8] == 8 8
+taut info: comp78_t0 c1nccc(-c2ccc(=O)[nH]c2C)c1 -0.30069 
+1> comp78_t0+_4-6 CC1=C(C2=CC=NC=C2)[CH+]CC(=O)N1 8 132.21374 
+FINAL SUMMARY: comp78 comp_corr [8] == 8 8
+
+comp79_t0 corr [1] == 1 1
+taut info: comp79_t0 c1cc(OC)c(C(=O)OCC)c(=O)[nH]1 -148.66842 
+1> comp79_t0+_2-5 CCOC(=O)C1=C(OC)C[CH+]NC1=O 1 136.70063 
+FINAL SUMMARY: comp79 comp_corr [1] == 1 1
+
+comp80_t0 corr [0] == 0 0
+taut info: comp80_t0 c1c(C)[nH]c(=O)c(Br)c1 -22.008 
+1> comp80_t0+_1-1 C[C+]1CC=C(Br)C(=O)N1 0 134.83772 
+FINAL SUMMARY: comp80 comp_corr [0] == 0 0
+
+comp81_t0 corr [0] == 0 0
+taut info: comp81_t0 c1cc(C)c(=O)n(C)c1 -28.08741 
+1> comp81_t0+_1-4 CC1=CC[CH+]N(C)C1=O 0 133.89848 
+FINAL SUMMARY: comp81 comp_corr [0] == 0 0
+
+comp82_t0 corr [2] == 2 2
+taut info: comp82_t0 c1(C(=O)CC)ccc(=O)[nH]c1C -78.611 
+1> comp82_t0+_2-3 CCC(=O)C1=C(C)NC(=O)C[CH+]1 2 133.12293 
+FINAL SUMMARY: comp82 comp_corr [2] == 2 2
+
+comp83_t0 corr [2] == 2 2
+taut info: comp83_t0 c1(C)ccc(=O)[nH]c1C(=O)OC -111.0386 
+1> comp83_t0+_2-1 COC(=O)C1=C(C)[CH+]CC(=O)N1 2 138.34361 
+FINAL SUMMARY: comp83 comp_corr [2] == 2 2
+
+comp84_t0 corr [6] == 6 6
+taut info: comp84_t0 c1(=O)[nH]cc(-c2ncccn2)cc1 14.5292 
+1> comp84_t0+_2-3 O=C1C[CH+]C(C2=NC=CC=N2)=CN1 6 132.79924 
+FINAL SUMMARY: comp84 comp_corr [6] == 6 6
+
+comp85_t0 corr [2] == 2 2
+taut info: comp85_t0 n1ccc(-c2cnc(C)n2C(C)C)nc1N 32.11632 
+1> comp85_t0+_2-15 CC1=NC=C([C+]2CC=NC(N)=N2)N1C(C)C 2 129.00822 
+FINAL SUMMARY: comp85 comp_corr [2] == 2 2
+
+comp86_t0 corr [12] == 12 12
+taut info: comp86_t0 c1c(C#N)cn2c(c1)ncc2-c1nccc(NCC(C)(C)C)n1 91.90324 
+1> comp86_t0+_4-1 CC(C)(C)CNC1=NC(C2=CN=C3C=CC(C#N)=CN23)=N[CH+]C1 12 131.39325000000002 
+FINAL SUMMARY: comp86 comp_corr [12] == 12 12
+
+comp87_t0 corr [4] == 4 4
+taut info: comp87_t0 n1c(C(C)C)nc(N2CCCCC2)cc1 1.07807 
+1> comp87_t0+_1-6 CC(C)C1=N[CH+]CC(N2CCCCC2)=N1 4 133.87739 
+FINAL SUMMARY: comp87 comp_corr [4] == 4 4
+
+comp88_t0 corr [2] == 2 2
+taut info: comp88_t0 n1cccnc1 34.00408 
+1> comp88_t0+_1-0 C1=NC=N[CH+]C1 2 159.74318 
+FINAL SUMMARY: comp88 comp_corr [2] == 2 2
+
+comp89_t0 corr [2] == 2 2
+taut info: comp89_t0 n1ccc(N)nc1 27.28722 
+1> comp89_t0+_2-1 N[C+]1CC=NC=N1 2 132.69342 
+FINAL SUMMARY: comp89 comp_corr [2] == 2 2
+
+comp90_t0 corr [2] == 2 2
+taut info: comp90_t0 n1c(N2CCOCC2)cc(NC)nc1 -15.05387 
+1> comp90_t0+_1-4 CN[C+]1CC(N2CCOCC2)=NC=N1 2 127.15678 
+FINAL SUMMARY: comp90 comp_corr [2] == 2 2
+
+comp91_t0 corr [5] == 5 5
+taut info: comp91_t0 c1(N)nc(N)ncc1 20.51931 
+1> comp91_t0+_2-0 NC1=NC(N)=N[CH+]C1 5 120.88654999999999 
+FINAL SUMMARY: comp91 comp_corr [5] == 5 5
+
+comp92_t0 corr [4] == 4 4
+taut info: comp92_t0 n1cnc(N(C)C)cc1 27.62833 
+1> comp92_t0+_1-1 CN(C)C1=NC=N[CH+]C1 4 134.78995 
+FINAL SUMMARY: comp92 comp_corr [4] == 4 4
+
+comp93_t0 corr [2] == 2 2
+taut info: comp93_t0 n1ccc(-c2[nH]c(-c3ccccc3)c(C(=O)OCC)c2)nc1N -16.79229 
+1> comp93_t0+_6-8 CCOC(=O)C1=C(C2=CC=CC=C2)NC([C+]2CC=NC(N)=N2)=C1 2 128.54712 
+FINAL SUMMARY: comp93 comp_corr [2] == 2 2
+
+comp94_t0 corr [2] == 2 2
+taut info: comp94_t0 n1ccc(-c2[nH]c(-c3ccccc3)c(C(=O)N)c2)nc1N 29.48692 
+1> comp94_t0+_6-5 NC(=O)C1=C(C2=CC=CC=C2)NC([C+]2CC=NC(N)=N2)=C1 2 128.00863 
+FINAL SUMMARY: comp94 comp_corr [2] == 2 2
+
+comp96_t0 corr [2] == 2 2
+taut info: comp96_t0 n1ccc(-c2cn(C)c3c2cccc3)nc1N 65.32537 
+1> comp96_t0+_6-0 CN1C=C([C+]2CC=NC(N)=N2)C2=C1C=CC=C2 2 124.31533 
+FINAL SUMMARY: comp96 comp_corr [2] == 2 2
+
+comp97_t0 corr [5] == 5 5
+taut info: comp97_t0 c1(C)nc(N)ncc1 17.68875 
+1> comp97_t0+_2-1 CC1=NC(N)=N[CH+]C1 5 129.14465 
+FINAL SUMMARY: comp97 comp_corr [5] == 5 5
+
+comp98_t0 corr [2] == 2 2
+taut info: comp98_t0 n1ccc(Nc2c(C)cc(/C=C/C#N)cc2C)nc1Nc1ccc(C#N)cc1 146.51068 
+1> comp98_t0+_4-0 CC1=CC(/C=C/C#N)=CC(C)=C1N[C+]1CC=NC(NC2=CC=C(C#N)C=C2)=N1 2 126.706043 
+FINAL SUMMARY: comp98 comp_corr [2] == 2 2
+
+comp99_t0 corr [2] == 2 2
+taut info: comp99_t0 [nH]1cccnc1=O -17.13545 
+1> comp99_t0+_2-0 O=C1N=CC[CH+]N1 2 137.61017 
+FINAL SUMMARY: comp99 comp_corr [2] == 2 2
+
+comp100_t0 corr [5] == 5 5
+taut info: comp100_t0 [nH]1c(=O)nc(C(F)(F)F)cc1 -171.8505 
+1> comp100_t0+_1-0 O=C1N=C(C(F)(F)F)C[CH+]N1 5 144.31186000000002 
+FINAL SUMMARY: comp100 comp_corr [5] == 5 5
+
+comp101_t0 corr [0] == 0 0
+taut info: comp101_t0 c1cnc(Nc2cccc(Br)c2)[nH]c1=O 15.35398 
+1> comp101_t0+_1-3 O=C1C[CH+]N=C(NC2=CC=CC(Br)=C2)N1 0 123.10919999999999 
+FINAL SUMMARY: comp101 comp_corr [0] == 0 0
+
+comp102_t0 corr [3] == 3 3
+taut info: comp102_t0 [nH]1c(=O)ccnc1-c1c(OC)ccc(Cl)c1 -33.85993 
+1> comp102_t0+_1-8 COC1=C(C2=N[CH+]CC(=O)N2)C=C(Cl)C=C1 3 130.8808 
+FINAL SUMMARY: comp102 comp_corr [3] == 3 3
+
+comp103_t0 corr [3] == 3 3
+taut info: comp103_t0 n1c(=O)cc(C)[nH]c1 -22.77199 
+1> comp103_t0+_1-0 C[C+]1CC(=O)N=CN1 3 134.35220999999999 
+FINAL SUMMARY: comp103 comp_corr [3] == 3 3
+
+comp104_t0 corr [4] == 4 4
+taut info: comp104_t0 [nH]1cnc(N)cc1=O -24.23752 
+1> comp104_t0+_2-2 N[C+]1CC(=O)NC=N1 4 119.40666 
+FINAL SUMMARY: comp104 comp_corr [4] == 4 4
+
+comp105_t0 corr [2] == 2 2
+taut info: comp105_t0 n1ccc(=O)[nH]c1 -17.63453 
+1> comp105_t0+_2-0 O=C1C[CH+]N=CN1 2 136.73471 
+FINAL SUMMARY: comp105 comp_corr [2] == 2 2
+
+comp106_t0 corr [4] == 4 4
+taut info: comp106_t0 N(c1nccc(=O)[nH]1)c1ccc(C(=O)O)cc1 -84.94084 
+1> comp106_t0+_2-0 O=C1C[CH+]N=C(NC2=CC=C(C(=O)O)C=C2)N1 4 123.77382 
+FINAL SUMMARY: comp106 comp_corr [4] == 4 4
+
+comp107_t0 corr [4] == 4,18 4,18
+taut info: comp107_t0 n1c(-c2cn(C(C)C)c(=O)cc2)c(-c2ccccc2)ncc1N 27.95959 
+1> comp107_t0+_5-15 CC(C)N1C=C(C2=NC(N)=CN=C2C2=CC=CC=C2)[CH+]CC1=O 18 134.00772 
+1> comp107_t0+_7-8 CC(C)N1C=C(C2=N[C+](N)CN=C2C2=CC=CC=C2)C=CC1=O 4 133.65656 
+FINAL SUMMARY: comp107 comp_corr [4] == 4,18 4,18
+
+comp108_t0 corr [0] == 0,2 0,2
+taut info: comp108_t0 c1ncc(N)nc1 30.36484 
+1> comp108_t0+_1-1 NC1=C[N+]CC=N1 0 132.69954 
+1> comp108_t0+_2-1 N[C+]1CN=CC=N1 2 133.56634000000003 
+FINAL SUMMARY: comp108 comp_corr [0] == 0,2 0,2
+
+comp109_t0 corr [2] == 2 2
+taut info: comp109_t0 n1c(NCC2N(CC(=O)OC(C)(C)C)CCC2)cnc(-c2cncc(C#N)c2)c1 -10.447459 
+1> comp109_t0+_1-10 CC(C)(C)OC(=O)CN1CCCC1CNC1=NC=C(C2=CN=CC(C#N)=C2)[N+]C1 2 133.330924 
+FINAL SUMMARY: comp109 comp_corr [2] == 2 2
+
+comp111_t0 corr [9] == 9 9
+taut info: comp111_t0 c1(Br)cn2c(c(Br)n1)ncc2 76.23991 
+1> comp111_t0+_2-0 BrC1=CN2C[CH+]N=C2C(Br)=N1 9 138.0645 
+FINAL SUMMARY: comp111 comp_corr [9] == 9 9
+
+comp112_t0 corr [9] == 9 9
+taut info: comp112_t0 c1c(C)n2c(c(Cl)n1)ncc2 42.86191 
+1> comp112_t0+_2-2 CC1=CN=C(Cl)C2=N[CH+]CN12 9 133.73529 
+FINAL SUMMARY: comp112 comp_corr [9] == 9 9
+
+comp113_t0 corr [11] == 11 11
+taut info: comp113_t0 c1(C)nc2n(c(CCC)n1)ncc2 57.15011 
+1> comp113_t0+_2-9 CCCC1=NC(C)=N[C+]2CC=NN12 11 130.31060000000002 
+FINAL SUMMARY: comp113 comp_corr [11] == 11 11
+
+comp114_t0 corr [0] == 0 0
+taut info: comp114_t0 c1c2nc(SC)nc(N(CC)CC)n2nc1 70.87766 
+1> comp114_t0+_1-14 CCN(CC)C1=NC(SC)=N[C+]2CC=NN12 0 122.10982 
+FINAL SUMMARY: comp114 comp_corr [0] == 0 0
+
+comp115_t0 corr [14] == 14 14
+taut info: comp115_t0 c1(C)nc2n(c(-c3ccccc3)c1)nc(-c1ccccc1)c2 118.197879 
+1> comp115_t0+_11-3 CC1=N[C+]2CC(C3=CC=CC=C3)=NN2C(C2=CC=CC=C2)=C1 14 124.60600099999999 
+FINAL SUMMARY: comp115 comp_corr [14] == 14 14
+
+comp116_t0 corr [18] == 18 18
+taut info: comp116_t0 c1nn2c(cc1-c1ncccc1C(F)(F)F)nnc2 -24.76972 
+1> comp116_t0+_6-0 FC(F)(F)C1=CC=CN=C1C1=CC2=N[N+]CN2N=C1 18 144.23579 
+FINAL SUMMARY: comp116 comp_corr [18] == 18 18
+
+comp117_t0 corr [6] == 6 6
+taut info: comp117_t0 n1c(C)nc(NC)n2c1ccn2 69.671 
+1> comp117_t0+_1-5 CNC1=NC(C)=N[C+]2CC=NN12 6 122.27843 
+FINAL SUMMARY: comp117 comp_corr [6] == 6 6
+
+comp119_t0 corr [8] == 8 8
+taut info: comp119_t0 c1c(F)ccc(-c2occ(-c3cnc(C(C)(C)O)cc3)n2)c1 -53.25537 
+1> comp119_t0+_7-9 CC(C)(O)C1=NC=C([C+]2COC(C3=CC=C(F)C=C3)=N2)C=C1 8 138.3521 
+FINAL SUMMARY: comp119 comp_corr [8] == 8 8
+
+comp122_t0 corr [10] == 10 10
+taut info: comp122_t0 c1ccc2c(c1)c(-c1cnco1)c[nH]2 34.41316 
+1> comp122_t0+_6-3 C1=CC=C2C(=C1)NC=C2[C+]1CN=CO1 10 124.74993 
+FINAL SUMMARY: comp122 comp_corr [10] == 10 10
+
+comp124_t0 corr [10] == 10 10,12
+taut info: comp124_t0 c1conc1CNc1c(C(=O)OCC)ncc(F)c1 -69.46077 
+1> comp124_t0+_3-3 CCOC(=O)C1=C(NCC2=NOC=C2)C=C(F)C[N+]1 10 141.14593 
+2> comp124_t0+_4-1 CCOC(=O)C1=C(NCC2=NOC=C2)C[C+](F)C=N1 12 144.00457999999998 
+FINAL SUMMARY: comp124 comp_corr [10] == 10 10,12
+
+comp125_t0 corr [2] == 2 2,4
+taut info: comp125_t0 n1(C)c(-c2cccnc2)cnc1 53.97582 
+1> comp125_t0+_3-2 CN1C=NC[C+]1C1=CC=CN=C1 2 135.97584 
+2> comp125_t0+_4-1 CN1C[N+]C=C1C1=CC=CN=C1 4 138.96148 
+FINAL SUMMARY: comp125 comp_corr [2] == 2 2,4
+
+comp126_t0 corr [2] == 2 2
+taut info: comp126_t0 n1(C)c(-c2ccc(OC)cc2)cnc1 9.44231 
+1> comp126_t0+_3-3 COC1=CC=C([C+]2CN=CN2C)C=C1 2 132.41158000000001 
+FINAL SUMMARY: comp126 comp_corr [2] == 2 2
+
+comp127_t0 corr [16] == 16 16
+taut info: comp127_t0 c1c(OC)ccc(-c2n(Cc3ccccc3)cnc2)c1 35.77079 
+1> comp127_t0+_10-11 COC1=CC=C([C+]2CN=CN2CC2=CC=CC=C2)C=C1 16 132.425865 
+FINAL SUMMARY: comp127 comp_corr [16] == 16 16
+
+comp128_t0 corr [3] == 3 1,3
+taut info: comp128_t0 c1(NC2COC2)cccnc1C(=O)OCC -81.1699 
+1> comp128_t0+_2-8 CCOC(=O)C1=NC[CH+]C=C1NC1COC1 3 140.25728 
+2> comp128_t0+_3-10 CCOC(=O)C1=NC=CC[C+]1NC1COC1 1 141.59954 
+FINAL SUMMARY: comp128 comp_corr [3] == 3 1,3
+
+comp129_t0 corr [0] == 0,2 0,2,4
+taut info: comp129_t0 c1ncc(N2CCOCC2)cc1 -13.53965 
+1> comp129_t0+_3-1 C1=CC(N2CCOCC2)=C[N+]C1 0 137.24836 
+1> comp129_t0+_4-0 C1=C[C+](N2CCOCC2)CN=C1 2 138.08871 
+2> comp129_t0+_1-0 C1=NC=C(N2CCOCC2)C[CH+]1 4 139.78013 
+FINAL SUMMARY: comp129 comp_corr [0] == 0,2 0,2,4
+
+comp130_t0 corr [0] == 0,4 0,4
+taut info: comp130_t0 c1ccc(O)cn1 -18.41298 
+1> comp130_t0+_1-1 OC1=C[CH+]CN=C1 0 149.19357 
+1> comp130_t0+_4-2 OC1=CC=C[N+]C1 4 150.04312000000002 
+FINAL SUMMARY: comp130 comp_corr [0] == 0,4 0,4
+
+comp131_t0 corr [4] == 4,6 4,6
+taut info: comp131_t0 c1cc(-c2cncc(N)n2)oc1 28.06873 
+1> comp131_t0+_4-2 NC1=N[C+](C2=CC=CO2)CN=C1 4 131.64957 
+1> comp131_t0+_5-3 NC1=NC(C2=CC=CO2)=C[N+]C1 6 132.18324 
+FINAL SUMMARY: comp131 comp_corr [4] == 4,6 4,6
+
+comp132_t0 corr [14] == 14 14
+taut info: comp132_t0 c1c(-c2c(-c3ccncc3)ncc(N)n2)occ1 61.9397 
+1> comp132_t0+_8-1 N[C+]1CN=C(C2=CC=NC=C2)C(C2=CC=CO2)=N1 14 134.69171 
+FINAL SUMMARY: comp132 comp_corr [14] == 14 14
+
+comp133_t0 corr [6] == 6 6
+taut info: comp133_t0 c1cc(-c2c(-c3ccncc3)ncc(N)n2)cnc1 93.01027 
+1> comp133_t0+_5-8 N[C+]1CN=C(C2=CC=NC=C2)C(C2=CN=CC=C2)=N1 6 136.42288000000002 
+FINAL SUMMARY: comp133 comp_corr [6] == 6 6
+
+comp134_t0 corr [10] == 10 10
+taut info: comp134_t0 c1c2c(ccc1)oc(-c1nccnc1N)n2 49.18683 
+1> comp134_t0+_3-2 NC1=N[CH+]CN=C1C1=NC2=CC=CC=C2O1 10 137.97888999999998 
+FINAL SUMMARY: comp134 comp_corr [10] == 10 10
+
+comp135_t0 corr [2] == 2 2
+taut info: comp135_t0 n1c(NCC2N(CC(=O)OC(C)(C)C)CCC2)cnc(-c2cncnc2)c1 -37.436522 
+1> comp135_t0+_1-15 CC(C)(C)OC(=O)CN1CCCC1CNC1=NC=C(C2=CN=CN=C2)[N+]C1 2 135.91735599999998 
+FINAL SUMMARY: comp135 comp_corr [2] == 2 2
+
+comp137_t0 semi [2, 0] == 2 0,2
+taut info: comp137_t0 c1ncc(-c2c(F)cc(F)cc2F)n1-c1ccc(Cl)cc1 -52.55721 
+1> comp137_t0+_4-3 FC1=CC(F)=C([C+]2CN=CN2C2=CC=C(Cl)C=C2)C(F)=C1 2 141.22062 
+2> comp137_t0+_3-4 FC1=CC(F)=C(C2=C[N+]CN2C2=CC=C(Cl)C=C2)C(F)=C1 0 143.57043 
+FINAL SUMMARY: comp137 comp_semi [2, 0] == 2 0,2
+
+comp141_t0 corr [2] == 2 2
+taut info: comp141_t0 o1c(-c2ccccc2)cc(-c2c(F)cc(F)cc2)n1 -2.79254 
+1> comp141_t0+_7-5 FC1=CC(F)=C(C2=NO[C+](C3=CC=CC=C3)C2)C=C1 2 138.76365 
+FINAL SUMMARY: comp141 comp_corr [2] == 2 2
+
+comp143_t0 corr [6] == 6 6
+taut info: comp143_t0 c1(C2CC2)c(CO[Si](C(C)(C)C)(C)C)cc2n(c1)cnn2 -39.873152 
+1> comp143_t0+_3-13 CC(C)(C)[Si](C)(C)OCC1=CC2=N[N+]CN2C=C1C1CC1 6 131.977042 
+FINAL SUMMARY: comp143 comp_corr [6] == 6 6
+
+comp147_t0 corr [2] == 2 2
+taut info: comp147_t0 n1nc[nH]c1-c1cnccn1 78.5708 
+1> comp147_t0+_1-2 C1=NC=C(C2=N[N+]CN2)N=C1 2 148.78001 
+FINAL SUMMARY: comp147 comp_corr [2] == 2 2
+
+comp149_t0 fail [2] == 15 11,15
+taut info: comp149_t0 n1nc[nH]c1-c1c(-c2ccc(Cl)cc2Cl)c(C#N)c(-c2ccnc(NC(=O)C)c2)s1 112.988236 
+1> comp149_t0+_4-3 CC(=O)N[C+]1CC(C2=C(C#N)C(C3=CC=C(Cl)C=C3Cl)=C(C3=NN=CN3)S2)=CC=N1 15 140.328888 
+2> comp149_t0+_2-4 CC(=O)NC1=C[C+](C2=C(C#N)C(C3=CC=C(Cl)C=C3Cl)=C(C3=NN=CN3)S2)CC=N1 11 142.494736 
+FINAL SUMMARY: comp149 comp_fail [2] == 15 11,15
+
+comp150_t0 corr [22] == 22 22
+taut info: comp150_t0 c1cn2c(c(C#N)c1N1CCC(c3ccccc3)CC1)nnc2 123.924815 
+1> comp150_t0+_8-5 N#CC1=C(N2CCC(C3=CC=CC=C3)CC2)C=CN2C[N+]N=C12 22 133.63927500000003 
+FINAL SUMMARY: comp150 comp_corr [22] == 22 22
+
+comp154_t0 semi [1, 0] == 1 0,1
+taut info: comp154_t0 c1cn(C)c(C)n1 14.75484 
+1> comp154_t0+_2-6 CC1=N[CH+]CN1C 1 133.16544 
+2> comp154_t0+_1-4 CC1=NC[CH+]N1C 0 134.96616 
+FINAL SUMMARY: comp154 comp_semi [1, 0] == 1 0,1
+
+comp155_t0 corr [1, 0] == 0,1 0,1
+taut info: comp155_t0 c1cn(C)c(Br)n1 35.11803 
+1> comp155_t0+_1-2 CN1[CH+]CN=C1Br 0 138.59814 
+1> comp155_t0+_2-0 CN1C[CH+]N=C1Br 1 138.64594 
+FINAL SUMMARY: comp155 comp_corr [1, 0] == 0,1 0,1
+
+comp156_t0 corr [1] == 1 1
+taut info: comp156_t0 c1cn(C)c(SC)n1 23.81289 
+1> comp156_t0+_2-4 CSC1=N[CH+]CN1C 1 133.35331 
+FINAL SUMMARY: comp156 comp_corr [1] == 1 1
+
+comp157_t0 corr [0] == 0,1 0,1
+taut info: comp157_t0 c1cn(C)c(C=O)n1 -12.43133 
+1> comp157_t0+_1-3 CN1[CH+]CN=C1C=O 0 140.63651000000002 
+1> comp157_t0+_2-1 CN1C[CH+]N=C1C=O 1 141.4805 
+FINAL SUMMARY: comp157 comp_corr [0] == 0,1 0,1
+
+comp158_t0 corr [1, 0] == 0,1 0,1
+taut info: comp158_t0 c1cn(Cc2ccccc2)cn1 50.99902 
+1> comp158_t0+_1-4 C1=CC=C(CN2C=NC[CH+]2)C=C1 0 136.18452 
+1> comp158_t0+_2-4 C1=CC=C(CN2C=N[CH+]C2)C=C1 1 136.10636 
+FINAL SUMMARY: comp158 comp_corr [1, 0] == 0,1 0,1
+
+comp159_t0 semi [1, 0] == 1 0,1
+taut info: comp159_t0 c1cn(C)c(C2CC2)n1 43.1423 
+1> comp159_t0+_2-3 CN1C[CH+]N=C1C1CC1 1 133.54807 
+2> comp159_t0+_1-3 CN1[CH+]CN=C1C1CC1 0 135.00385 
+FINAL SUMMARY: comp159 comp_semi [1, 0] == 1 0,1
+
+comp160_t0 corr [0] == 0 0
+taut info: comp160_t0 c1cn(C)c([N+]([O-])=O)n1 10.59665 
+1> comp160_t0+_1-1 CN1[CH+]CN=C1[N+](=O)[O-] 0 149.30624999999998 
+FINAL SUMMARY: comp160 comp_corr [0] == 0 0
+
+comp161_t0 corr [1] == 0,1 0,1
+taut info: comp161_t0 c1cn(C)c(C(=O)C)n1 -19.83345 
+1> comp161_t0+_1-6 CC(=O)C1=NC[CH+]N1C 0 141.51785999999998 
+1> comp161_t0+_2-5 CC(=O)C1=N[CH+]CN1C 1 141.1488 
+FINAL SUMMARY: comp161 comp_corr [1] == 0,1 0,1
+
+comp162_t0 corr [1] == 1 0,1
+taut info: comp162_t0 c1cn(CCOC)c(C)n1 -27.5198 
+1> comp162_t0+_2-2 COCCN1C[CH+]N=C1C 1 134.13631 
+2> comp162_t0+_1-7 COCCN1[CH+]CN=C1C 0 135.80433 
+FINAL SUMMARY: comp162 comp_corr [1] == 1 0,1
+
+comp163_t0 corr [0] == 0,1 0,1
+taut info: comp163_t0 c1cn(C(c2ccccc2)(c2ccccc2Cl)c2ccccc2)cn1 119.1681 
+1> comp163_t0+_1-6 ClC1=CC=CC=C1C(C1=CC=CC=C1)(C1=CC=CC=C1)N1C=NC[CH+]1 0 137.50552000000005 
+1> comp163_t0+_2-5 ClC1=CC=CC=C1C(C1=CC=CC=C1)(C1=CC=CC=C1)N1C=N[CH+]C1 1 136.55247000000003 
+FINAL SUMMARY: comp163 comp_corr [0] == 0,1 0,1
+
+comp164_t0 semi [0, 1] == 1 0,1
+taut info: comp164_t0 c1cn2c(n1)[C@@H](OCc1ccccc1)[C@@H](OCc1ccccc1)[C@H](OCc1ccccc1)[C@H]2OCc1ccccc1 -14.168089 
+1> comp164_t0+_2-18 C1=CC=C(CO[C@H]2[C@H](OCC3=CC=CC=C3)[C@H](OCC3=CC=CC=C3)C3=N[CH+]CN3[C@@H]2OCC2=CC=CC=C2)C=C1 1 134.574049 
+2> comp164_t0+_1-6 C1=CC=C(CO[C@H]2[C@H](OCC3=CC=CC=C3)[C@H](OCC3=CC=CC=C3)C3=NC[CH+]N3[C@@H]2OCC2=CC=CC=C2)C=C1 0 136.858067 
+FINAL SUMMARY: comp164 comp_semi [0, 1] == 1 0,1
+
+comp165_t0 corr [1] == 1 0,1
+taut info: comp165_t0 c1cn(C)c(-c2ccncc2)n1 54.94939 
+1> comp165_t0+_2-6 CN1C[CH+]N=C1C1=CC=NC=C1 1 136.4571 
+2> comp165_t0+_1-1 CN1[CH+]CN=C1C1=CC=NC=C1 0 137.76393000000002 
+FINAL SUMMARY: comp165 comp_corr [1] == 1 0,1
+
+comp166_t0 corr [1] == 1 1
+taut info: comp166_t0 c1cn(C)c(-c2ccc(OC)cc2)n1 9.98224 
+1> comp166_t0+_2-1 COC1=CC=C(C2=N[CH+]CN2C)C=C1 1 131.43925000000002 
+FINAL SUMMARY: comp166 comp_corr [1] == 1 1
+
+comp168_t0 fail [1, 0] == 1 1
+taut info: comp168_t0 c1cn(-c2ccc(OC)cc2)c(-c2ccccn2)n1 48.40184 
+1> comp168_t0+_2-9 COC1=CC=C(N2C[CH+]N=C2C2=CC=CC=N2)C=C1 1 133.67598 
+FINAL SUMMARY: comp168 comp_fail [1, 0] == 1 1
+
+comp169_t0 semi [1, 0] == 1 0,1
+taut info: comp169_t0 c1cn(-c2cc(=O)n(C)nc2)c(C)n1 30.31681 
+1> comp169_t0+_2-0 CC1=N[CH+]CN1C1=CC(=O)N(C)N=C1 1 139.75839 
+2> comp169_t0+_1-1 CC1=NC[CH+]N1C1=CC(=O)N(C)N=C1 0 142.58052 
+FINAL SUMMARY: comp169 comp_semi [1, 0] == 1 0,1
+
+comp170_t0 corr [15] == 15 15
+taut info: comp170_t0 c1cn(CCO[Si](C(C)(C)C)(C)C)c(C#Cc2ccn3c(c2)ncc3)n1 1.521871 
+1> comp170_t0+_6-14 CC(C)(C)[Si](C)(C)OCCN1C=CN=C1C#CC1=CC2=N[CH+]CN2C=C1 15 125.57158 
+FINAL SUMMARY: comp170 comp_corr [15] == 15 15
+
+comp171_t0 corr [0] == 0,1 0,1
+taut info: comp171_t0 c1cnc(-c2c(OCc3ccccc3)cc(OCc3ccccc3)c(Cl)c2)n1-c1cccc(C=O)c1 21.232951 
+1> comp171_t0+_1-8 O=CC1=CC(N2C[CH+]N=C2C2=CC(Cl)=C(OCC3=CC=CC=C3)C=C2OCC2=CC=CC=C2)=CC=C1 0 134.57228500000002 
+1> comp171_t0+_2-8 O=CC1=CC(N2[CH+]CN=C2C2=CC(Cl)=C(OCC3=CC=CC=C3)C=C2OCC2=CC=CC=C2)=CC=C1 1 135.557633 
+FINAL SUMMARY: comp171 comp_corr [0] == 0,1 0,1
+
+comp172_t0 corr [6] == 6 6
+taut info: comp172_t0 c1(-c2cc(NS(=O)(=O)c3ccc(F)cc3F)c(OC)nc2)ccc2n(c1)ccn2 -83.666723 
+1> comp172_t0+_3-1 COC1=C(NS(=O)(=O)C2=CC=C(F)C=C2F)C=C(C2=CN3C[CH+]N=C3C=C2)C=N1 6 125.72186300000001 
+FINAL SUMMARY: comp172 comp_corr [6] == 6 6
+
+comp173_t0 corr [1] == 1 1
+taut info: comp173_t0 c1cn2c(n1)N(c1cc(Cl)cc(Cl)c1)C(=O)[C@]2(Cc1ccc(-c2cncnc2)cc1)C 73.589715 
+1> comp173_t0+_2-11 C[C@@]1(CC2=CC=C(C3=CN=CN=C3)C=C2)C(=O)N(C2=CC(Cl)=CC(Cl)=C2)C2=N[CH+]CN21 1 133.19026300000002 
+FINAL SUMMARY: comp173 comp_corr [1] == 1 1
+
+comp174_t0 corr [16] == 16 16
+taut info: comp174_t0 n1c(N)c(C#N)c(N[C@H](c2c(-c3ccccn3)cn3c(c2)ncc3)C)nc1 139.96803 
+1> comp174_t0+_2-15 C[C@H](NC1=C(C#N)C(N)=NC=N1)C1=CC2=N[CH+]CN2C=C1C1=CC=CC=N1 16 127.92546600000003 
+FINAL SUMMARY: comp174 comp_corr [16] == 16 16
+
+comp175_t0 corr [18] == 18 18
+taut info: comp175_t0 n1c(-c2cnn(C)c2)cc2n(c1-c1cn(C(CC#N)C3CC3)nc1)ccn2 198.94754 
+1> comp175_t0+_1-4 CN1C=C(C2=CC3=N[CH+]CN3C(C3=CN(C(CC#N)C4CC4)N=C3)=N2)C=N1 18 124.54046999999997 
+FINAL SUMMARY: comp175 comp_corr [18] == 18 18
+
+comp176_t0 corr [6] == 6 6
+taut info: comp176_t0 c1(-c2sc(Cl)cc2)cc(NC(=O)C)c2n(c1)ccn2 35.02465 
+1> comp176_t0+_1-1 CC(=O)NC1=CC(C2=CC=C(Cl)S2)=CN2C[CH+]N=C12 6 125.4862 
+FINAL SUMMARY: comp176 comp_corr [6] == 6 6
+
+comp177_t0 corr [18] == 18 18
+taut info: comp177_t0 c1c(NC(=O)C)cc2n(c1-c1cccc3n1c([N+]([O-])=O)cn3)ccn2 47.75366 
+1> comp177_t0+_3-11 CC(=O)NC1=CC2=N[CH+]CN2C(C2=CC=CC3=NC=C([N+](=O)[O-])N23)=C1 18 124.12432000000001 
+FINAL SUMMARY: comp177 comp_corr [18] == 18 18
+
+comp178_t0 corr [6] == 6 6
+taut info: comp178_t0 c1(-c2cnc(OC)nc2)cc(C(F)(F)F)c2n(c1)ccn2 -110.52573 
+1> comp178_t0+_1-0 COC1=NC=C(C2=CN3C[CH+]N=C3C(C(F)(F)F)=C2)C=N1 6 132.97567 
+FINAL SUMMARY: comp178 comp_corr [6] == 6 6
+
+comp179_t0 corr [6] == 6 6
+taut info: comp179_t0 c1(-c2ccc(OC)nc2)cc(C(F)(F)F)c2n(c1)ccn2 -115.71836 
+1> comp179_t0+_1-0 COC1=CC=C(C2=CN3C[CH+]N=C3C(C(F)(F)F)=C2)C=N1 6 131.34282000000002 
+FINAL SUMMARY: comp179 comp_corr [6] == 6 6
+
+comp180_t0 corr [6] == 6 6
+taut info: comp180_t0 c1(-c2ccc(C(F)(F)F)[n+]([O-])c2)cc(C(F)(F)F)c2n(c1)ccn2 -236.79179 
+1> comp180_t0+_1-0 [O-][N+]1=CC(C2=CN3C[CH+]N=C3C(C(F)(F)F)=C2)=CC=C1C(F)(F)F 6 136.271 
+FINAL SUMMARY: comp180 comp_corr [6] == 6 6
+
+comp181_t0 corr [15] == 15 15
+taut info: comp181_t0 c1[nH]c(=O)c2n(c1-c1ccc(OC)cc1)ccn2 -10.83125 
+1> comp181_t0+_3-5 COC1=CC=C(C2=CNC(=O)C3=N[CH+]CN23)C=C1 15 136.87188 
+FINAL SUMMARY: comp181 comp_corr [15] == 15 15
+
+comp182_t0 corr [6] == 6 6
+taut info: comp182_t0 c1(-c2cccnc2N2CCOCC2)ccc2n(c1)ccn2 43.48101 
+1> comp182_t0+_3-4 C1=CN=C(N2CCOCC2)C(C2=CN3C[CH+]N=C3C=C2)=C1 6 126.66672 
+FINAL SUMMARY: comp182 comp_corr [6] == 6 6
+
+comp184_t0 corr [6] == 6 6
+taut info: comp184_t0 c1cc(OCc2ccccc2)c2n(c1)ccn2 41.2477 
+1> comp184_t0+_3-0 C1=CC=C(COC2=CC=CN3C[CH+]N=C23)C=C1 6 127.01504 
+FINAL SUMMARY: comp184 comp_corr [6] == 6 6
+
+comp186_t0 corr [10] == 10 10
+taut info: comp186_t0 n1c(Br)cn2c(c1SC)ncc2 68.89135 
+1> comp186_t0+_2-2 CSC1=NC(Br)=CN2C[CH+]N=C12 10 133.86705999999998 
+FINAL SUMMARY: comp186 comp_corr [10] == 10 10
+
+comp187_t0 corr [8] == 8 8
+taut info: comp187_t0 c1(-c2sccn2)ccn2c(c1)ncc2 93.45354 
+1> comp187_t0+_4-1 C1=CSC(C2=CC3=N[CH+]CN3C=C2)=N1 8 127.21032 
+FINAL SUMMARY: comp187 comp_corr [8] == 8 8
+
+comp188_t0 corr [8] == 8 8
+taut info: comp188_t0 c1(-c2ncccn2)ccn2c(c1)ncc2 88.65254 
+1> comp188_t0+_4-3 C1=CN=C(C2=CC3=N[CH+]CN3C=C2)N=C1 8 126.4175 
+FINAL SUMMARY: comp188 comp_corr [8] == 8 8
+
+comp189_t0 corr [8] == 8 8
+taut info: comp189_t0 c1(-c2ccsc2)ccn2c(c1)ncc2 81.68599 
+1> comp189_t0+_4-1 C1=CC(C2=CC3=N[CH+]CN3C=C2)=CS1 8 124.71931000000001 
+FINAL SUMMARY: comp189 comp_corr [8] == 8 8
+
+comp190_t0 corr [8] == 8 8
+taut info: comp190_t0 c1(-c2ncc(=O)[nH]c2)ccccc1 11.04303 
+1> comp190_t0+_6-0 O=C1C[N+]C(C2=CC=CC=C2)=CN1 8 138.84863 
+FINAL SUMMARY: comp190 comp_corr [8] == 8 8
+
+comp192_t0 corr [6] == 6 6
+taut info: comp192_t0 N1(c2ncc(C(=O)OC)nc2)CC(F)(F)C1 -134.18584 
+1> comp192_t0+_2-4 COC(=O)C1=CN=C(N2CC(F)(F)C2)C[N+]1 6 146.22737 
+FINAL SUMMARY: comp192 comp_corr [6] == 6 6
+
+comp193_t0 corr [0] == 0 0
+taut info: comp193_t0 c1nc(C(=O)OC)c(N)nc1 -50.69383 
+1> comp193_t0+_1-9 COC(=O)C1=C(N)N=CC[N+]1 0 135.52625 
+FINAL SUMMARY: comp193 comp_corr [0] == 0 0
+
+comp194_t0 corr [0] == 0 0
+taut info: comp194_t0 c1nc(C(=O)N[C@@H](C)c2cc(F)c(F)cc2)c(N)nc1 -76.43134 
+1> comp194_t0+_3-5 C[C@H](NC(=O)C1=C(N)N=CC[N+]1)C1=CC(F)=C(F)C=C1 0 133.49606 
+FINAL SUMMARY: comp194 comp_corr [0] == 0 0
+
+comp195_t0 semi [6] == 11,9 6,11,9
+taut info: comp195_t0 Nc1ncc(-c2ccc(O[Si](C)(C)C(C)(C)C)cc2)nc1 -72.04571 
+1> comp195_t0+_1-18 CC(C)(C)[Si](C)(C)OC1=CC=C(C2=CN=C(N)C=N2)[CH+]C1 11 131.36031 
+2> comp195_t0+_4-3 CC(C)(C)[Si](C)(C)OC1=CC=C(C2=CN=C(N)C[N+]2)C=C1 6 132.525909 
+FINAL SUMMARY: comp195 comp_semi [6] == 9,11 6,9,11
+
+comp196_t0 corr [6] == 6 6
+taut info: comp196_t0 Nc1ncc(-c2ccc(S(=O)(=O)C)cc2)nc1 -20.13909 
+1> comp196_t0+_4-1 CS(=O)(=O)C1=CC=C(C2=CN=C(N)C[N+]2)C=C1 6 135.9726 
+FINAL SUMMARY: comp196 comp_corr [6] == 6 6
+
+comp197_t0 corr [0] == 0 0
+taut info: comp197_t0 c1nc(C)c(=O)[nH]c1 -22.01087 
+1> comp197_t0+_1-2 CC1=NC[CH+]NC1=O 0 138.76586 
+FINAL SUMMARY: comp197 comp_corr [0] == 0 0
+
+comp198_t0 corr [13] == 13 13
+taut info: comp198_t0 c1ncc2c(c1)oc(-c1c(N)nccn1)n2 56.04406 
+1> comp198_t0+_5-3 NC1=C(C2=NC3=CN=CC=C3O2)[N+]CC=N1 13 136.52430999999999 
+FINAL SUMMARY: comp198 comp_corr [13] == 13 13
+
+comp199_t0 corr [1] == 1 1
+taut info: comp199_t0 c1cnc(Oc2ccc(OC)cc2)c(N2CCN(C(=O)OC(C)(C)C)CC2)n1 -103.17773 
+1> comp199_t0+_2-0 COC1=CC=C(OC2=NC[CH+]N=C2N2CCN(C(=O)OC(C)(C)C)CC2)C=C1 1 140.89024 
+FINAL SUMMARY: comp199 comp_corr [1] == 1 1
+
+comp200_t0 corr [6] == 6 6
+taut info: comp200_t0 Nc1ncc(-c2ccc(OC)cc2)nc1 15.73055 
+1> comp200_t0+_4-0 COC1=CC=C(C2=CN=C(N)C[N+]2)C=C1 6 133.68257 
+FINAL SUMMARY: comp200 comp_corr [6] == 6 6
+
+comp201_t0 corr [2] == 2 2
+taut info: comp201_t0 n1c(NCC2N(C(=O)OC(C)(C)C)CCC2)cnc(-c2cncnc2)c1 -39.058051 
+1> comp201_t0+_1-6 CC(C)(C)OC(=O)N1CCCC1CNC1=NC=C(C2=CN=CN=C2)[N+]C1 2 137.22752 
+FINAL SUMMARY: comp201 comp_corr [2] == 2 2
+
+comp202_t0 corr [2] == 0,2 0,2
+taut info: comp202_t0 c1ncc(-c2cccnc2)nc1N 60.98065 
+1> comp202_t0+_3-0 NC1=NC(C2=CC=CN=C2)=C[N+]C1 0 132.81067000000002 
+1> comp202_t0+_4-0 NC1=N[C+](C2=CC=CN=C2)CN=C1 2 133.51415 
+FINAL SUMMARY: comp202 comp_corr [2] == 0,2 0,2
+
+comp203_t0 corr [1] == 1 1,3
+taut info: comp203_t0 c1(OC)cncc(N2C[C@@H](C)N(C(=O)OC(C)(C)C)CC2)n1 -108.11274 
+1> comp203_t0+_1-8 CO[C+]1CN=CC(N2CCN(C(=O)OC(C)(C)C)[C@H](C)C2)=N1 1 133.989716 
+2> comp203_t0+_2-4 COC1=C[N+]CC(N2CCN(C(=O)OC(C)(C)C)[C@H](C)C2)=N1 3 135.800492 
+FINAL SUMMARY: comp203 comp_corr [1] == 1 1,3
+
+comp204_t0 corr [0] == 0 0
+taut info: comp204_t0 c1nc(Cc2ccccc2)c(=O)[nH]c1 6.92006 
+1> comp204_t0+_1-1 O=C1N[CH+]CN=C1CC1=CC=CC=C1 0 138.43202 
+FINAL SUMMARY: comp204 comp_corr [0] == 0 0
+
+comp205_t0 corr [11] == 11 11
+taut info: comp205_t0 O=C(C)c1ccc(-c2ncc([N-][n+]3ccccc3)nc2)cc1 79.8319 
+1> comp205_t0+_9-15 CC(=O)C1=CC=C(C2=NC[C+]([N-][N+]3=CC=CC=C3)N=C2)C=C1 11 129.31430899999998 
+FINAL SUMMARY: comp205 comp_corr [11] == 11 11
+
+comp206_t0 corr [0] == 0 0
+taut info: comp206_t0 c1cnc(N)c(-c2nncn2-c2cccc(F)c2F)n1 24.08222 
+1> comp206_t0+_1-6 NC1=N[CH+]CN=C1C1=NN=CN1C1=CC=CC(F)=C1F 0 133.96483 
+FINAL SUMMARY: comp206 comp_corr [0] == 0 0
+
+comp207_t0 corr [12] == 12 12
+taut info: comp207_t0 c1cc(C(C)C)cc(-c2cnc(N)cn2)c1OC 2.70283 
+1> comp207_t0+_5-4 COC1=C(C2=CN=C(N)C[N+]2)C=C(C(C)C)C=C1 12 132.35878 
+FINAL SUMMARY: comp207 comp_corr [12] == 12 12
+
+comp209_t0 corr [10] == 10 10
+taut info: comp209_t0 COc1ccc(-c2ncc([N-][n+]3ccccc3)nc2)cc1 84.47032 
+1> comp209_t0+_9-10 COC1=CC=C(C2=NC[C+]([N-][N+]3=CC=CC=C3)N=C2)C=C1 10 128.43842 
+FINAL SUMMARY: comp209 comp_corr [10] == 10 10
+
+comp211_t0 corr [2, 0] == 0,2 0,2
+taut info: comp211_t0 c1ncc(OC)nc1N -9.67877 
+1> comp211_t0+_1-3 COC1=C[N+]CC(N)=N1 0 128.74859 
+1> comp211_t0+_2-5 CO[C+]1CN=CC(N)=N1 2 127.79255 
+FINAL SUMMARY: comp211 comp_corr [2, 0] == 0,2 0,2
+
+comp212_t0 corr [2, 0] == 0,2 0,2
+taut info: comp212_t0 c1ncc(Cl)nc1N 23.87845 
+1> comp212_t0+_1-0 NC1=NC(Cl)=C[N+]C1 0 134.17385000000002 
+1> comp212_t0+_2-0 NC1=N[C+](Cl)CN=C1 2 134.05171 
+FINAL SUMMARY: comp212 comp_corr [2, 0] == 0,2 0,2
+
+comp213_t0 corr [8] == 8 8
+taut info: comp213_t0 c1ccc(Nc2cc(=O)[nH]c(CCc3ccccc3)c2)cc1 16.02946 
+1> comp213_t0+_10-4 O=C1C[C+](NC2=CC=CC=C2)C=C(CCC2=CC=CC=C2)N1 8 120.49368999999999 
+FINAL SUMMARY: comp213 comp_corr [8] == 8 8
+
+comp214_t0 corr [8] == 8 8
+taut info: comp214_t0 c1ccc(Sc2cc(=O)[nH]c(CCc3ccccc3)c2)cc1 24.97066 
+1> comp214_t0+_10-14 O=C1C[C+](SC2=CC=CC=C2)C=C(CCC2=CC=CC=C2)N1 8 130.72813 
+FINAL SUMMARY: comp214 comp_corr [8] == 8 8
+
+comp215_t0 corr [10] == 10 8,10
+taut info: comp215_t0 C1(C)CN(c2cccc(C(=O)OC)n2)CC(C)O1 -106.46526 
+1> comp215_t0+_2-5 COC(=O)C1=NC(N2CC(C)OC(C)C2)=C[CH+]C1 10 136.902127 
+2> comp215_t0+_3-5 COC(=O)C1=N[C+](N2CC(C)OC(C)C2)CC=C1 8 139.004498 
+FINAL SUMMARY: comp215 comp_corr [10] == 10 8,10
+
+comp216_t0 semi [13, 8, 2, 0] == 0,2 0,8,2,13
+taut info: comp216_t0 c1c(N)cc(-n2cccn2)nc1-n1cccn1 127.27183 
+1> comp216_t0+_5-5 N[C+]1C=C(N2C=CC=N2)N=C(N2C=CC=N2)C1 0 132.42904000000001 
+2> comp216_t0+_2-6 NC1=CC(N2[CH+]CC=N2)=NC(N2C=CC=N2)=C1 8 133.8479 
+FINAL SUMMARY: comp216 comp_semi [13, 8, 2, 0] == 0,2 0,2,8,13
+
+comp217_t0 corr [15] == 13,15 13,15
+taut info: comp217_t0 c1cc(CNc2cccc(Cl)n2)cnc1C(F)(F)F -111.15073 
+1> comp217_t0+_4-9 FC(F)(F)C1=NC=C(CNC2=C[CH+]CC(Cl)=N2)C=C1 15 135.41362999999998 
+1> comp217_t0+_6-1 FC(F)(F)C1=NC=C(CN[C+]2CC=CC(Cl)=N2)C=C1 13 135.542 
+FINAL SUMMARY: comp217 comp_corr [15] == 13,15 13,15
+
+comp218_t0 corr [0] == 0 0
+taut info: comp218_t0 c1cnc(N2C[C@@H](C)N(C(=O)OC(C)(C)C)CC2)cc1OC -116.12983 
+1> comp218_t0+_1-2 COC1=CC(N2CCN(C(=O)OC(C)(C)C)[C@H](C)C2)=N[CH+]C1 0 129.689448 
+FINAL SUMMARY: comp218 comp_corr [0] == 0 0
+
+comp219_t0 semi [0, 2] == 0 0,2
+taut info: comp219_t0 c1ccc(N2CCN(C(=O)OC(C)(C)C)CC2)nc1OC -112.44761 
+1> comp219_t0+_1-6 COC1=NC(N2CCN(C(=O)OC(C)(C)C)CC2)=C[CH+]C1 0 127.97890699999999 
+2> comp219_t0+_3-2 COC1=N[C+](N2CCN(C(=O)OC(C)(C)C)CC2)CC=C1 2 129.983962 
+FINAL SUMMARY: comp219 comp_semi [0, 2] == 0 0,2
+
+comp220_t0 semi [3, 1] == 3 1,3
+taut info: comp220_t0 c1(N)cc(N)ccn1 17.73719 
+1> comp220_t0+_2-4 NC1=C[C+](N)CC=N1 3 122.77966 
+2> comp220_t0+_1-4 NC1=CC=N[C+](N)C1 1 124.88553999999999 
+FINAL SUMMARY: comp220 comp_semi [3, 1] == 3 1,3
+
+comp221_t0 corr [4] == 4 2,4
+taut info: comp221_t0 n1c(N)cc(Oc2c(C)nccc2)cc1 16.25117 
+1> comp221_t0+_1-7 CC1=C(OC2=CC(N)=N[CH+]C2)C=CC=N1 4 127.22425999999999 
+2> comp221_t0+_5-2 CC1=C(O[C+]2C=CN=C(N)C2)C=CC=N1 2 129.413 
+FINAL SUMMARY: comp221 comp_corr [4] == 4 2,4
+
+comp223_t0 corr [0] == 0,2 0,2
+taut info: comp223_t0 c1c(N)cc(OC)nc1 -17.57472 
+1> comp223_t0+_1-9 COC1=C[C+](N)CC=N1 0 129.11866 
+1> comp223_t0+_2-1 CO[C+]1CC(N)=CC=N1 2 128.96023 
+FINAL SUMMARY: comp223 comp_corr [0] == 0,2 0,2
+
+comp224_t0 corr [0] == 0 0,2
+taut info: comp224_t0 c1c(C#N)cc(N)nc1 56.94883 
+1> comp224_t0+_1-1 N#C[C+]1C=C(N)N=CC1 0 132.76886000000002 
+2> comp224_t0+_2-1 N#CC1=CC=N[C+](N)C1 2 134.07236999999998 
+FINAL SUMMARY: comp224 comp_corr [0] == 0 0,2
+
+comp225_t0 corr [2] == 2 0,2
+taut info: comp225_t0 c1c(C)ccnc1N[N+]([O-])=O 21.4618 
+1> comp225_t0+_1-2 CC1=CC(N[N+](=O)[O-])=N[CH+]C1 2 144.76075 
+2> comp225_t0+_3-0 C[C+]1C=CN=C(N[N+](=O)[O-])C1 0 146.47093999999998 
+FINAL SUMMARY: comp225 comp_corr [2] == 2 0,2
+
+comp226_t0 semi [3, 1] == 3 1,3
+taut info: comp226_t0 c1cccc(=O)[nH]1 -21.67104 
+1> comp226_t0+_4-0 O=C1C[CH+]C=CN1 3 131.40961 
+2> comp226_t0+_2-0 O=C1C=CC[CH+]N1 1 133.56441999999998 
+FINAL SUMMARY: comp226 comp_semi [3, 1] == 3 1,3
+
+comp227_t0 corr [3] == 3 1,3
+taut info: comp227_t0 c1(N)cccc(=O)[nH]1 -25.52892 
+1> comp227_t0+_2-1 NC1=C[CH+]CC(=O)N1 3 117.72494999999999 
+2> comp227_t0+_3-0 N[C+]1CC=CC(=O)N1 1 120.46364 
+FINAL SUMMARY: comp227 comp_corr [3] == 3 1,3
+
+comp228_t0 corr [1] == 1 1,3
+taut info: comp228_t0 c1cc(CCO)cc(OC)n1 -69.11457 
+1> comp228_t0+_2-5 COC1=N[CH+]CC(CCO)=C1 1 143.12650000000002 
+2> comp228_t0+_3-5 COC1=NC=C[C+](CCO)C1 3 144.48131 
+FINAL SUMMARY: comp228 comp_corr [1] == 1 1,3
+
+comp229_t0 corr [0] == 0 0,2
+taut info: comp229_t0 c1ccc(N(Cc2ccccc2)C(F)(F)F)nc1 -103.81156 
+1> comp229_t0+_1-4 FC(F)(F)N(CC1=CC=CC=C1)C1=C[CH+]CC=N1 0 146.22202 
+2> comp229_t0+_7-7 FC(F)(F)N(CC1=CC=CC=C1)[C+]1CC=CC=N1 2 149.00748 
+FINAL SUMMARY: comp229 comp_corr [0] == 0 0,2
+
+comp230_t0 corr [3] == 3 3
+taut info: comp230_t0 c1cc(N)cc(=O)[nH]1 -27.02552 
+1> comp230_t0+_3-0 N[C+]1C=CNC(=O)C1 3 118.91342 
+FINAL SUMMARY: comp230 comp_corr [3] == 3 3
+
+comp233_t0 corr [10] == 10 10
+taut info: comp233_t0 c1c(F)ccc(COc2cc(=O)[nH]c(C)c2)c1F -129.57847 
+1> comp233_t0+_4-4 CC1=C[C+](OCC2=C(F)C=C(F)C=C2)CC(=O)N1 10 127.01068000000001 
+FINAL SUMMARY: comp233 comp_corr [10] == 10 10
+
+comp234_t0 corr [9] == 9 9
+taut info: comp234_t0 c1c(OC)ccc(CSc2ccnc(N)c2)c1 10.43344 
+1> comp234_t0+_5-8 COC1=CC=C(CS[C+]2C=C(N)N=CC2)C=C1 9 129.24707 
+FINAL SUMMARY: comp234 comp_corr [9] == 9 9
+
+comp235_t0 semi [2, 0] == 2 0,2
+taut info: comp235_t0 c1ccc(OC)nc1N -17.86459 
+1> comp235_t0+_3-0 CO[C+]1CC=CC(N)=N1 2 123.97882000000001 
+2> comp235_t0+_1-0 COC1=C[CH+]CC(N)=N1 0 125.15689 
+FINAL SUMMARY: comp235 comp_semi [2, 0] == 2 0,2
+
+comp236_t0 corr [0, 2] == 0,2 0,2
+taut info: comp236_t0 c1ccc(OC)nc1OC -52.66621 
+1> comp236_t0+_1-1 COC1=C[CH+]CC(OC)=N1 0 136.27519 
+FINAL SUMMARY: comp236 comp_corr [0, 2] == 0,2 0,2
+
+comp237_t0 corr [13, 11] == 11,13 11,13
+taut info: comp237_t0 c1ccc(-c2cccc(OC)n2)cc1C(F)(F)F -146.41613 
+1> comp237_t0+_4-1 COC1=NC(C2=CC=CC(C(F)(F)F)=C2)=C[CH+]C1 13 143.39601000000002 
+1> comp237_t0+_7-2 COC1=N[C+](C2=CC=CC(C(F)(F)F)=C2)CC=C1 11 144.0413 
+FINAL SUMMARY: comp237 comp_corr [13, 11] == 11,13 11,13
+
+comp238_t0 corr [7, 5] == 5,7 5,7
+taut info: comp238_t0 [n+]1([N-]c2ncccc2)ccccc1 92.18402 
+1> comp238_t0+_2-1 C1=CC=[N+]([N-]C2=N[CH+]CC=C2)C=C1 5 123.42126999999999 
+1> comp238_t0+_4-1 C1=CC=[N+]([N-]C2=NC=C[CH+]C2)C=C1 7 123.7268 
+FINAL SUMMARY: comp238 comp_corr [7, 5] == 5,7 5,7
+
+comp239_t0 corr [5] == 5 1,5
+taut info: comp239_t0 c1cc(N)c(OC)nc1 -14.1817 
+1> comp239_t0+_3-0 COC1=C(N)C=CC[N+]1 5 132.67739 
+2> comp239_t0+_2-8 COC1=C(N)C[CH+]C=N1 1 134.30132 
+FINAL SUMMARY: comp239 comp_corr [5] == 5 1,5
+
+comp241_t0 corr [5] == 5 5
+taut info: comp241_t0 c1(N)ccc(NC(=O)OC(C)(C)C)nc1 -77.12563 
+1> comp241_t0+_3-6 CC(C)(C)OC(=O)NC1=CC=C(N)C[N+]1 5 132.86693 
+FINAL SUMMARY: comp241 comp_corr [5] == 5 5
+
+comp242_t0 corr [5] == 5 1,5
+taut info: comp242_t0 c1cc(N)c(C(=O)N(C)OC)nc1 -17.36901 
+1> comp242_t0+_3-1 CON(C)C(=O)C1=C(N)C=CC[N+]1 5 136.87362 
+2> comp242_t0+_2-6 CON(C)C(=O)C1=C(N)C[CH+]C=N1 1 138.62929 
+FINAL SUMMARY: comp242 comp_corr [5] == 5 1,5
+
+comp243_t0 corr [5] == 5 5
+taut info: comp243_t0 c1(N)ccc(OC(C(F)(F)F)C(F)(F)F)nc1 -326.72065 
+1> comp243_t0+_3-2 NC1=CC=C(OC(C(F)(F)F)C(F)(F)F)[N+]C1 5 136.33267999999998 
+FINAL SUMMARY: comp243 comp_corr [5] == 5 5
+
+comp244_t0 corr [5] == 5 5
+taut info: comp244_t0 c1(O)c(C(=O)OCC)cc(-c2cccnc2)nc1 -77.00586 
+1> comp244_t0+_4-1 CCOC(=O)C1=C(O)C[N+]C(C2=CC=CN=C2)=C1 5 152.55392 
+FINAL SUMMARY: comp244 comp_corr [5] == 5 5
+
+comp245_t0 fail [5] == 9 9
+taut info: comp245_t0 c1(O)c(C(=O)OCC)cc(-c2ccco2)nc1 -109.57645 
+1> comp245_t0+_2-1 CCOC(=O)C1=C(O)C=NC(C2=C[CH+]CO2)=C1 9 133.9315 
+FINAL SUMMARY: comp245 comp_fail [5] == 9 9
+
+comp246_t0 fail [5] == 9 7,9
+taut info: comp246_t0 c1(O)c(C(=O)OCC)cc(-c2cccs2)nc1 -73.30893 
+1> comp246_t0+_2-6 CCOC(=O)C1=C(O)C=NC(C2=C[CH+]CS2)=C1 9 140.59977 
+2> comp246_t0+_5-0 CCOC(=O)C1=C(O)C=NC([C+]2CC=CS2)=C1 7 142.08769999999998 
+FINAL SUMMARY: comp246 comp_fail [5] == 9 7,9
+
+comp247_t0 corr [5] == 5 5
+taut info: comp247_t0 c1(N)ccc(OC)nc1 -15.66033 
+1> comp247_t0+_3-5 COC1=CC=C(N)C[N+]1 5 132.36905 
+FINAL SUMMARY: comp247 comp_corr [5] == 5 5
+
+comp248_t0 corr [10] == 10 10
+taut info: comp248_t0 n1nccc(Oc2cccnc2N)c1C 43.93629 
+1> comp248_t0+_3-5 CC1=C(OC2=CC[CH+]N=C2N)C=CN=N1 10 130.93986 
+FINAL SUMMARY: comp248 comp_corr [10] == 10 10
+
+comp249_t0 corr [5] == 5 5
+taut info: comp249_t0 c1(-c2cnc([Si](C(C)C)(C(C)C)C(C)C)o2)nc(N)c([N+]([O-])=O)cc1 -77.859527 
+1> comp249_t0+_2-6 CC(C)[Si](C1=NC=C(C2=NC(N)=C([N+](=O)[O-])[CH+]C2)O1)(C(C)C)C(C)C 5 134.979937 
+FINAL SUMMARY: comp249 comp_corr [5] == 5 5
+
+comp250_t0 corr [5] == 5 5
+taut info: comp250_t0 c1(-c2ccncc2Cl)nc(N)c([N+]([O-])=O)cc1 35.23587 
+1> comp250_t0+_2-8 NC1=C([N+](=O)[O-])[CH+]CC(C2=CC=NC=C2Cl)=N1 5 137.97212 
+FINAL SUMMARY: comp250 comp_corr [5] == 5 5
+
+comp251_t0 fail [25] == 6,4,12,18 6,4,12,18
+taut info: comp251_t0 COc1ccc(CN(Cc2ccc(OC)cc2)c2c([N+]([O-])=O)ccnc2-c2ncco2)cc1 1.084294 
+1> comp251_t0+_2-11 COC1=CC=C(CN(CC2=CC=C(OC)[CH+]C2)C2=C([N+](=O)[O-])C=CN=C2C2=NC=CO2)C=C1 6 124.568947 
+FINAL SUMMARY: comp251 comp_fail [25] == 4,6,12,18 4,6,12,18
+
+comp252_t0 corr [1, 5] == 1,5 1,5
+taut info: comp252_t0 c1(N)ccc(C(F)(F)F)nc1 -134.92447 
+1> comp252_t0+_1-0 N[C+]1C=NC(C(F)(F)F)=CC1 1 138.37284000000002 
+1> comp252_t0+_3-1 NC1=CC=C(C(F)(F)F)[N+]C1 5 139.17030000000003 
+FINAL SUMMARY: comp252 comp_corr [1, 5] == 1,5 1,5
+
+comp253_t0 corr [0] == 0 0
+taut info: comp253_t0 c1cc(OCC)c(OC)nc1 -54.15415 
+1> comp253_t0+_1-1 CCOC1=C(OC)N=CC[CH+]1 0 144.73693 
+FINAL SUMMARY: comp253 comp_corr [0] == 0 0
+
+comp254_t0 fail [10] == 13 13
+taut info: comp254_t0 C1CN(C(=O)OC(C)(C)C)CCCN(c2ncc(OC=C)cc2)C1 -89.7915 
+1> comp254_t0+_2-5 C=COC1=CN=C(N2CCCN(C(=O)OC(C)(C)C)CCC2)C[CH+]1 13 132.052508 
+FINAL SUMMARY: comp254 comp_fail [10] == 13 13
+
+comp255_t0 corr [2, 4] == 2,4 0,2,4
+taut info: comp255_t0 c1ccncc1N 24.12102 
+1> comp255_t0+_3-3 NC1=C[N+]CC=C1 2 132.83933000000002 
+1> comp255_t0+_4-1 N[C+]1C=CC=NC1 4 133.06995 
+2> comp255_t0+_1-2 NC1=CN=C[CH+]C1 0 134.8207 
+FINAL SUMMARY: comp255 comp_corr [2, 4] == 2,4 0,2,4
+
+comp256_t0 corr [2] == 2 2
+taut info: comp256_t0 n1cccc(OC(C)c2cc(F)cc3c2nccc3)c1N -8.810947 
+1> comp256_t0+_1-14 CC(OC1=C(N)N=CC[CH+]1)C1=CC(F)=CC2=C1N=CC=C2 2 128.44461800000002 
+FINAL SUMMARY: comp256 comp_corr [2] == 2 2
+
+comp257_t0 corr [2] == 2 2
+taut info: comp257_t0 n1cccc(OC(C)c2cc(F)ccc2-n2nccc2)c1N 22.581623 
+1> comp257_t0+_1-17 CC(OC1=C(N)N=CC[CH+]1)C1=CC(F)=CC=C1N1C=CC=N1 2 131.272744 
+FINAL SUMMARY: comp257 comp_corr [2] == 2 2
+
+comp258_t0 corr [2] == 2 2
+taut info: comp258_t0 n1cccc(O[C@H](C)c2cc(F)ccc2-n2nccn2)c1N 45.756254 
+1> comp258_t0+_1-4 C[C@@H](OC1=C(N)N=CC[CH+]1)C1=CC(F)=CC=C1N1N=CC=N1 2 129.29465599999997 
+FINAL SUMMARY: comp258 comp_corr [2] == 2 2
+
+comp259_t0 corr [2] == 2 2
+taut info: comp259_t0 n1cccc(OC(C)c2cc(F)cc3c2ncs3)c1N -2.601 
+1> comp259_t0+_1-4 CC(OC1=C(N)N=CC[CH+]1)C1=CC(F)=CC2=C1N=CS2 2 128.94504 
+FINAL SUMMARY: comp259 comp_corr [2] == 2 2
+
+comp260_t0 corr [0] == 0 0
+taut info: comp260_t0 c1cnc2c(c1O)nc(OC)cc2 -36.17529 
+1> comp260_t0+_1-2 COC1=NC2=C(O)C[CH+]N=C2C=C1 0 143.08411999999998 
+FINAL SUMMARY: comp260 comp_corr [0] == 0 0
+
+comp261_t0 corr [0] == 0 0
+taut info: comp261_t0 c1cnc2c(c1)oc(=O)[nH]2 -41.9769 
+1> comp261_t0+_1-0 O=C1NC2=N[CH+]CC=C2O1 0 146.54149999999998 
+FINAL SUMMARY: comp261 comp_corr [0] == 0 0
+
+comp262_t0 corr [5] == 5,12,13,15,14,11 5,12,13,15,14,11
+taut info: comp262_t0 c1ncc2c(c1)nc(-c1ccccc1)cn2 84.08742 
+1> comp262_t0+_1-3 C1=CC(C2=NC3=CC=NC=C3N=C2)=CC[CH+]1 12 153.51297 
+1> comp262_t0+_2-0 C1=CC(C2=NC3=CC=NC=C3N=C2)=C[CH+]C1 13 152.62462 
+1> comp262_t0+_4-1 C1=C[CH+]CC(C2=NC3=CC=NC=C3N=C2)=C1 15 153.17825 
+1> comp262_t0+_7-3 C1=CC=C(C2=N[C+]3CC=NC=C3N=C2)C=C1 5 152.55885 
+FINAL SUMMARY: comp262 comp_corr [5] == 5,11,12,13,14,15 5,11,12,13,14,15
+
+comp263_t0 corr [6] == 6 6
+taut info: comp263_t0 c1[nH]c(=O)c2c(c1)ccc(C)n2 -11.07188 
+1> comp263_t0+_2-1 CC1=NC2=C(C=C1)C[CH+]NC2=O 6 131.40096 
+FINAL SUMMARY: comp263 comp_corr [6] == 6 6
+
+comp264_t0 corr [0] == 0 0
+taut info: comp264_t0 c1cnc2c(c1)oc(N1C3CCN(CC1)CC3)n2 20.56436 
+1> comp264_t0+_1-2 C1=NC2=C([CH+]C1)OC(N1CCN3CCC1CC3)=N2 0 138.86913 
+FINAL SUMMARY: comp264 comp_corr [0] == 0 0
+
+comp265_t0 fail [2] == 16 16
+taut info: comp265_t0 n1c(N)cc2c(c1N(C(=O)OC(C)(C)C)Cc1ccc(OC)cc1OC)ncn2C -102.92744 
+1> comp265_t0+_2-16 COC1=CC[C+](CN(C(=O)OC(C)(C)C)C2=C3N=CN(C)C3=CC(N)=N2)C(OC)=C1 16 112.08930600000001 
+FINAL SUMMARY: comp265 comp_fail [2] == 16 16
+
+comp266_t0 corr [2] == 0,2 0,2
+taut info: comp266_t0 c1ncc2c(c1N)cccc2 41.48253 
+1> comp266_t0+_5-1 NC1=C2C=CC=CC2=C[N+]C1 0 125.17543 
+1> comp266_t0+_6-1 NC1=C2C=CC=C[C+]2CN=C1 2 126.05995999999999 
+FINAL SUMMARY: comp266 comp_corr [2] == 0,2 0,2
+
+comp267_t0 corr [15] == 15 15
+taut info: comp267_t0 c1(-n2nnc3c2[nH]c(=O)cc3)ccccc1F 24.61119 
+1> comp267_t0+_3-1 O=C1C[CH+]C2=C(N1)N(C1=CC=CC=C1F)N=N2 15 137.49729 
+FINAL SUMMARY: comp267 comp_corr [15] == 15 15
+
+comp268_t0 corr [2] == 2 2
+taut info: comp268_t0 n1ccc2c(c1N)oc(-c1cccc3c1cnnc3)c2 85.14564 
+1> comp268_t0+_4-2 NC1=C2OC(C3=CC=CC4=C3C=NN=C4)=C[C+]2CC=N1 2 127.94577 
+FINAL SUMMARY: comp268 comp_corr [2] == 2 2
+
+comp269_t0 corr [2] == 2 2
+taut info: comp269_t0 n1ccc2c(c1N)oc(-c1cnc3n1ccnc3)c2 73.14156 
+1> comp269_t0+_4-6 NC1=C2OC(C3=CN=C4C=NC=CN34)=C[C+]2CC=N1 2 125.93677 
+FINAL SUMMARY: comp269 comp_corr [2] == 2 2
+
+comp270_t0 corr [2] == 2 2
+taut info: comp270_t0 n1ccc2c(c1N)occ2 12.64088 
+1> comp270_t0+_4-2 NC1=C2OC=C[C+]2CC=N1 2 125.49577000000001 
+FINAL SUMMARY: comp270 comp_corr [2] == 2 2
+
+comp271_t0 corr [2] == 2 2
+taut info: comp271_t0 n1ccc2c(c1N)oc(-c1csc3c1cnnc3)c2 89.78708 
+1> comp271_t0+_2-0 NC1=C2OC(C3=CSC4=C3C=NN=C4)=C[C+]2CC=N1 2 126.77497 
+FINAL SUMMARY: comp271 comp_corr [2] == 2 2
+
+comp272_t0 corr [2] == 2 2
+taut info: comp272_t0 n1ccc2c(c1N)oc(-c1csc3c1ccnc3)c2 65.42213 
+1> comp272_t0+_4-5 NC1=C2OC(C3=CSC4=C3C=CN=C4)=C[C+]2CC=N1 2 126.17087 
+FINAL SUMMARY: comp272 comp_corr [2] == 2 2
+
+comp273_t0 corr [2] == 2 2
+taut info: comp273_t0 n1ccc2c(c1N)oc(-c1cccc3c1scn3)c2 70.07818 
+1> comp273_t0+_4-1 NC1=C2OC(C3=CC=CC4=C3SC=N4)=C[C+]2CC=N1 2 125.89669 
+FINAL SUMMARY: comp273 comp_corr [2] == 2 2
+
+comp274_t0 corr [14, 2] == 0,2,4,12,16,14 0,1,2,4,12,16,3,13,15,14
+taut info: comp274_t0 c1ccccc1C12CC(c3ccccc3)(C1)C2 116.79152 
+1> comp274_t0+_1-6 C1=CC=C(C23CC(C4=CC=C[CH+]C4)(C2)C3)C=C1 0 148.80014 
+1> comp274_t0+_3-1 C1=CC=C(C23CC(C4=C[CH+]CC=C4)(C2)C3)C=C1 2 148.07449000000003 
+2> comp274_t0+_2-5 C1=CC=C(C23CC(C4=CC=CC[CH+]4)(C2)C3)C=C1 1 150.45776999999998 
+FINAL SUMMARY: comp274 comp_corr [14, 2] == 0,2,4,12,14,16 0,1,2,3,4,12,13,14,15,16
+
+comp275_t0 corr [6] == 6 6
+taut info: comp275_t0 n1c(Cl)nc2c(c1)ccn2C12CC(C1)C2 117.14918 
+1> comp275_t0+_1-1 ClC1=NC2=C(C=N1)C[CH+]N2C12CC(C1)C2 6 131.46434 
+FINAL SUMMARY: comp275 comp_corr [6] == 6 6
+
+comp276_t0 semi [17] == 23 17,23,36,37,38
+taut info: comp276_t0 c1cc(CO/N=C(/C(=O)OC)Cc2ccc(O)c(Oc3ccc(C/C(=N\OCc4ccccc4)C(=O)O)cc3Br)c2)ccc1 -120.386529 
+1> comp276_t0+_13-11 COC(=O)/C(CC1=CC=C(O)C(O[C+]2CC=C(C/C(=N\OCC3=CC=CC=C3)C(=O)O)C=C2Br)=C1)=N/OCC1=CC=CC=C1 23 149.834286 
+2> comp276_t0+_5-7 COC(=O)/C(CC1=CC=C(O)C(OC2=CC=C(C/C(=N\OCC3=CC[CH+]C=C3)C(=O)O)C=C2Br)=C1)=N/OCC1=CC=CC=C1 36 152.558119 
+2> comp276_t0+_6-1 COC(=O)/C(CC1=CC=C(O)C(OC2=CC=C(C/C(=N\OCC3=C[CH+]CC=C3)C(=O)O)C=C2Br)=C1)=N/OCC1=CC=CC=C1 37 151.36589 
+2> comp276_t0+_11-0 COC(=O)/C(CC1=CC[C+](O)C(OC2=CC=C(C/C(=N\OCC3=CC=CC=C3)C(=O)O)C=C2Br)=C1)=N/OCC1=CC=CC=C1 17 152.248766 
+FINAL SUMMARY: comp276 comp_semi [17] == 23 17,23,36,37,38
+
+comp277_t0 semi [3, 5] == 5 3,5
+taut info: comp277_t0 c1(C)c(C2=NOCC2)c(N)ccc1 23.70815 
+1> comp277_t0+_2-9 CC1=C(C2=NOCC2)C(N)=C[CH+]C1 5 129.12916 
+2> comp277_t0+_3-9 CC1=C(C2=NOCC2)[C+](N)CC=C1 3 131.8607 
+FINAL SUMMARY: comp277 comp_semi [3, 5] == 5 3,5
+
+comp278_t0 corr [14] == 14 14
+taut info: comp278_t0 C(=O)(N1Cc2n(nc(-c3ccc(F)c(Cl)c3)c2)C(C(F)(F)F)C1)OC(C)(C)C -230.67856 
+1> comp278_t0+_1-3 CC(C)(C)OC(=O)N1C[C+]2CC(C3=CC=C(F)C(Cl)=C3)=NN2C(C(F)(F)F)C1 14 139.32005 
+FINAL SUMMARY: comp278 comp_corr [14] == 14 14
+
+comp279_t0 corr [4] == 4 4
+taut info: comp279_t0 c12n(c(C3CCCC(C(F)(F)F)N3C(=O)OCc3ccccc3)nc1)ccnc2Cl -167.03333 
+1> comp279_t0+_7-3 O=C(OCC1=CC=CC=C1)N1C(C2=NC[C+]3C(Cl)=NC=CN23)CCCC1C(F)(F)F 4 134.690471 
+FINAL SUMMARY: comp279 comp_corr [4] == 4 4
+
+comp280_t0 corr [9] == 9 9
+taut info: comp280_t0 C1CC(CNc2cc(NC(C(F)(F)F)(C)C)nn3c2ncc3-c2ccc(C(=O)NC3CC3)cc2)CCO1 -147.68882 
+1> comp280_t0+_3-19 CC(C)(NC1=NN2C(C3=CC=C(C(=O)NC4CC4)C=C3)=CN=C2[C+](NCC2CCOCC2)C1)C(F)(F)F 9 127.53343999999998 
+FINAL SUMMARY: comp280 comp_corr [9] == 9 9
+
+comp281_t0 corr [16] == 16 16
+taut info: comp281_t0 C1CC(CN(c2cc(NC(C(F)(F)F)(C)C)nn3c2ncc3)C(=O)OC(C)(C)C)CCO1 -238.376316 
+1> comp281_t0+_2-0 CC(C)(C)OC(=O)N(CC1CCOCC1)C1=CC(NC(C)(C)C(F)(F)F)=NN2C[CH+]N=C12 16 129.144321 
+FINAL SUMMARY: comp281 comp_corr [16] == 16 16
+
+comp283_t0 corr [1, 3] == 1,3 1,3
+taut info: comp283_t0 c1cncc(NC)n1 30.41341 
+1> comp283_t0+_2-2 CNC1=N[CH+]CN=C1 1 134.22435 
+1> comp283_t0+_3-1 CNC1=NC=C[N+]C1 3 134.37464 
+FINAL SUMMARY: comp283 comp_corr [1, 3] == 1,3 1,3
+
+comp284_t0 corr [1] == 1 1
+taut info: comp284_t0 c1cnc(C2CC2)c(N)n1 50.57732 
+1> comp284_t0+_2-1 NC1=N[CH+]CN=C1C1CC1 1 133.04847999999998 
+FINAL SUMMARY: comp284 comp_corr [1] == 1 1
+
+comp285_t0 corr [1] == 1 1
+taut info: comp285_t0 c1cnc(C)c(N)n1 21.93023 
+1> comp285_t0+_2-2 CC1=NC[CH+]N=C1N 1 133.23262 
+FINAL SUMMARY: comp285 comp_corr [1] == 1 1
+
+comp286_t0 corr [1] == 1 1
+taut info: comp286_t0 c1cnc(C(=O)N)c(N)n1 -10.99382 
+1> comp286_t0+_2-3 NC(=O)C1=NC[CH+]N=C1N 1 132.69457 
+FINAL SUMMARY: comp286 comp_corr [1] == 1 1
+
+comp289_t0 corr [3] == 3 3
+taut info: comp289_t0 c1c(C(=O)OCC)ncc(N)n1 -58.12534 
+1> comp289_t0+_2-4 CCOC(=O)C1=CN=C(N)C[N+]1 3 137.35502 
+FINAL SUMMARY: comp289 comp_corr [3] == 3 3
+
+comp290_t0 corr [3] == 3 3
+taut info: comp290_t0 c1c(C2CCOCC2)ncc(N)n1 -23.23523 
+1> comp290_t0+_2-1 NC1=NC=C(C2CCOCC2)[N+]C1 3 136.66437000000002 
+FINAL SUMMARY: comp290 comp_corr [3] == 3 3
+
+comp291_t0 corr [3] == 3 3
+taut info: comp291_t0 c1c(CC(C)C)ncc(N)n1 6.25058 
+1> comp291_t0+_2-12 CC(C)CC1=CN=C(N)C[N+]1 3 133.40224999999998 
+FINAL SUMMARY: comp291 comp_corr [3] == 3 3
+
+comp292_t0 corr [1] == 1 1
+taut info: comp292_t0 c1cnc(Cl)c(N)n1 24.18342 
+1> comp292_t0+_2-0 NC1=N[CH+]CN=C1Cl 1 135.77205999999998 
+FINAL SUMMARY: comp292 comp_corr [1] == 1 1
+
+comp293_t0 corr [1] == 1,3 1,3
+taut info: comp293_t0 c1cncc(N2CCC2)n1 45.23406 
+1> comp293_t0+_2-0 C1=NC[CH+]N=C1N1CCC1 1 135.48698 
+1> comp293_t0+_3-0 C1=C[N+]CC(N2CCC2)=N1 3 136.01833 
+FINAL SUMMARY: comp293 comp_corr [1] == 1,3 1,3
+
+comp296_t0 corr [1] == 1 1,3
+taut info: comp296_t0 c1(F)cccc(N)n1 -23.25073 
+1> comp296_t0+_3-0 NC1=N[C+](F)CC=C1 1 130.32319 
+2> comp296_t0+_2-0 NC1=NC(F)=C[CH+]C1 3 131.77766 
+FINAL SUMMARY: comp296 comp_corr [1] == 1 1,3
+
+comp297_t0 corr [1] == 1,3 1,3
+taut info: comp297_t0 c1(C#N)cc(C(F)(F)F)cc(N)n1 -98.92641 
+1> comp297_t0+_1-0 N#C[C+]1CC(C(F)(F)F)=CC(N)=N1 1 139.86721 
+1> comp297_t0+_2-0 N#CC1=C[C+](C(F)(F)F)CC(N)=N1 3 140.8132 
+FINAL SUMMARY: comp297 comp_corr [1] == 1,3 1,3
+
+comp298_t0 corr [1] == 1 1,3
+taut info: comp298_t0 c1cc(F)cc(NC(=O)NC)n1 -62.29355 
+1> comp298_t0+_2-3 CNC(=O)NC1=N[CH+]CC(F)=C1 1 141.39170000000001 
+2> comp298_t0+_3-3 CNC(=O)NC1=NC=C[C+](F)C1 3 142.56476 
+FINAL SUMMARY: comp298 comp_corr [1] == 1 1,3
+
+comp300_t0 corr [16] == 16 16
+taut info: comp300_t0 c1cc(COc2c(C3CC3)cnc3c2[nH]cc3)ccc1 54.950384 
+1> comp300_t0+_6-0 C1=CC=C(COC2=C3N[CH+]CC3=NC=C2C2CC2)C=C1 16 123.463555 
+FINAL SUMMARY: comp300 comp_corr [16] == 16 16
+
+comp301_t0 corr [6] == 6 6
+taut info: comp301_t0 c1(C(=O)C)ccc2c(n1)cc[nH]2 2.47256 
+1> comp301_t0+_1-5 CC(=O)C1=CC=C2N[CH+]CC2=N1 6 124.95533 
+FINAL SUMMARY: comp301 comp_corr [6] == 6 6
+
+comp302_t0 corr [10] == 10 10
+taut info: comp302_t0 c1c(Br)nc2c(c1C#N)[nH]c(-c1ccnc(NC(=O)C)c1)c2 66.73172 
+1> comp302_t0+_2-4 CC(=O)NC1=CC([C+]2CC3=NC(Br)=CC(C#N)=C3N2)=CC=N1 10 130.79792 
+FINAL SUMMARY: comp302 comp_corr [10] == 10 10
+
+comp303_t0 corr [8] == 8 8
+taut info: comp303_t0 c1(C#N)cnc2c(c1)[nH]c(-c1ccnc(NC(=O)C)c1)c2 58.09199 
+1> comp303_t0+_3-2 CC(=O)NC1=CC([C+]2CC3=NC=C(C#N)C=C3N2)=CC=N1 8 127.83062999999999 
+FINAL SUMMARY: comp303 comp_corr [8] == 8 8
+
+comp304_t0 corr [6] == 6 6
+taut info: comp304_t0 c1c(C(F)F)cc2c(n1)cc(C)n2-c1ccc(C#N)cc1 -0.66347 
+1> comp304_t0+_5-6 C[C+]1CC2=NC=C(C(F)F)C=C2N1C1=CC=C(C#N)C=C1 6 128.26811 
+FINAL SUMMARY: comp304 comp_corr [6] == 6 6
+
+comp305_t0 corr [6] == 6 6
+taut info: comp305_t0 c1cc(C)c2c(n1)cc[nH]2 35.95843 
+1> comp305_t0+_3-0 CC1=C2N[CH+]CC2=NC=C1 6 121.98575 
+FINAL SUMMARY: comp305 comp_corr [6] == 6 6
+
+comp306_t0 corr [6] == 6 6
+taut info: comp306_t0 c1(/N=C/N(C)C)ccc2c(n1)cc[nH]2 57.38646 
+1> comp306_t0+_1-2 CN(C)/C=N/C1=CC=C2N[CH+]CC2=N1 6 119.03254999999999 
+FINAL SUMMARY: comp306 comp_corr [6] == 6 6
+
+comp307_t0 corr [6] == 6 6
+taut info: comp307_t0 c1(C)ccc2c(n1)cc[nH]2 36.24292 
+1> comp307_t0+_1-0 CC1=CC=C2N[CH+]CC2=N1 6 121.20527000000001 
+FINAL SUMMARY: comp307 comp_corr [6] == 6 6
+
+comp308_t0 corr [6] == 6 6
+taut info: comp308_t0 c1c(Br)cc2c(n1)ccn2CC1CCC(F)(F)CC1 -68.58886 
+1> comp308_t0+_1-0 FC1(F)CCC(CN2[CH+]CC3=NC=C(Br)C=C32)CC1 6 128.26116 
+FINAL SUMMARY: comp308 comp_corr [6] == 6 6
+
+comp309_t0 corr [6] == 6 6
+taut info: comp309_t0 c1c(-c2n(C)nnc2C)cc2c(n1)ccn2CC1(F)CCC(F)(F)CC1 -65.28477 
+1> comp309_t0+_1-6 CC1=C(C2=CN=C3C[CH+]N(CC4(F)CCC(F)(F)CC4)C3=C2)N(C)N=N1 6 130.43491 
+FINAL SUMMARY: comp309 comp_corr [6] == 6 6
+
+comp310_t0 corr [6] == 6 6
+taut info: comp310_t0 c1(-c2c(F)cccc2)ccc2c(n1)cc[nH]2 29.08678 
+1> comp310_t0+_1-2 FC1=C(C2=CC=C3N[CH+]CC3=N2)C=CC=C1 6 122.61211 
+FINAL SUMMARY: comp310 comp_corr [6] == 6 6
+
+comp311_t0 corr [6] == 6 6
+taut info: comp311_t0 c1cc(OC)c2c(n1)ccn2CCOC -35.07027 
+1> comp311_t0+_3-3 COCCN1[CH+]CC2=NC=CC(OC)=C21 6 122.79054 
+FINAL SUMMARY: comp311 comp_corr [6] == 6 6
+
+comp312_t0 corr [6] == 6 6
+taut info: comp312_t0 c1ccc2c(n1)cc[nH]2 45.07488 
+1> comp312_t0+_3-0 C1=CN=C2C[CH+]NC2=C1 6 122.19380999999998 
+FINAL SUMMARY: comp312 comp_corr [6] == 6 6
+
+comp313_t0 corr [6] == 6 6
+taut info: comp313_t0 c1(C(=O)N(C)C)cc(NCc2c(C)cccc2C)c2c(n1)cc(C)[nH]2 -1.42246 
+1> comp313_t0+_4-5 CC1=CC=CC(C)=C1CNC1=C2N[C+](C)CC2=NC(C(=O)N(C)C)=C1 6 122.489306 
+FINAL SUMMARY: comp313 comp_corr [6] == 6 6
+
+comp314_t0 corr [6] == 6 6
+taut info: comp314_t0 c1ccc2c(n1)ccn2-c1ccc(OC)cc1 36.12249 
+1> comp314_t0+_3-8 COC1=CC=C(N2[CH+]CC3=NC=CC=C32)C=C1 6 123.69838000000001 
+FINAL SUMMARY: comp314 comp_corr [6] == 6 6
+
+comp315_t0 corr [6] == 6 6
+taut info: comp315_t0 c1c(Cl)cc2c(n1)cc[nH]2 38.65113 
+1> comp315_t0+_1-0 ClC1=CN=C2C[CH+]NC2=C1 6 124.21491 
+FINAL SUMMARY: comp315 comp_corr [6] == 6 6
+
+comp316_t0 corr [5] == 5 5
+taut info: comp316_t0 c1nc(OC)c2c(c1)c(C(=O)OCC)c(C)[nH]2 -95.88976 
+1> comp316_t0+_2-15 CCOC(=O)C1=C(C)NC2=C(OC)N=CC[C+]21 5 133.03025 
+FINAL SUMMARY: comp316 comp_corr [5] == 5 5
+
+comp317_t0 corr [6] == 6 6
+taut info: comp317_t0 n1ccc2c(c1)cc(-c1c(F)cccc1F)[nH]2 -14.6696 
+1> comp317_t0+_6-3 FC1=CC=CC(F)=C1[C+]1CC2=CN=CC=C2N1 6 124.81532 
+FINAL SUMMARY: comp317 comp_corr [6] == 6 6
+
+comp318_t0 corr [7] == 7 7
+taut info: comp318_t0 n1ccc2c(c1Cl)cc(C)[nH]2 26.6577 
+1> comp318_t0+_3-1 C[C+]1CC2=C(Cl)N=CC=C2N1 7 124.71690999999998 
+FINAL SUMMARY: comp318 comp_corr [7] == 7 7
+
+comp319_t0 corr [6] == 6 6
+taut info: comp319_t0 n1c(Br)cc2c(c1)cc(-c1cn(C)nc1)[nH]2 92.32419 
+1> comp319_t0+_3-3 CN1C=C([C+]2CC3=CN=C(Br)C=C3N2)C=N1 6 121.56586 
+FINAL SUMMARY: comp319 comp_corr [6] == 6 6
+
+comp320_t0 corr [7] == 7 7
+taut info: comp320_t0 n1ccc2c(c1Cl)cc[nH]2 36.77916 
+1> comp320_t0+_1-0 ClC1=C2C[CH+]NC2=CC=N1 7 126.14694 
+FINAL SUMMARY: comp320 comp_corr [7] == 7 7
+
+comp321_t0 corr [12] == 12 12
+taut info: comp321_t0 n1ccc2c(c1NC(=O)OCC)cc[nH]2 -47.6135 
+1> comp321_t0+_1-6 CCOC(=O)NC1=C2C[CH+]NC2=CC=N1 12 124.15527 
+FINAL SUMMARY: comp321 comp_corr [12] == 12 12
+
+comp322_t0 corr [6] == 6 6
+taut info: comp322_t0 c1nc(OC)c2c(c1)cc[nH]2 4.3395 
+1> comp322_t0+_1-3 COC1=C2N[CH+]CC2=CC=N1 6 121.43859 
+FINAL SUMMARY: comp322 comp_corr [6] == 6 6
+
+comp323_t0 corr [6] == 6 6
+taut info: comp323_t0 c1(/N=C/N(C)C)ncc2c(c1)cc[nH]2 56.69821 
+1> comp323_t0+_1-9 CN(C)/C=N/C1=NC=C2N[CH+]CC2=C1 6 118.90230999999999 
+FINAL SUMMARY: comp323 comp_corr [6] == 6 6
+
+comp324_t0 corr [13] == 13 13
+taut info: comp324_t0 c1(Br)ncc2c(c1)c(-c1ccnc(N)n1)cn2C(C)C 65.17268 
+1> comp324_t0+_4-8 CC(C)N1C=C([C+]2CC=NC(N)=N2)C2=CC(Br)=NC=C21 13 126.755848 
+FINAL SUMMARY: comp324 comp_corr [13] == 13 13
+
+comp325_t0 corr [6] == 6 6
+taut info: comp325_t0 c1(C)ncc2c(c1)cc[nH]2 35.40839 
+1> comp325_t0+_1-1 CC1=NC=C2N[CH+]CC2=C1 6 121.72686000000002 
+FINAL SUMMARY: comp325 comp_corr [6] == 6 6
+
+comp326_t0 corr [6] == 6 6
+taut info: comp326_t0 c1nc(C)c2c(c1)cc[nH]2 35.55872 
+1> comp326_t0+_1-0 CC1=C2N[CH+]CC2=CC=N1 6 122.42683 
+FINAL SUMMARY: comp326 comp_corr [6] == 6 6
+
+comp327_t0 corr [6] == 6 6
+taut info: comp327_t0 c1(OC)ncc2c(c1)cc[nH]2 4.84952 
+1> comp327_t0+_1-4 COC1=NC=C2N[CH+]CC2=C1 6 120.07672000000001 
+FINAL SUMMARY: comp327 comp_corr [6] == 6 6
+
+comp328_t0 corr [6] == 6 6
+taut info: comp328_t0 c1(Br)nc(OC)c2c(c1)ccn2C 10.77346 
+1> comp328_t0+_1-5 COC1=C2C(=CC(Br)=N1)C[CH+]N2C 6 124.91438 
+FINAL SUMMARY: comp328 comp_corr [6] == 6 6
+
+comp329_t0 corr [6] == 6 6
+taut info: comp329_t0 c1nc(Cl)c2c(c1)ccn2-c1ccccc1 69.86554 
+1> comp329_t0+_1-3 ClC1=C2C(=CC=N1)C[CH+]N2C1=CC=CC=C1 6 125.90850000000002 
+FINAL SUMMARY: comp329 comp_corr [6] == 6 6
+
+comp330_t0 corr [8] == 8 8
+taut info: comp330_t0 c1ncc2c(c1OC)ccn2C 5.71723 
+1> comp330_t0+_1-1 COC1=C2C[CH+]N(C)C2=CN=C1 8 123.96778 
+FINAL SUMMARY: comp330 comp_corr [8] == 8 8
+
+comp331_t0 corr [6] == 6 6
+taut info: comp331_t0 c1nc(Cl)c2c(c1)ccn2-c1ccc(SC)nc1 74.94237 
+1> comp331_t0+_1-4 CSC1=CC=C(N2[CH+]CC3=CC=NC(Cl)=C32)C=N1 6 128.0519 
+FINAL SUMMARY: comp331 comp_corr [6] == 6 6
+
+comp332_t0 corr [6] == 6 6
+taut info: comp332_t0 c1nc(Cl)c2c(c1)ccn2-c1ccc(OC)cc1 30.61735 
+1> comp332_t0+_1-1 COC1=CC=C(N2[CH+]CC3=CC=NC(Cl)=C32)C=C1 6 125.32312 
+FINAL SUMMARY: comp332 comp_corr [6] == 6 6
+
+comp333_t0 corr [8] == 8 8
+taut info: comp333_t0 n1cc2c(cc1OC)cc(C(=O)OC)[nH]2 -80.21267 
+1> comp333_t0+_3-7 COC(=O)[C+]1CC2=C(C=NC(OC)=C2)N1 8 128.02192 
+FINAL SUMMARY: comp333 comp_corr [8] == 8 8
+
+comp334_t0 corr [0] == 0 0
+taut info: comp334_t0 c1cnc2c(c1Cl)c([N+]([O-])=O)c[nH]2 20.54966 
+1> comp334_t0+_1-0 O=[N+]([O-])C1=CNC2=N[CH+]CC(Cl)=C12 0 147.05696 
+FINAL SUMMARY: comp334 comp_corr [0] == 0 0
+
+comp335_t0 corr [6] == 6 6
+taut info: comp335_t0 c1cnc2c(c1)cc[nH]2 44.10991 
+1> comp335_t0+_3-0 C1=CN=C2N[CH+]CC2=C1 6 123.16888999999999 
+FINAL SUMMARY: comp335 comp_corr [6] == 6 6
+
+comp336_t0 corr [6] == 6 6
+taut info: comp336_t0 c1(F)cnc2c(c1)ccn2S(=O)(=O)c1ccc(C)cc1 -47.07531 
+1> comp336_t0+_1-5 CC1=CC=C(S(=O)(=O)N2[CH+]CC3=CC(F)=CN=C32)C=C1 6 131.7006 
+FINAL SUMMARY: comp336 comp_corr [6] == 6 6
+
+comp337_t0 corr [7] == 7 7
+taut info: comp337_t0 c1([N+]([O-])=O)cnc2c(c1Cl)ccn2C 24.29385 
+1> comp337_t0+_1-1 CN1[CH+]CC2=C(Cl)C([N+](=O)[O-])=CN=C21 7 133.79397 
+FINAL SUMMARY: comp337 comp_corr [7] == 7 7
+
+comp338_t0 corr [8] == 8 8
+taut info: comp338_t0 c1([N+]([O-])=O)cnc2c(c1OC)ccn2C -2.56635 
+1> comp338_t0+_1-4 COC1=C2C[CH+]N(C)C2=NC=C1[N+](=O)[O-] 8 131.95612 
+FINAL SUMMARY: comp338 comp_corr [8] == 8 8
+
+comp339_t0 corr [6] == 6 6
+taut info: comp339_t0 c1(N2CC(NC(=O)OC(C)(C)C)C2)cnc2c(c1)cc[nH]2 -42.6845 
+1> comp339_t0+_1-2 CC(C)(C)OC(=O)NC1CN(C2=CN=C3N[CH+]CC3=C2)C1 6 121.359098 
+FINAL SUMMARY: comp339 comp_corr [6] == 6 6
+
+comp340_t0 corr [6] == 6 6
+taut info: comp340_t0 c1(C#Cc2cc(OC)ncc2)cnc2c(c1)cc[nH]2 83.36475 
+1> comp340_t0+_1-5 COC1=NC=CC(C#CC2=CN=C3N[CH+]CC3=C2)=C1 6 124.8427 
+FINAL SUMMARY: comp340 comp_corr [6] == 6 6
+
+comp341_t0 corr [6] == 6 6
+taut info: comp341_t0 c1(CNC(=O)c2cn(Cc3cnc(N4CCCC4)nc3)nc2C(F)(F)F)cnc2c(c1)cc[nH]2 -80.274678 
+1> comp341_t0+_1-18 O=C(NCC1=CN=C2N[CH+]CC2=C1)C1=CN(CC2=CN=C(N3CCCC3)N=C2)N=C1C(F)(F)F 6 123.456648 
+FINAL SUMMARY: comp341 comp_corr [6] == 6 6
+
+comp342_t0 corr [6] == 6 6
+taut info: comp342_t0 c1cnc2c(c1)cc(C(CC1CCCC1)c1ccc(S(=O)C)c(Cl)c1)[nH]2 4.96785 
+1> comp342_t0+_4-10 CS(=O)C1=CC=C(C(CC2CCCC2)[C+]2CC3=CC=CN=C3N2)C=C1Cl 6 124.26334 
+FINAL SUMMARY: comp342 comp_corr [6] == 6 6
+
+comp343_t0 corr [20] == 20 20
+taut info: comp343_t0 c1cnc2c(c1-c1nc(=O)c3c([nH]1)cncc3C1CC1)cc[nH]2 76.2128 
+1> comp343_t0+_3-5 O=C1N=C(C2=C3C[CH+]NC3=NC=C2)NC2=C1C(C1CC1)=CN=C2 20 126.8025 
+FINAL SUMMARY: comp343 comp_corr [20] == 20 20
+
+comp344_t0 corr [9, 16] == 9,16 9,16
+taut info: comp344_t0 c1cnc2c(c1[N-][N+]#N)ccn2/C=C/n1ccc2c1nccc2[N-][N+]#N 259.99342 
+1> comp344_t0+_3-12 N#[N+][N-]C1=CC=NC2=C1C=CN2/C=C/N1[CH+]CC2=C([N-][N+]#N)C=CN=C21 9 124.14682999999997 
+FINAL SUMMARY: comp344 comp_corr [9, 16] == 9,16 9,16
+
+comp345_t0 corr [7] == 7 7
+taut info: comp345_t0 c1cnc2c(c1Br)ccn2COCC[Si](C)(C)C -34.098593 
+1> comp345_t0+_3-3 C[Si](C)(C)CCOCN1[CH+]CC2=C(Br)C=CN=C21 7 128.414408 
+FINAL SUMMARY: comp345 comp_corr [7] == 7 7
+
+comp346_t0 corr [6] == 6 6
+taut info: comp346_t0 c1cnc2c(c1)cc(-c1c(N)cc(OC)cc1)[nH]2 25.66106 
+1> comp346_t0+_6-1 COC1=CC(N)=C([C+]2CC3=CC=CN=C3N2)C=C1 6 120.90899000000002 
+FINAL SUMMARY: comp346 comp_corr [6] == 6 6
+
+comp347_t0 corr [6] == 6 6
+taut info: comp347_t0 c1c(S(=O)(=O)Cl)nc2c(c1)ccn2[Si](C(C)C)(C(C)C)C(C)C -129.66791 
+1> comp347_t0+_1-15 CC(C)[Si](C(C)C)(C(C)C)N1[CH+]CC2=CC=C(S(=O)(=O)Cl)N=C21 6 125.69973 
+FINAL SUMMARY: comp347 comp_corr [6] == 6 6
+
+comp348_t0 corr [7] == 7 7
+taut info: comp348_t0 c1(C(C)O)cnc2c(c1Cl)ccn2COCC[Si](C)(C)C -102.498085 
+1> comp348_t0+_1-2 CC(O)C1=CN=C2C(=C1Cl)C[CH+]N2COCC[Si](C)(C)C 7 128.049809 
+FINAL SUMMARY: comp348 comp_corr [7] == 7 7
+
+comp349_t0 corr [8] == 8 8
+taut info: comp349_t0 c1cnc2c(c1C#N)ccn2COC 39.48261 
+1> comp349_t0+_3-2 COCN1[CH+]CC2=C(C#N)C=CN=C21 8 130.33959000000002 
+FINAL SUMMARY: comp349 comp_corr [8] == 8 8
+
+comp351_t0 corr [6] == 6 6
+taut info: comp351_t0 c1(-c2c(-c3ccnc(NC[C@H](C)O)n3)cn(C3COCC3)n2)cnc2c(c1)cc[nH]2 25.68573 
+1> comp351_t0+_1-11 C[C@H](O)CNC1=NC(C2=CN(C3CCOC3)N=C2C2=CN=C3N[CH+]CC3=C2)=CC=N1 6 123.79618099999999 
+FINAL SUMMARY: comp351 comp_corr [6] == 6 6
+
+comp353_t0 corr [8] == 8 8
+taut info: comp353_t0 c1ccc2c(c1)[nH]nc2 61.59639 
+1> comp353_t0+_5-0 C1=CC=C2N[N+]CC2=C1 8 131.39067999999997 
+FINAL SUMMARY: comp353 comp_corr [8] == 8 8
+
+comp354_t0 semi [5] == 8 5,8
+taut info: comp354_t0 c1(O)ccc2c(c1)[nH]nc2 14.11904 
+1> comp354_t0+_4-3 OC1=CC=C2C[N+]NC2=C1 8 132.28728999999998 
+2> comp354_t0+_3-0 OC1=CC=C2C=NN[C+]2C1 5 133.92997 
+FINAL SUMMARY: comp354 comp_semi [5] == 8 5,8
+
+comp355_t0 corr [8] == 8 8
+taut info: comp355_t0 c1c(C#N)cc2c(c1)[nH]nc2 93.98088 
+1> comp355_t0+_4-0 N#CC1=CC=C2N[N+]CC2=C1 8 136.49608 
+FINAL SUMMARY: comp355 comp_corr [8] == 8 8
+
+comp356_t0 corr [8] == 8 8
+taut info: comp356_t0 c1c(Br)cc2c(c1)[nH]nc2 68.41881 
+1> comp356_t0+_4-0 BrC1=CC=C2N[N+]CC2=C1 8 134.28604 
+FINAL SUMMARY: comp356 comp_corr [8] == 8 8
+
+comp357_t0 corr [8] == 8 8
+taut info: comp357_t0 c1c(F)cc2c(c1)[nH]nc2 17.76416 
+1> comp357_t0+_4-0 FC1=CC=C2N[N+]CC2=C1 8 133.46775 
+FINAL SUMMARY: comp357 comp_corr [8] == 8 8
+
+comp358_t0 corr [8] == 8 8
+taut info: comp358_t0 c1c(C=O)cc2c(c1)[nH]nc2 24.5421 
+1> comp358_t0+_4-3 O=CC1=CC=C2N[N+]CC2=C1 8 135.27356 
+FINAL SUMMARY: comp358 comp_corr [8] == 8 8
+
+comp359_t0 corr [9] == 9 9
+taut info: comp359_t0 c1ccc2c(c1I)[nH]nc2 86.73242 
+1> comp359_t0+_4-0 IC1=C2N[N+]CC2=CC=C1 9 133.62628 
+FINAL SUMMARY: comp359 comp_corr [9] == 9 9
+
+comp360_t0 corr [10] == 10 10
+taut info: comp360_t0 c1ccc2c(c1C#N)[nH]nc2 95.15706 
+1> comp360_t0+_4-0 N#CC1=C2N[N+]CC2=CC=C1 10 137.26568 
+FINAL SUMMARY: comp360 comp_corr [10] == 10 10
+
+comp361_t0 corr [8] == 8 8
+taut info: comp361_t0 c1c(C(=O)O)cc2c(c1)[nH]nc2 -31.94858 
+1> comp361_t0+_4-2 O=C(O)C1=CC=C2N[N+]CC2=C1 8 136.06963 
+FINAL SUMMARY: comp361 comp_corr [8] == 8 8
+
+comp362_t0 corr [8] == 8 8
+taut info: comp362_t0 c1c([N+]([O-])=O)cc2c(c1)[nH]nc2 44.8473 
+1> comp362_t0+_4-1 O=[N+]([O-])C1=CC=C2N[N+]CC2=C1 8 140.62915 
+FINAL SUMMARY: comp362 comp_corr [8] == 8 8
+
+comp363_t0 corr [8] == 8 8
+taut info: comp363_t0 c1cc([N+]([O-])=O)c2c(c1)[nH]nc2 47.87668 
+1> comp363_t0+_4-3 O=[N+]([O-])C1=C2C[N+]NC2=CC=C1 8 137.22392 
+FINAL SUMMARY: comp363 comp_corr [8] == 8 8
+
+comp364_t0 corr [8] == 8 8
+taut info: comp364_t0 c1ccc2c(c1)n(Cc1ccccc1)nc2 87.19263 
+1> comp364_t0+_9-5 C1=CC=C(CN2[N+]CC3=CC=CC=C32)C=C1 8 134.01665000000003 
+FINAL SUMMARY: comp364 comp_corr [8] == 8 8
+
+comp365_t0 corr [8] == 8 8
+taut info: comp365_t0 c1(C(=O)OC)ccc2c(c1)[nH]nc2 -21.8493 
+1> comp365_t0+_4-0 COC(=O)C1=CC=C2C[N+]NC2=C1 8 133.64553 
+FINAL SUMMARY: comp365 comp_corr [8] == 8 8
+
+comp366_t0 corr [9] == 9 9
+taut info: comp366_t0 c1c(C(=O)O)cc2c(c1C)[nH]nc2 -40.83601 
+1> comp366_t0+_3-0 CC1=C2N[N+]CC2=CC(C(=O)O)=C1 9 135.82672000000002 
+FINAL SUMMARY: comp366 comp_corr [9] == 9 9
+
+comp367_t0 corr [8] == 2,8 2,8
+taut info: comp367_t0 c1c(O[Si](C)(C)C(C)(C)C)cc2c(c1)[nH]nc2 -64.10014 
+1> comp367_t0+_2-8 CC(C)(C)[Si](C)(C)OC1=CC=C2NN=C[C+]2C1 2 123.82523 
+1> comp367_t0+_4-7 CC(C)(C)[Si](C)(C)OC1=CC=C2N[N+]CC2=C1 8 124.33523 
+FINAL SUMMARY: comp367 comp_corr [8] == 2,8 2,8
+
+comp368_t0 semi [5, 1] == 5 1,2,5
+taut info: comp368_t0 c1ccc2c(c1)[nH]nc2C(F)(F)F -96.15775 
+1> comp368_t0+_4-0 FC(F)(F)C1=NN[C+]2CC=CC=C12 5 146.83006999999998 
+2> comp368_t0+_2-0 FC(F)(F)C1=NNC2=C[CH+]CC=C21 1 147.87851999999998 
+2> comp368_t0+_3-0 FC(F)(F)C1=NNC2=CC=CC[C+]21 2 148.79516999999998 
+FINAL SUMMARY: comp368 comp_semi [5, 1] == 5 1,2,5
+
+comp369_t0 semi [5, 1] == 5 1,5
+taut info: comp369_t0 c1cc(N)c2c(c1)n(C(=O)C)nc2 14.19467 
+1> comp369_t0+_3-0 CC(=O)N1N=CC2=C(N)C=CC[C+]21 5 123.29968 
+2> comp369_t0+_2-0 CC(=O)N1N=CC2=C(N)C[CH+]C=C21 1 125.46173999999999 
+FINAL SUMMARY: comp369 comp_semi [5, 1] == 5 1,5
+
+comp370_t0 corr [5] == 5 5,8
+taut info: comp370_t0 c1(O)ccc2c(c1)n(-c1ccc(F)cc1)nc2 1.08151 
+1> comp370_t0+_5-3 OC1=CC=C2C=NN(C3=CC=C(F)C=C3)[C+]2C1 5 134.11542 
+2> comp370_t0+_6-6 OC1=CC=C2C[N+]N(C3=CC=C(F)C=C3)C2=C1 8 135.61445 
+FINAL SUMMARY: comp370 comp_corr [5] == 5 5,8
+
+comp371_t0 corr [1] == 1 1
+taut info: comp371_t0 c1(N)ccc2c(c1C(=O)OC)[nH]nc2 -24.87705 
+1> comp371_t0+_1-2 COC(=O)C1=C2NN=CC2=CC[C+]1N 1 130.82751000000002 
+FINAL SUMMARY: comp371 comp_corr [1] == 1 1
+
+comp372_t0 corr [12] == 12 12
+taut info: comp372_t0 c1(F)ccc2c(c1C(=O)OC)[nH]nc2 -64.60411 
+1> comp372_t0+_3-0 COC(=O)C1=C2N[N+]CC2=CC=C1F 12 138.35327 
+FINAL SUMMARY: comp372 comp_corr [12] == 12 12
+
+comp373_t0 fail [8] == 5 5
+taut info: comp373_t0 c1(O[Si](C(C)(C)C)(c2ccccc2)c2ccccc2)ccc2c(c1)[nH]nc2 -0.778939 
+1> comp373_t0+_11-8 CC(C)(C)[Si](OC1=CC=C2C=NN[C+]2C1)(C1=CC=CC=C1)C1=CC=CC=C1 5 124.822609 
+FINAL SUMMARY: comp373 comp_fail [8] == 5 5
+
+comp374_t0 corr [5] == 5 5,8
+taut info: comp374_t0 c1(O)ccc2c(c1)n(C[C@H](C)O[Si](C(C)(C)C)(C)C)nc2 -119.599023 
+1> comp374_t0+_3-10 C[C@@H](CN1N=CC2=CC=C(O)C[C+]21)O[Si](C)(C)C(C)(C)C 5 129.834993 
+2> comp374_t0+_4-1 C[C@@H](CN1[N+]CC2=CC=C(O)C=C21)O[Si](C)(C)C(C)(C)C 8 132.328791 
+FINAL SUMMARY: comp374 comp_corr [5] == 5 5,8
+
+comp375_t0 corr [8] == 8 8
+taut info: comp375_t0 c1c(CC2CS(=O)(=O)C[C@H](NC(=O)OC(C)(C)C)[C@H]2O)cc2c(c1)[nH]nc2 -161.1729 
+1> comp375_t0+_4-9 CC(C)(C)OC(=O)N[C@H]1CS(=O)(=O)CC(CC2=CC=C3N[N+]CC3=C2)[C@@H]1O 8 132.212369 
+FINAL SUMMARY: comp375 comp_corr [8] == 8 8
+
+comp376_t0 corr [1, 0] == 0,1 0,2,1,5
+taut info: comp376_t0 c1ccc2c(c1)[nH]c(=O)[nH]2 -16.22321 
+1> comp376_t0+_1-0 O=C1NC2=C[CH+]CC=C2N1 0 139.87313 
+2> comp376_t0+_3-0 O=C1NC2=CC=CC[C+]2N1 2 141.67583 
+FINAL SUMMARY: comp376 comp_corr [1, 0] == 0,1 0,1,2,5
+
+comp377_t0 corr [0] == 0,2,5 0,2,5
+taut info: comp377_t0 c1c(C)cc2c(c1)nc(C)[nH]2 22.2513 
+1> comp377_t0+_1-3 CC1=NC2=CC[C+](C)C=C2N1 0 139.57886000000002 
+1> comp377_t0+_2-2 CC1=CC=C2N=C(C)N[C+]2C1 2 139.13139 
+1> comp377_t0+_3-4 CC1=CC[C+]2N=C(C)NC2=C1 5 139.01707 
+FINAL SUMMARY: comp377 comp_corr [0] == 0,2,5 0,2,5
+
+comp378_t0 corr [0] == 0,2,5 0,2,5
+taut info: comp378_t0 c1c(C)cc2c(c1)nc(C1CC1)[nH]2 50.82075 
+1> comp378_t0+_1-4 C[C+]1C=C2NC(C3CC3)=NC2=CC1 0 139.43896 
+1> comp378_t0+_2-3 CC1=CC=C2N=C(C3CC3)N[C+]2C1 2 139.02213 
+1> comp378_t0+_3-4 CC1=CC[C+]2N=C(C3CC3)NC2=C1 5 139.19897 
+FINAL SUMMARY: comp378 comp_corr [0] == 0,2,5 0,2,5
+
+comp381_t0 corr [5] == 5 1,5
+taut info: comp381_t0 c1cc(OC)c2c(c1)nc(C(F)(F)F)[nH]2 -152.54751 
+1> comp381_t0+_3-1 COC1=C2NC(C(F)(F)F)=N[C+]2CC=C1 5 138.09309 
+2> comp381_t0+_2-1 COC1=C2NC(C(F)(F)F)=NC2=C[CH+]C1 1 140.8002 
+FINAL SUMMARY: comp381 comp_corr [5] == 5 1,5
+
+comp382_t0 corr [1] == 1,5 1,5
+taut info: comp382_t0 c1ccc2c(c1)nc(N)n2S(=O)(=O)N(C)C -36.22074 
+1> comp382_t0+_2-3 CN(C)S(=O)(=O)N1C2=CC[CH+]C=C2N=C1N 1 133.01836 
+1> comp382_t0+_4-10 CN(C)S(=O)(=O)N1C2=CC=CC[C+]2N=C1N 5 132.64551 
+FINAL SUMMARY: comp382 comp_corr [1] == 1,5 1,5
+
+comp383_t0 corr [7] == 7 7
+taut info: comp383_t0 O=[N+]([O-])c1c2[nH]ncc2ccc1 45.935 
+1> comp383_t0+_3-1 O=[N+]([O-])C1=C2N[N+]CC2=CC=C1 7 140.67374999999998 
+FINAL SUMMARY: comp383 comp_corr [7] == 7 7
+
+comp384_t0 corr [2] == 0,2 0,1,2
+taut info: comp384_t0 c1ccc2c(c1C(C)CC)n(C)c(=O)[nH]2 -40.26139 
+1> comp384_t0+_1-5 CCC(C)C1=C2C(=C[CH+]C1)NC(=O)N2C 0 139.72252 
+1> comp384_t0+_3-15 CCC(C)C1=C2[C+](CC=C1)NC(=O)N2C 2 140.56668 
+2> comp384_t0+_2-0 CCC(C)C1=C2C(=CC[CH+]1)NC(=O)N2C 1 142.31182 
+FINAL SUMMARY: comp384 comp_corr [2] == 0,2 0,1,2
+
+comp385_t0 corr [1] == 1,5 1,5
+taut info: comp385_t0 c1ccc2c(c1)nc(N)n2S(=O)(=O)C(C)(C)C -40.72275 
+1> comp385_t0+_2-3 CC(C)(C)S(=O)(=O)N1C2=CC[CH+]C=C2N=C1N 1 133.96658 
+1> comp385_t0+_4-3 CC(C)(C)S(=O)(=O)N1C2=CC=CC[C+]2N=C1N 5 133.70194 
+FINAL SUMMARY: comp385 comp_corr [1] == 1,5 1,5
+
+comp386_t0 corr [2] == 0,2 0,2
+taut info: comp386_t0 c1ccc2c(c1N(CC)CC)n(C)c(=O)[nH]2 -30.00476 
+1> comp386_t0+_1-14 CCN(CC)C1=C2C(=C[CH+]C1)NC(=O)N2C 0 133.44885 
+1> comp386_t0+_3-14 CCN(CC)C1=C2[C+](CC=C1)NC(=O)N2C 2 132.83506 
+FINAL SUMMARY: comp386 comp_corr [2] == 0,2 0,2
+
+comp387_t0 corr [1] == 1,5 1,5
+taut info: comp387_t0 c1ccc2c(c1)nc(N)n2S(=O)(=O)C1CCCC1 -39.48993 
+1> comp387_t0+_2-5 NC1=NC2=C[CH+]CC=C2N1S(=O)(=O)C1CCCC1 1 133.39512000000002 
+1> comp387_t0+_4-6 NC1=N[C+]2CC=CC=C2N1S(=O)(=O)C1CCCC1 5 133.12265000000002 
+FINAL SUMMARY: comp387 comp_corr [1] == 1,5 1,5
+
+comp388_t0 corr [1] == 1,5 1,5
+taut info: comp388_t0 c1ccc2c(c1)nc(N)n2S(=O)(=O)N1CCOCC1 -70.14877 
+1> comp388_t0+_2-2 NC1=NC2=C[CH+]CC=C2N1S(=O)(=O)N1CCOCC1 1 132.61697 
+1> comp388_t0+_4-3 NC1=N[C+]2CC=CC=C2N1S(=O)(=O)N1CCOCC1 5 132.789805 
+FINAL SUMMARY: comp388 comp_corr [1] == 1,5 1,5
+
+comp389_t0 corr [1] == 1 1,2,5
+taut info: comp389_t0 c1(-c2c(Cl)cccc2OC(F)(F)F)ccc2c(c1)[nH]c(=O)[nH]2 -198.50469 
+1> comp389_t0+_3-2 O=C1NC2=CC[C+](C3=C(Cl)C=CC=C3OC(F)(F)F)C=C2N1 1 142.74328000000003 
+2> comp389_t0+_4-1 O=C1NC2=CC(C3=C(Cl)C=CC=C3OC(F)(F)F)=CC[C+]2N1 2 143.84935000000002 
+2> comp389_t0+_5-4 O=C1NC2=CC=C(C3=C(Cl)C=CC=C3OC(F)(F)F)C[C+]2N1 5 143.74852 
+FINAL SUMMARY: comp389 comp_corr [1] == 1 1,2,5
+
+comp390_t0 corr [2] == 2 2
+taut info: comp390_t0 n1ccc(C(F)F)nc1N -71.4722 
+1> comp390_t0+_2-0 NC1=N[C+](C(F)F)CC=N1 2 134.03253999999998 
+FINAL SUMMARY: comp390 comp_corr [2] == 2 2
+
+comp391_t0 corr [2] == 2 2,4
+taut info: comp391_t0 n1ccc(C(F)F)cc1N -77.1111 
+1> comp391_t0+_2-1 NC1=C[C+](C(F)F)CC=N1 2 131.66067999999999 
+2> comp391_t0+_3-3 N[C+]1CC(C(F)F)=CC=N1 4 132.98864 
+FINAL SUMMARY: comp391 comp_corr [2] == 2 2,4
+
+comp392_t0 corr [2] == 2 2
+taut info: comp392_t0 n1(C(F)F)ccc(C(=O)OCC)n1 -138.69417 
+1> comp392_t0+_2-3 CCOC(=O)C1=NN(C(F)F)[CH+]C1 2 146.92116000000001 
+FINAL SUMMARY: comp392 comp_corr [2] == 2 2
+
+comp394_t0 corr [9] == 9 9
+taut info: comp394_t0 c1c(Cl)nc2c(c1C(F)F)cn[nH]2 -37.61316 
+1> comp394_t0+_2-0 FC(F)C1=C2C[N+]NC2=NC(Cl)=C1 9 140.98732 
+FINAL SUMMARY: comp394 comp_corr [9] == 9 9
+
+comp395_t0 corr [2] == 2 2
+taut info: comp395_t0 n1cccc(C(F)F)c1N -76.85601 
+1> comp395_t0+_1-4 NC1=C(C(F)F)[CH+]CC=N1 2 133.00459999999998 
+FINAL SUMMARY: comp395 comp_corr [2] == 2 2
+
+comp396_t0 corr [5] == 5 5
+taut info: comp396_t0 c1nc(C(F)F)c2c(c1)nc(SC)nc2 -39.32019 
+1> comp396_t0+_2-6 CSC1=N[C+]2CC=NC(C(F)F)=C2C=N1 5 156.70929999999998 
+FINAL SUMMARY: comp396 comp_corr [5] == 5 5
+
+comp397_t0 corr [1] == 1 1
+taut info: comp397_t0 c1(C(F)F)ccn(C)n1 -57.12005 
+1> comp397_t0+_1-6 CN1[CH+]CC(C(F)F)=N1 1 139.49008 
+FINAL SUMMARY: comp397 comp_corr [1] == 1 1
+
+comp398_t0 corr [2] == 2 2
+taut info: comp398_t0 c1(C(=O)OC)ccc(C(F)F)[nH]c1=O -201.79699 
+1> comp398_t0+_2-8 COC(=O)C1=CC[C+](C(F)F)NC1=O 2 143.74725 
+FINAL SUMMARY: comp398 comp_corr [2] == 2 2
+
+comp399_t0 corr [6] == 6 6
+taut info: comp399_t0 c1ccc2c(c1)ccn2P(=O)(C(C)(C)C)C(C)(C)C -46.6778 
+1> comp399_t0+_3-2 CC(C)(C)P(=O)(N1[CH+]CC2=CC=CC=C21)C(C)(C)C 6 120.94210000000001 
+FINAL SUMMARY: comp399 comp_corr [6] == 6 6
+
+comp400_t0 corr [2] == 2 2
+taut info: comp400_t0 c1(P(=O)(C(C)(C)C)C(C)(C)C)ccc(N)nc1 -58.94402 
+1> comp400_t0+_2-2 CC(C)(C)P(=O)(C1=CC[C+](N)N=C1)C(C)(C)C 2 129.67397 
+FINAL SUMMARY: comp400 comp_corr [2] == 2 2
+
+comp401_t0 semi [3] == 1 1,3
+taut info: comp401_t0 c1(C(=O)OCC)cn(C2COC2)cn1 -83.12437 
+1> comp401_t0+_1-8 CCOC(=O)[C+]1CN(C2COC2)C=N1 1 146.55804 
+2> comp401_t0+_2-1 CCOC(=O)C1=CN(C2COC2)C[N+]1 3 148.85223000000002 
+FINAL SUMMARY: comp401 comp_semi [3] == 1 1,3
+
+comp402_t0 corr [4] == 4 4
+taut info: comp402_t0 c1c(C=O)n(C2COC2)cc1 -32.1514 
+1> comp402_t0+_2-5 O=CC1=CC[CH+]N1C1COC1 4 133.43832 
+FINAL SUMMARY: comp402 comp_corr [4] == 4 4
+
+comp403_t0 corr [6] == 6 6
+taut info: comp403_t0 n1cnc2c(c1)ccn2C1(C)COC1 26.69919 
+1> comp403_t0+_1-3 CC1(N2[CH+]CC3=CN=CN=C32)COC1 6 132.49837000000002 
+FINAL SUMMARY: comp403 comp_corr [6] == 6 6
+
+comp404_t0 corr [6] == 6 6
+taut info: comp404_t0 n1cnc2c(c1)ccn2C1(CO[Si](C)(C(C)(C)C)C)COC1 -92.937293 
+1> comp404_t0+_1-15 CC(C)(C)[Si](C)(C)OCC1(N2[CH+]CC3=CN=CN=C32)COC1 6 129.242103 
+FINAL SUMMARY: comp404 comp_corr [6] == 6 6
+
+comp405_t0 corr [6] == 6 6
+taut info: comp405_t0 n1cnc2c(c1)ccn2C1COC1 31.93431 
+1> comp405_t0+_1-2 C1=NC=C2C[CH+]N(C3COC3)C2=N1 6 133.16988999999998 
+FINAL SUMMARY: comp405 comp_corr [6] == 6 6
+
+comp406_t0 corr [7] == 7 7
+taut info: comp406_t0 n1ccn2c(c1C)cnc2C1(C)COC1 18.83396 
+1> comp406_t0+_3-1 CC1=NC=CN2C(C3(C)COC3)=NC[C+]12 7 133.97921000000002 
+FINAL SUMMARY: comp406 comp_corr [7] == 7 7
+
+comp407_t0 corr [8] == 8 8
+taut info: comp407_t0 c1ccc2c(c1)n(C(=O)OC(C)(C)C)c(C1C(=O)OCC1)c2 -142.400209 
+1> comp407_t0+_5-3 CC(C)(C)OC(=O)N1C2=CC=CC=C2C[C+]1C1CCOC1=O 8 134.996347 
+FINAL SUMMARY: comp407 comp_corr [8] == 8 8
+
+comp408_t0 corr [8] == 8 8
+taut info: comp408_t0 c1(F)ccn2c(c1)nc(C1COCC1)c2 -39.91249 
+1> comp408_t0+_4-1 FC1=CC2=N[C+](C3CCOC3)CN2C=C1 8 129.09071 
+FINAL SUMMARY: comp408 comp_corr [8] == 8 8
+
+comp409_t0 corr [9] == 9 9
+taut info: comp409_t0 c1(N)nc(C)c2c(n1)n(C1COCC1)c(=O)cc2 -48.30892 
+1> comp409_t0+_1-9 CC1=C2[CH+]CC(=O)N(C3CCOC3)C2=NC(N)=N1 9 130.58370000000002 
+FINAL SUMMARY: comp409 comp_corr [9] == 9 9
+
+comp411_t0 corr [7] == 7 7,8
+taut info: comp411_t0 n1cnn2c(c1N)ccc2C1CN(C(=O)OCc2ccccc2)C1 22.85698 
+1> comp411_t0+_6-0 NC1=NC=NN2C(C3CN(C(=O)OCC4=CC=CC=C4)C3)=CC[C+]12 7 129.43343000000002 
+2> comp411_t0+_7-8 NC1=NC=NN2C1=CC[C+]2C1CN(C(=O)OCC2=CC=CC=C2)C1 8 132.42120300000002 
+FINAL SUMMARY: comp411 comp_corr [7] == 7 7,8
+
+comp412_t0 corr [23] == 23 23
+taut info: comp412_t0 c1c(C)c(OCC(=O)N/N=C/c2ccc3c(c2)[nH]cc3)c(C)cc1C 6.04209 
+1> comp412_t0+_2-6 CC1=CC(C)=C(OCC(=O)N/N=C/C2=CC=C3C[CH+]NC3=C2)C(C)=C1 23 118.649568 
+FINAL SUMMARY: comp412 comp_corr [23] == 23 23
+
+comp413_t0 corr [11, 0] == 0,11 0,2,11,13
+taut info: comp413_t0 c1ccc(/C=N/N=C/c2sccc2)s1 116.97109 
+1> comp413_t0+_1-8 C1=CSC(/C=N/N=C/C2=C[CH+]CS2)=C1 0 143.74415 
+2> comp413_t0+_5-8 C1=CSC(/C=N/N=C/[C+]2CC=CS2)=C1 2 145.37788 
+FINAL SUMMARY: comp413 comp_corr [11, 0] == 0,11 0,2,11,13
+
+comp414_t0 corr [1] == 1,5 1,5
+taut info: comp414_t0 c1ccc2c(c1)[nH]c1c2ccnc1C1=NCCC1 65.76093 
+1> comp414_t0+_2-3 C1=CC2=C(NC3=C[CH+]CC=C32)C(C2=NCCC2)=N1 1 134.57587 
+1> comp414_t0+_6-3 C1=CC[C+]2NC3=C(C=CN=C3C3=NCCC3)C2=C1 5 135.21293 
+FINAL SUMMARY: comp414 comp_corr [1] == 1,5 1,5
+
+comp415_t0 corr [2] == 2 2
+taut info: comp415_t0 c1(OCC(=O)O)c(O)cc2c(c1)ncc(S(=O)(=O)O)c2 -256.70774 
+1> comp415_t0+_1-9 O=C(O)COC1=C(O)C[C+]2C=C(S(=O)(=O)O)C=NC2=C1 2 138.94903 
+FINAL SUMMARY: comp415 comp_corr [2] == 2 2
+
+comp416_t0 corr [0] == 0 0
+taut info: comp416_t0 c1cc(S(=O)(=O)O)c2c(c1O)ncc(Br)c2 -118.65102 
+1> comp416_t0+_1-5 O=S(=O)(O)C1=C2C=C(Br)C=NC2=C(O)C[CH+]1 0 145.35157 
+FINAL SUMMARY: comp416 comp_corr [0] == 0 0
+
+comp417_t0 corr [0] == 0 0
+taut info: comp417_t0 c1cc(S(=O)(=O)O)c2c(c1O)nccc2 -127.96324 
+1> comp417_t0+_1-9 O=S(=O)(O)C1=C2C=CC=NC2=C(O)C[CH+]1 0 143.78381 
+FINAL SUMMARY: comp417 comp_corr [0] == 0 0
+
+comp418_t0 corr [7] == 7 7
+taut info: comp418_t0 s1c(S(=O)(=O)N)nn2c1nc(-c1ccccn1)c2 48.3438 
+1> comp418_t0+_3-1 NS(=O)(=O)C1=NN2C[C+](C3=CC=CC=N3)N=C2S1 7 138.97748 
+FINAL SUMMARY: comp418 comp_corr [7] == 7 7
+
+comp420_t0 corr [2] == 2 0,2
+taut info: comp420_t0 c1c(B2OC(C)(C)C(C)(C)O2)ccnc1N -140.5118 
+1> comp420_t0+_1-7 CC1(C)OB(C2=CC(N)=N[CH+]C2)OC1(C)C 2 129.02926 
+2> comp420_t0+_3-13 CC1(C)OB([C+]2C=CN=C(N)C2)OC1(C)C 0 130.3489 
+FINAL SUMMARY: comp420 comp_corr [2] == 2 0,2
+
+comp421_t0 corr [13] == 13 13
+taut info: comp421_t0 c1(B2OC(C)(C)C(C)(C)O2)n(C)ncc1 -120.98158 
+1> comp421_t0+_2-11 CN1N=CC[C+]1B1OC(C)(C)C(C)(C)O1 13 134.58553 
+FINAL SUMMARY: comp421 comp_corr [13] == 13 13
+
+comp423_t0 corr [6] == 6 5,6
+taut info: comp423_t0 c1ccc2c(c1)cc(B1OC(C)(C)C(C)(C)O1)s2 -121.35596 
+1> comp423_t0+_5-6 CC1(C)OB([C+]2CC3=CC=CC=C3S2)OC1(C)C 6 145.14333299999998 
+2> comp423_t0+_4-10 CC1(C)OB(C2=C[C+]3CC=CC=C3S2)OC1(C)C 5 148.11491 
+FINAL SUMMARY: comp423 comp_corr [6] == 6 5,6
+
+comp424_t0 corr [6] == 6 0,2,6
+taut info: comp424_t0 c1ccc2c(c1)cc(B1OC(C)(C)C(C)(C)O1)o2 -150.7717 
+1> comp424_t0+_5-0 CC1(C)OB([C+]2CC3=CC=CC=C3O2)OC1(C)C 6 143.11794 
+2> comp424_t0+_1-1 CC1(C)OB(C2=CC3=CC[CH+]C=C3O2)OC1(C)C 0 145.50532 
+2> comp424_t0+_3-6 CC1(C)OB(C2=CC3=CC=CC[C+]3O2)OC1(C)C 2 145.38496 
+FINAL SUMMARY: comp424 comp_corr [6] == 6 0,2,6
+
+comp425_t0 corr [15] == 15 15
+taut info: comp425_t0 c1ccc2c(c1B1OC(C)(C)C(C)(C)O1)ccn2[Si](C(C)C)(C(C)C)C(C)C -223.13636 
+1> comp425_t0+_3-15 CC(C)[Si](C(C)C)(C(C)C)N1[CH+]CC2=C(B3OC(C)(C)C(C)(C)O3)C=CC=C21 15 117.95191 
+FINAL SUMMARY: comp425 comp_corr [15] == 15 15
+
+comp426_t0 corr [6] == 6 6
+taut info: comp426_t0 c1(B2OC(C)(C)C(C)(C)O2)ccc2c(c1)ccn2Cc1ccccc1 -99.94276 
+1> comp426_t0+_1-4 CC1(C)OB(C2=CC=C3C(=C2)C[CH+]N3CC2=CC=CC=C2)OC1(C)C 6 122.36512400000001 
+FINAL SUMMARY: comp426 comp_corr [6] == 6 6
+
+comp427_t0 corr [2] == 2 2
+taut info: comp427_t0 c1(S(F)(F)(F)(F)F)ccc[nH]c1=O -249.29595 
+1> comp427_t0+_1-3 O=C1N[CH+]CC=C1S(F)(F)(F)(F)F 2 142.77263 
+FINAL SUMMARY: comp427 comp_corr [2] == 2 2
+
+comp428_t0 corr [2] == 2 2
+taut info: comp428_t0 c1(S(=O)(=O)F)ccc2c(c1)CCN(C(=O)C(F)(F)F)CC2 -304.11766 
+1> comp428_t0+_2-0 O=C(N1CCC2=CC(S(=O)(=O)F)=CC[C+]2CC1)C(F)(F)F 2 158.11838 
+FINAL SUMMARY: comp428 comp_corr [2] == 2 2
+
+comp429_t0 corr [8] == 8 8
+taut info: comp429_t0 c1ccc2c(c1)sc(N(S(=O)(=O)CCBr)Cc1ccc(OC(F)(F)F)cc1)c2 -197.89419 
+1> comp429_t0+_7-16 O=S(=O)(CCBr)N(CC1=CC=C(OC(F)(F)F)C=C1)[C+]1CC2=CC=CC=C2S1 8 133.31325 
+FINAL SUMMARY: comp429 comp_corr [8] == 8 8
+
+comp430_t0 corr [10] == 10 10
+taut info: comp430_t0 c1cc(C=O)c2c(c1OC)oc(-c1ccc(OC)cc1)c2 -77.21092 
+1> comp430_t0+_5-14 COC1=CC=C([C+]2CC3=C(C=O)C=CC(OC)=C3O2)C=C1 10 129.89254 
+FINAL SUMMARY: comp430 comp_corr [10] == 10 10
+
+comp431_t0 corr [16] == 16 2,16
+taut info: comp431_t0 c1c(OC(=O)C)cc2c(c1/C=C/c1ccc(Cl)cc1)c(-c1cc(OC(=O)C)cc(OC(=O)C)c1)co2 -180.252962 
+1> comp431_t0+_7-14 CC(=O)OC1=CC(OC(C)=O)=CC([C+]2COC3=CC(OC(C)=O)=CC(/C=C/C4=CC=C(Cl)C=C4)=C32)=C1 16 135.966008 
+2> comp431_t0+_4-6 CC(=O)OC1=CC(OC(C)=O)=CC(C2=CO[C+]3CC(OC(C)=O)=CC(/C=C/C4=CC=C(Cl)C=C4)=C23)=C1 2 137.547713 
+FINAL SUMMARY: comp431 comp_corr [16] == 16 2,16
+
+comp433_t0 fail [8] == 17 17,19
+taut info: comp433_t0 c1ccc2c(c1)oc(-c1c(-c3ccccc3N)cccc1)c2 59.9213 
+1> comp433_t0+_5-4 NC1=C[CH+]CC=C1C1=CC=CC=C1C1=CC2=CC=CC=C2O1 17 128.28058 
+2> comp433_t0+_13-2 N[C+]1CC=CC=C1C1=CC=CC=C1C1=CC2=CC=CC=C2O1 19 130.28449 
+FINAL SUMMARY: comp433 comp_fail [8] == 17 17,19
+
+comp434_t0 corr [0] == 0 0,1
+taut info: comp434_t0 c1ccc(-c2c(C(F)(F)F)cc([N+]([O-])=O)cc2)o1 -146.00435 
+1> comp434_t0+_1-2 O=[N+]([O-])C1=CC(C(F)(F)F)=C(C2=C[CH+]CO2)C=C1 0 144.8749 
+2> comp434_t0+_2-1 O=[N+]([O-])C1=CC(C(F)(F)F)=C(C2=CC[CH+]O2)C=C1 1 146.67878 
+FINAL SUMMARY: comp434 comp_corr [0] == 0 0,1
+
+comp435_t0 corr [0] == 0 0,2
+taut info: comp435_t0 c1ccc(-c2c(OC)cc([N+]([O-])=O)cc2)o1 -29.58606 
+1> comp435_t0+_1-0 COC1=C(C2=C[CH+]CO2)C=CC([N+](=O)[O-])=C1 0 137.15609 
+2> comp435_t0+_5-2 COC1=C([C+]2CC=CO2)C=CC([N+](=O)[O-])=C1 2 139.26162 
+FINAL SUMMARY: comp435 comp_corr [0] == 0 0,2
+
+comp437_t0 corr [0] == 0 0
+taut info: comp437_t0 c1ccc(Sc2ccccc2)o1 31.7325 
+1> comp437_t0+_1-5 C1=CC=C(SC2=C[CH+]CO2)C=C1 0 133.64852000000002 
+FINAL SUMMARY: comp437 comp_corr [0] == 0 0
+
+comp438_t0 corr [2] == 2 2
+taut info: comp438_t0 c1(C)ccc(Sc2ccccc2)o1 23.01696 
+1> comp438_t0+_6-4 CC1=CC[C+](SC2=CC=CC=C2)O1 2 136.80649 
+FINAL SUMMARY: comp438 comp_corr [2] == 2 2
+
+comp439_t0 corr [6] == 6 6
+taut info: comp439_t0 c1(I)ccc2c(n1)cco2 38.01708 
+1> comp439_t0+_1-0 IC1=CC=C2O[CH+]CC2=N1 6 142.47892000000002 
+FINAL SUMMARY: comp439 comp_corr [6] == 6 6
+
+comp440_t0 corr [6] == 6 6
+taut info: comp440_t0 c1(-c2ccc(F)cc2)cc(C)c2c(n1)cc(-c1ccc(F)cc1)o2 -28.71653 
+1> comp440_t0+_6-8 CC1=C2O[C+](C3=CC=C(F)C=C3)CC2=NC(C2=CC=C(F)C=C2)=C1 6 135.80508 
+FINAL SUMMARY: comp440 comp_corr [6] == 6 6
+
+comp441_t0 corr [14] == 14 12,14
+taut info: comp441_t0 c1c(OC)ccc(-n2c(C)c(-c3ccco3)nn2)c1 40.15697 
+1> comp441_t0+_4-8 COC1=CC=C(N2N=NC(C3=C[CH+]CO3)=C2C)C=C1 14 130.87362 
+2> comp441_t0+_7-12 COC1=CC=C(N2N=NC([C+]3CC=CO3)=C2C)C=C1 12 133.15622 
+FINAL SUMMARY: comp441 comp_corr [14] == 14 12,14
+
+comp442_t0 corr [12] == 12 11,12
+taut info: comp442_t0 c1cnc2c(c1)oc(-c1ccco1)n2 21.5214 
+1> comp442_t0+_4-3 C1=CN=C2N=C(C3=C[CH+]CO3)OC2=C1 12 143.80458 
+2> comp442_t0+_3-3 C1=CN=C2N=C(C3=CC[CH+]O3)OC2=C1 11 145.84214 
+FINAL SUMMARY: comp442 comp_corr [12] == 12 11,12
+
+comp443_t0 fail [3, 1] == 3 3
+taut info: comp443_t0 c1(B2OC(C)(C)C(C)(C)O2)cocc1 -171.65129 
+1> comp443_t0+_1-9 CC1(C)OB(C2=COC[CH+]2)OC1(C)C 3 137.83993999999998 
+FINAL SUMMARY: comp443 comp_fail [3, 1] == 3 3
+
+comp444_t0 corr [9] == 9 8,9
+taut info: comp444_t0 c1c(/C(=N/OC)C)nc(-c2ccco2)nn1 65.43767 
+1> comp444_t0+_2-2 CO/N=C(\C)C1=CN=NC(C2=C[CH+]CO2)=N1 9 141.74235000000002 
+2> comp444_t0+_1-15 CO/N=C(\C)C1=CN=NC(C2=CC[CH+]O2)=N1 8 143.69415 
+FINAL SUMMARY: comp444 comp_corr [9] == 9 8,9
+
+comp445_t0 corr [8] == 8 8
+taut info: comp445_t0 n1(CC(F)(F)F)cnc2c(c1=O)cco2 -185.07067 
+1> comp445_t0+_2-3 O=C1C2=C(N=CN1CC(F)(F)F)OC[CH+]2 8 141.59342 
+FINAL SUMMARY: comp445 comp_corr [8] == 8 8
+
+comp446_t0 corr [12, 16] == 12,16 10,12,18,16
+taut info: comp446_t0 c12c(nsn1)c(-c1occc1)ccc2-c1ccco1 49.65341 
+1> comp446_t0+_2-2 C1=COC(C2=CC=C(C3=C[CH+]CO3)C3=NSN=C23)=C1 12 131.98479999999998 
+2> comp446_t0+_7-5 C1=COC(C2=CC=C([C+]3CC=CO3)C3=NSN=C23)=C1 10 133.69275 
+FINAL SUMMARY: comp446 comp_corr [12, 16] == 12,16 10,12,16,18
+
+comp447_t0 corr [4] == 4 4
+taut info: comp447_t0 c12c(occ1)cccn2 17.45616 
+1> comp447_t0+_2-0 C1=CC2=C(C[CH+]O2)N=C1 4 141.09753999999998 
+FINAL SUMMARY: comp447 comp_corr [4] == 4 4
+
+comp448_t0 corr [4] == 4 4
+taut info: comp448_t0 c12c(occ1)cc(C(=O)OCC)cn2 -70.87378 
+1> comp448_t0+_2-1 CCOC(=O)C1=CC2=C(C[CH+]O2)N=C1 4 143.3466 
+FINAL SUMMARY: comp448 comp_corr [4] == 4 4
+
+comp449_t0 corr [16] == 16 16
+taut info: comp449_t0 [C@H]12C([C@H](NC(=O)C#C)[C@@H](c3ccco3)[C@@H]3[C@@]1(OC)OC(C)(C)O3)OC(C)(C)O2 -201.26726 
+1> comp449_t0+_2-9 C#CC(=O)N[C@H]1C2OC(C)(C)O[C@@H]2[C@]2(OC)OC(C)(C)O[C@@H]2[C@@H]1C1=C[CH+]CO1 16 137.778451 
+FINAL SUMMARY: comp449 comp_corr [16] == 16 16
+
+comp450_t0 corr [16] == 16 14,16
+taut info: comp450_t0 [C@H]12C([C@H](NC(=O)C=C)[C@@H](c3ccco3)[C@@H]3[C@@]1(OC)OC(C)(C)O3)OC(C)(C)O2 -236.979432 
+1> comp450_t0+_2-10 C=CC(=O)N[C@H]1C2OC(C)(C)O[C@@H]2[C@]2(OC)OC(C)(C)O[C@@H]2[C@@H]1C1=C[CH+]CO1 16 137.570852 
+2> comp450_t0+_3-3 C=CC(=O)N[C@H]1C2OC(C)(C)O[C@@H]2[C@]2(OC)OC(C)(C)O[C@@H]2[C@@H]1[C+]1CC=CO1 14 140.24651699999998 
+FINAL SUMMARY: comp450 comp_corr [16] == 16 14,16
+
+comp451_t0 corr [12] == 12 12,13
+taut info: comp451_t0 C1(C)(C)O[C@@H]2[C@@H](OC(=O)OC)[C@H](NC(=O)C=C)[C@@H](c3occc3)[C@H](O1)C2=O -257.80414 
+1> comp451_t0+_1-12 C=CC(=O)N[C@H]1[C@H](OC(=O)OC)[C@H]2OC(C)(C)O[C@H](C2=O)[C@@H]1C1=C[CH+]CO1 12 140.1947 
+2> comp451_t0+_2-0 C=CC(=O)N[C@H]1[C@H](OC(=O)OC)[C@H]2OC(C)(C)O[C@H](C2=O)[C@@H]1C1=CC[CH+]O1 13 142.8073 
+FINAL SUMMARY: comp451 comp_corr [12] == 12 12,13
+
+comp452_t0 corr [4] == 4 4
+taut info: comp452_t0 c1cc(/C=C/C#N)oc1 41.68832 
+1> comp452_t0+_2-2 N#C/C=C/C1=C[CH+]CO1 4 139.78019 
+FINAL SUMMARY: comp452 comp_corr [4] == 4 4
+
+comp453_t0 corr [4] == 4 4
+taut info: comp453_t0 c1cc(CCCN2C(=O)C[C@H](O)C2=O)oc1 -146.2346 
+1> comp453_t0+_2-1 O=C1C[C@H](O)C(=O)N1CCCC1=C[CH+]CO1 4 135.70077 
+FINAL SUMMARY: comp453 comp_corr [4] == 4 4
+
+comp454_t0 corr [8] == 8 8,10
+taut info: comp454_t0 c1ncc(-c2occc2)n1C 21.67996 
+1> comp454_t0+_1-4 CN1C=NC=C1C1=C[CH+]CO1 8 129.06038 
+2> comp454_t0+_5-1 CN1C=NC=C1[C+]1CC=CO1 10 131.27902 
+FINAL SUMMARY: comp454 comp_corr [8] == 8 8,10
+
+comp455_t0 corr [14] == 14 14
+taut info: comp455_t0 c1(C(=O)O)cccc(-c2cc3c(nc2)oc(-c2ccc(F)cc2)c3)c1 -70.25474 
+1> comp455_t0+_9-6 O=C(O)C1=CC=CC(C2=CC3=C(N=C2)O[C+](C2=CC=C(F)C=C2)C3)=C1 14 136.63902000000002 
+FINAL SUMMARY: comp455 comp_corr [14] == 14 14
+
+comp456_t0 corr [8] == 8 8
+taut info: comp456_t0 c1(SC)[nH]c(=O)c2c(c1)occ2-c1ccccc1 -7.6035 
+1> comp456_t0+_6-4 CSC1=CC2=C(C(=O)N1)[C+](C1=CC=CC=C1)CO2 8 126.07721 
+FINAL SUMMARY: comp456 comp_corr [8] == 8 8
+
+comp457_t0 corr [7] == 7 7
+taut info: comp457_t0 c1(SC)nc(C(F)(F)F)c2c(n1)occ2-c1ccccc1 -102.4514 
+1> comp457_t0+_5-9 CSC1=NC(C(F)(F)F)=C2C(=N1)OC[C+]2C1=CC=CC=C1 7 146.84891 
+FINAL SUMMARY: comp457 comp_corr [7] == 7 7
+
+comp458_t0 corr [8] == 8 8
+taut info: comp458_t0 c1(SC)n(C)c(=O)c2c(n1)occ2-c1ccccc1 0.4846 
+1> comp458_t0+_5-8 CSC1=NC2=C(C(=O)N1C)[C+](C1=CC=CC=C1)CO2 8 128.30206 
+FINAL SUMMARY: comp458 comp_corr [8] == 8 8
+
+comp459_t0 corr [7] == 7 7
+taut info: comp459_t0 c1nc(OC)c2c(c1)occ2-c1ccccc1 2.32429 
+1> comp459_t0+_7-3 COC1=C2C(=CC=N1)OC[C+]2C1=CC=CC=C1 7 135.56507000000002 
+FINAL SUMMARY: comp459 comp_corr [7] == 7 7
+
+comp460_t0 semi [9, 8] == 2,9 2,8,9
+taut info: comp460_t0 n1ccc2c(c1OC)cco2 -23.82348 
+1> comp460_t0+_2-6 COC1=C2[CH+]COC2=CC=N1 9 139.83952 
+1> comp460_t0+_4-4 COC1=C2C=CO[C+]2CC=N1 2 140.02407 
+2> comp460_t0+_1-3 COC1=C2C[CH+]OC2=CC=N1 8 141.9255 
+FINAL SUMMARY: comp460 comp_semi [9, 8] == 2,9 2,8,9
+
+comp461_t0 corr [7] == 7 7
+taut info: comp461_t0 c1(/C=C2/SC(=O)NC2=O)ccc2c(c1)c(C)co2 -46.12447 
+1> comp461_t0+_4-3 C[C+]1COC2=CC=C(/C=C3/SC(=O)NC3=O)C=C21 7 140.68799 
+FINAL SUMMARY: comp461 comp_corr [7] == 7 7
+
+comp462_t0 corr [6] == 6 6
+taut info: comp462_t0 c1cnc2c(c1)cc(C)o2 7.74487 
+1> comp462_t0+_4-2 C[C+]1CC2=CC=CN=C2O1 6 138.70851000000002 
+FINAL SUMMARY: comp462 comp_corr [6] == 6 6
+
+comp463_t0 corr [7] == 7 7
+taut info: comp463_t0 c1nc(Cl)c2c(n1)occ2-c1ccccc1 43.3511 
+1> comp463_t0+_6-0 ClC1=C2C(=NC=N1)OC[C+]2C1=CC=CC=C1 7 143.42494 
+FINAL SUMMARY: comp463 comp_corr [7] == 7 7
+
+comp464_t0 corr [8] == 8 8
+taut info: comp464_t0 c1nc(Cl)c2c(n1)oc(-c1ccccc1)c2 43.06507 
+1> comp464_t0+_6-3 ClC1=C2C[C+](C3=CC=CC=C3)OC2=NC=N1 8 139.13792 
+FINAL SUMMARY: comp464 comp_corr [8] == 8 8
+
+comp465_t0 corr [0] == 0 0,2
+taut info: comp465_t0 c1ccc(CP(=O)(OCC)OCC)o1 -199.6252 
+1> comp465_t0+_1-5 CCOP(=O)(CC1=C[CH+]CO1)OCC 0 132.88703 
+2> comp465_t0+_3-12 CCOP(=O)(C[C+]1CC=CO1)OCC 2 135.78188 
+FINAL SUMMARY: comp465 comp_corr [0] == 0 0,2
+
+comp466_t0 corr [15] == 15 13,15
+taut info: comp466_t0 c1ncnc(-c2cc3c(nc2-c2ccco2)[nH]c(=O)[nH]3)c1 27.48407 
+1> comp466_t0+_2-6 O=C1NC2=C(N=C(C3=C[CH+]CO3)C(C3=CC=NC=N3)=C2)N1 15 136.97818 
+2> comp466_t0+_7-0 O=C1NC2=C(N=C([C+]3CC=CO3)C(C3=CC=NC=N3)=C2)N1 13 139.63362 
+FINAL SUMMARY: comp466 comp_corr [15] == 15 13,15
+
+comp467_t0 corr [8] == 8 8
+taut info: comp467_t0 c1nc(N)c2c(n1)oc(-c1ccccc1)c2 41.41582 
+1> comp467_t0+_6-0 NC1=C2C[C+](C3=CC=CC=C3)OC2=NC=N1 8 137.13808 
+FINAL SUMMARY: comp467 comp_corr [8] == 8 8
+
+comp468_t0 corr [19] == 14,19 14,19
+taut info: comp468_t0 c1c(C)c(C(C)Oc2c([N+]([O-])=O)ccc3c2occ3)c(C)c(F)c1 -69.89565 
+1> comp468_t0+_2-12 CC1=CC=C(F)C(C)=C1C(C)OC1=C([N+](=O)[O-])[CH+]CC2=C1OC=C2 14 145.85008 
+1> comp468_t0+_4-6 CC1=CC=C(F)C(C)=C1C(C)OC1=C([N+](=O)[O-])C=CC2=C1O[CH+]C2 19 145.415436 
+FINAL SUMMARY: comp468 comp_corr [19] == 14,19 14,19
+
+comp469_t0 corr [11] == 11 11
+taut info: comp469_t0 c1ccc2c(c1)nc(-c1occc1)s2 51.71853 
+1> comp469_t0+_3-1 C1=CC=C2SC(C3=C[CH+]CO3)=NC2=C1 11 139.10375 
+FINAL SUMMARY: comp469 comp_corr [11] == 11 11
+
+comp470_t0 corr [8] == 8 8
+taut info: comp470_t0 c1ccc2c(c1)occ2 10.28421 
+1> comp470_t0+_4-0 C1=CC=C2O[CH+]CC2=C1 8 138.04068 
+FINAL SUMMARY: comp470 comp_corr [8] == 8 8
+
+comp471_t0 semi [6, 0] == 6 0,6
+taut info: comp471_t0 c1cc2c(s1)cco2 23.80291 
+1> comp471_t0+_4-0 C1=CC2=C([CH+]CO2)S1 6 137.34844 
+2> comp471_t0+_1-0 C1=CC2=C([CH+]CS2)O1 0 138.87647 
+FINAL SUMMARY: comp471 comp_semi [6, 0] == 6 0,6
+
+comp472_t0 corr [3] == 3 3
+taut info: comp472_t0 c12c(cco1)n(C(=O)OC(C)(C)C)c(C(=O)OC)c2 -151.29126 
+1> comp472_t0+_2-0 COC(=O)C1=CC2=C([CH+]CO2)N1C(=O)OC(C)(C)C 3 136.5151 
+FINAL SUMMARY: comp472 comp_corr [3] == 3 3
+
+comp473_t0 corr [7] == 7 7
+taut info: comp473_t0 n1ccc2c(c1)occ2O[Si](c1ccccc1)(c1ccccc1)C(C)(C)C -42.03636 
+1> comp473_t0+_12-2 CC(C)(C)[Si](O[C+]1COC2=CN=CC=C21)(C1=CC=CC=C1)C1=CC=CC=C1 7 123.54483 
+FINAL SUMMARY: comp473 comp_corr [7] == 7 7
+
+comp474_t0 corr [11] == 11 11,13
+taut info: comp474_t0 c1cnc2n(c1)c(-c1occc1)cn2 56.11032 
+1> comp474_t0+_3-2 C1=CN2C(C3=C[CH+]CO3)=CN=C2N=C1 11 128.57312 
+2> comp474_t0+_7-3 C1=CN2C([C+]3CC=CO3)=CN=C2N=C1 13 130.25761 
+FINAL SUMMARY: comp474 comp_corr [11] == 11 11,13
+
+comp475_t0 fail [10] == 15 15
+taut info: comp475_t0 c1c(-n2nccc2)nc(-c2ccco2)nc1Cl 78.75726 
+1> comp475_t0+_3-2 ClC1=NC(C2=CC=CO2)=NC(N2[CH+]CC=N2)=C1 15 136.4869 
+FINAL SUMMARY: comp475 comp_fail [10] == 15 15
+
+comp476_t0 corr [15] == 15 15
+taut info: comp476_t0 c1ccc2n(c1Cl)nc(-c1ccco1)c2C=O 25.12499 
+1> comp476_t0+_4-1 O=CC1=C2C=CC=C(Cl)N2N=C1C1=C[CH+]CO1 15 137.50412 
+FINAL SUMMARY: comp476 comp_corr [15] == 15 15
+
+comp477_t0 corr [7] == 7 7,9
+taut info: comp477_t0 c1([Si](C)(C)C)ccc(-c2occc2)s1 -19.34014 
+1> comp477_t0+_1-1 C[Si](C)(C)C1=CC=C(C2=C[CH+]CO2)S1 7 129.07921 
+2> comp477_t0+_5-12 C[Si](C)(C)C1=CC=C([C+]2CC=CO2)S1 9 131.41321 
+FINAL SUMMARY: comp477 comp_corr [7] == 7 7,9
+
+comp478_t0 corr [16, 10] == 10,16 10,16
+taut info: comp478_t0 N(C(C)C)(C(C)C)B(c1occc1)c1ccco1 -55.639709 
+1> comp478_t0+_1-9 CC(C)N(B(C1=CC=CO1)C1=C[CH+]CO1)C(C)C 10 130.342301 
+FINAL SUMMARY: comp478 comp_corr [16, 10] == 10,16 10,16
+
+comp479_t0 corr [0] == 0 0,1
+taut info: comp479_t0 c1cc(C)c(C(=O)N(OC)C)o1 -54.18833 
+1> comp479_t0+_1-13 CON(C)C(=O)C1=C(C)[CH+]CO1 0 142.2338 
+2> comp479_t0+_2-13 CON(C)C(=O)C1=C(C)C[CH+]O1 1 143.8816 
+FINAL SUMMARY: comp479 comp_corr [0] == 0 0,1
+
+comp480_t0 corr [8] == 8 8
+taut info: comp480_t0 n1ccc2c(c1)oc(C)c2 7.83911 
+1> comp480_t0+_4-1 C[C+]1CC2=CC=NC=C2O1 8 138.68591 
+FINAL SUMMARY: comp480 comp_corr [8] == 8 8
+
+comp481_t0 corr [7] == 0,7 0,7
+taut info: comp481_t0 c1cnc2c(c1)occ2Br 30.30492 
+1> comp481_t0+_1-0 BrC1=COC2=CC[CH+]N=C12 0 150.94483 
+1> comp481_t0+_4-0 Br[C+]1COC2=CC=CN=C21 7 150.46016999999998 
+FINAL SUMMARY: comp481 comp_corr [7] == 0,7 0,7
+
+comp482_t0 fail [7] == 5 5
+taut info: comp482_t0 c1nc(N)c2c(c1)occ2 10.48391 
+1> comp482_t0+_4-3 NC1=C2C=CO[C+]2CC=N1 5 125.25538999999999 
+FINAL SUMMARY: comp482 comp_fail [7] == 5 5
+
+comp483_t0 corr [0] == 0 0
+taut info: comp483_t0 c1ccc(/C=C/C=C2C(=O)OC(C)(C)OC2=O)o1 -149.54233 
+1> comp483_t0+_1-0 CC1(C)OC(=O)C(=C/C=C/C2=C[CH+]CO2)C(=O)O1 0 139.42221 
+FINAL SUMMARY: comp483 comp_corr [0] == 0 0
+
+comp484_t0 corr [0] == 0 0,2
+taut info: comp484_t0 c1ccc([Ge](CC)(CC)CC)o1 -43.44297 
+1> comp484_t0+_1-6 CC[Ge](CC)(CC)C1=C[CH+]CO1 0 132.40724 
+2> comp484_t0+_3-6 CC[Ge](CC)(CC)[C+]1CC=CO1 2 135.02164 
+FINAL SUMMARY: comp484 comp_corr [0] == 0 0,2
+
+comp485_t0 corr [0] == 0 0
+taut info: comp485_t0 c1oc2c(c1C)C(=O)[C@H]1[C@](C)(CCC=C(C)C2)O1 -64.95422 
+1> comp485_t0+_1-9 CC1=CCC[C@]2(C)O[C@H]2C(=O)C2=C(C1)OC[C+]2C 0 138.75557 
+FINAL SUMMARY: comp485 comp_corr [0] == 0 0
+
+comp486_t0 corr [11] == 11 9,11
+taut info: comp486_t0 c1(=O)[nH]c(=O)c(-c2ccco2)n[nH]1 -48.98997 
+1> comp486_t0+_2-3 O=C1NN=C(C2=C[CH+]CO2)C(=O)N1 11 133.8099 
+2> comp486_t0+_3-2 O=C1NN=C([C+]2CC=CO2)C(=O)N1 9 135.52231999999998 
+FINAL SUMMARY: comp486 comp_corr [11] == 11 9,11
+
+comp487_t0 corr [8] == 8 8
+taut info: comp487_t0 c1cnc2c(n1)oc(-c1ccc(C)cc1)c2 42.52855 
+1> comp487_t0+_5-3 CC1=CC=C([C+]2CC3=NC=CN=C3O2)C=C1 8 136.0439 
+FINAL SUMMARY: comp487 comp_corr [8] == 8 8
+
+comp488_t0 corr [0, 2] == 0,2 0,2
+taut info: comp488_t0 c1cccc([N+]([O-])=O)c1 6.71075 
+1> comp488_t0+_1-2 O=[N+]([O-])C1=CC[CH+]C=C1 0 159.77303 
+FINAL SUMMARY: comp488 comp_corr [0, 2] == 0,2 0,2
+
+comp489_t0 corr [0, 2] == 2,0 2,0
+taut info: comp489_t0 c1c(C)ccc([N+]([O-])=O)c1 -3.17026 
+1> comp489_t0+_1-2 CC1=CC=C([N+](=O)[O-])[CH+]C1 2 157.28717 
+FINAL SUMMARY: comp489 comp_corr [0, 2] == 0,2 0,2
+
+comp490_t0 corr [0, 2] == 2,0 2,0
+taut info: comp490_t0 c1c(N)ccc([N+]([O-])=O)c1 1.02233 
+1> comp490_t0+_1-4 NC1=CC=C([N+](=O)[O-])[CH+]C1 2 136.7523 
+FINAL SUMMARY: comp490 comp_corr [0, 2] == 0,2 0,2
+
+comp492_t0 semi [0, 5, 2, 3] == 2,0 2,3,0,5
+taut info: comp492_t0 c1c(C=O)ccc([N+]([O-])=O)c1 -27.90554 
+1> comp492_t0+_1-3 O=CC1=CC=C([N+](=O)[O-])[CH+]C1 2 164.84522 
+2> comp492_t0+_2-5 O=CC1=CC=C([N+](=O)[O-])C[CH+]1 3 167.46889000000002 
+FINAL SUMMARY: comp492 comp_semi [0, 5, 2, 3] == 0,2 0,2,3,5
+
+comp493_t0 corr [2, 0] == 2,0 2,0
+taut info: comp493_t0 c1c(F)ccc([N+]([O-])=O)c1 -36.4202 
+1> comp493_t0+_1-0 O=[N+]([O-])C1=CC=C(F)C[CH+]1 2 162.06964 
+FINAL SUMMARY: comp493 comp_corr [2, 0] == 0,2 0,2
+
+comp494_t0 corr [0, 2] == 0,2 0,3,2,5
+taut info: comp494_t0 c1cccc(C=O)c1 -13.93201 
+1> comp494_t0+_1-1 O=CC1=CC[CH+]C=C1 0 153.08977 
+2> comp494_t0+_4-1 O=CC1=CC=C[CH+]C1 3 156.0452 
+FINAL SUMMARY: comp494 comp_corr [0, 2] == 0,2 0,2,3,5
+
+comp495_t0 corr [1] == 1 1,3,5
+taut info: comp495_t0 c1cccc(F)c1 -21.49587 
+1> comp495_t0+_2-0 FC1=C[CH+]CC=C1 1 151.57757999999998 
+2> comp495_t0+_4-0 FC1=CC=C[CH+]C1 3 152.61353 
+FINAL SUMMARY: comp495 comp_corr [1] == 1 1,3,5
+
+comp496_t0 corr [2] == 2 0,2
+taut info: comp496_t0 c1cccc(C(Cl)(Cl)Cl)c1F -39.35971 
+1> comp496_t0+_3-0 FC1=C(C(Cl)(Cl)Cl)[CH+]CC=C1 2 157.28635 
+2> comp496_t0+_1-0 FC1=C(C(Cl)(Cl)Cl)C=C[CH+]C1 0 159.72468 
+FINAL SUMMARY: comp496 comp_corr [2] == 2 0,2
+
+comp497_t0 corr [2] == 2 0,2
+taut info: comp497_t0 c1cccc(C(Cl)(Cl)Cl)c1Cl -1.62466 
+1> comp497_t0+_3-0 ClC1=C(C(Cl)(Cl)Cl)[CH+]CC=C1 2 153.90333 
+2> comp497_t0+_1-0 ClC1=C(C(Cl)(Cl)Cl)C=C[CH+]C1 0 156.07248 
+FINAL SUMMARY: comp497 comp_corr [2] == 2 0,2
+
+comp498_t0 corr [1] == 1,5 1,5
+taut info: comp498_t0 c1(C(F)F)ccc2c(c1)NCCC2 -89.73861 
+1> comp498_t0+_1-1 FC(F)[C+]1C=C2NCCCC2=CC1 1 132.04133 
+1> comp498_t0+_3-0 FC(F)C1=CC=C2CCCN[C+]2C1 5 132.71015 
+FINAL SUMMARY: comp498 comp_corr [1] == 1,5 1,5
+
+comp499_t0 corr [2] == 2 2
+taut info: comp499_t0 c1([N+]([O-])=O)cccc(C(F)F)c1 -92.97876 
+1> comp499_t0+_1-0 O=[N+]([O-])C1=CC[CH+]C(C(F)F)=C1 2 164.49928999999997 
+FINAL SUMMARY: comp499 comp_corr [2] == 2 2
+
+comp500_t0 corr [5, 3] == 3,5 1,3,5
+taut info: comp500_t0 c1(OCC)cc(OCC)cc(CBr)c1 -70.02977 
+1> comp500_t0+_2-18 CCOC1=C[C+](OCC)CC(CBr)=C1 3 137.90125 
+2> comp500_t0+_1-5 CCOC1=CC(CBr)=C[C+](OCC)C1 1 140.76861 
+FINAL SUMMARY: comp500 comp_corr [5, 3] == 3,5 1,3,5
+
+comp501_t0 corr [1] == 1 1,2,5
+taut info: comp501_t0 c1(CCl)ccc2c(c1)OCO2 -53.83846 
+1> comp501_t0+_1-2 ClC[C+]1C=C2OCOC2=CC1 1 148.23167 
+2> comp501_t0+_2-2 ClCC1=CC[C+]2OCOC2=C1 2 150.37721 
+2> comp501_t0+_3-3 ClCC1=CC=C2OCO[C+]2C1 5 150.27735 
+FINAL SUMMARY: comp501 comp_corr [1] == 1 1,2,5
+
+comp502_t0 corr [5] == 1,3,5 1,3,5
+taut info: comp502_t0 c1cc(O[Si](C)(C)C(C)(C)C)cc(CBr)c1 -106.97804 
+1> comp502_t0+_2-6 CC(C)(C)[Si](C)(C)OC1=CC(CBr)=C[CH+]C1 1 132.37290099999998 
+1> comp502_t0+_3-0 CC(C)(C)[Si](C)(C)O[C+]1C=CC=C(CBr)C1 3 132.56984 
+1> comp502_t0+_4-5 CC(C)(C)[Si](C)(C)OC1=C[C+](CBr)CC=C1 5 132.203901 
+FINAL SUMMARY: comp502 comp_corr [5] == 1,3,5 1,3,5
+
+comp503_t0 corr [5, 3] == 3,5 1,3,5
+taut info: comp503_t0 c1(OC)cc(OC)cc(CBr)c1 -58.17296 
+1> comp503_t0+_2-12 COC1=C[C+](OC)CC(CBr)=C1 3 137.63781 
+2> comp503_t0+_1-12 COC1=CC(CBr)=C[C+](OC)C1 1 140.05163 
+FINAL SUMMARY: comp503 comp_corr [5, 3] == 3,5 1,3,5
+
+comp504_t0 corr [1] == 1 1,3,5
+taut info: comp504_t0 c1cccc(C)c1 13.13038 
+1> comp504_t0+_2-2 CC1=C[CH+]CC=C1 1 146.71397 
+2> comp504_t0+_4-2 CC1=CC=C[CH+]C1 3 147.73574 
+FINAL SUMMARY: comp504 comp_corr [1] == 1 1,3,5
+
+comp505_t0 semi [2, 4, 0] == 2 0,2,4
+taut info: comp505_t0 c1ccccc1O -24.37078 
+1> comp505_t0+_3-3 OC1=C[CH+]CC=C1 2 140.15321 
+2> comp505_t0+_1-2 OC1=CC=C[CH+]C1 0 141.84858 
+FINAL SUMMARY: comp505 comp_semi [2, 4, 0] == 2 0,2,4
+
+comp508_t0 fail [2] == 0,4 0,4
+taut info: comp508_t0 c1c(O)cc(O)cc1[Si](C)(C)C -117.12413 
+1> comp508_t0+_1-8 C[Si](C)(C)C1=CC(O)=C[C+](O)C1 0 130.31267 
+FINAL SUMMARY: comp508 comp_fail [2] == 0,4 0,4
+
+comp509_t0 corr [3, 1] == 3,1 3,1
+taut info: comp509_t0 c1(O)cccc(O)c1[Si](C)(C(C)(C)C)C -126.11708 
+1> comp509_t0+_2-4 CC(C)(C)[Si](C)(C)C1=C(O)C[CH+]C=C1O 3 130.19865000000001 
+FINAL SUMMARY: comp509 comp_corr [3, 1] == 1,3 1,3
+
+comp510_t0 corr [9] == 9 9
+taut info: comp510_t0 c1ccc2c(c1)cc([Si](c1ccccc1)(c1ccccc1)c1ccccc1)c(OC)c2 55.130213 
+1> comp510_t0+_18-9 CO[C+]1CC2=CC=CC=C2C=C1[Si](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1 9 131.483123 
+FINAL SUMMARY: comp510 comp_corr [9] == 9 9
+
+comp511_t0 corr [3, 8] == 3,8 3,5,8,12
+taut info: comp511_t0 c1(N(C)C)c(F)ccc([Si](c2ccc(F)c(N(C)C)c2)(C)C)c1 -82.18144 
+1> comp511_t0+_2-6 CN(C)C1=CC([Si](C)(C)C2=CC(N(C)C)=C(F)[CH+]C2)=CC=C1F 3 132.19011899999998 
+2> comp511_t0+_3-12 CN(C)C1=CC([Si](C)(C)[C+]2C=CC(F)=C(N(C)C)C2)=CC=C1F 5 133.63602 
+FINAL SUMMARY: comp511 comp_corr [3, 8] == 3,8 3,5,8,12
+
+comp512_t0 corr [1, 4] == 1,4 1,7,4,10
+taut info: comp512_t0 c1(O)cc2c(cc1O)cccc2 -52.0297 
+1> comp512_t0+_5-2 OC1=CC2=C(C=CC=C2)C[C+]1O 1 140.4365 
+2> comp512_t0+_1-0 OC1=CC2=C(C=C1O)C[CH+]C=C2 7 141.7026 
+FINAL SUMMARY: comp512 comp_corr [1, 4] == 1,4 1,4,7,10
+
+comp514_t0 corr [2, 5] == 2,5 2,5
+taut info: comp514_t0 c1(O)c(O)cc2c(c1)CCN(C)CC2c1ccccc1 -50.41935 
+1> comp514_t0+_5-12 CN1CCC2=CC(O)=C(O)C[C+]2C(C2=CC=CC=C2)C1 2 144.89162 
+1> comp514_t0+_6-5 CN1CC[C+]2CC(O)=C(O)C=C2C(C2=CC=CC=C2)C1 5 145.13046 
+FINAL SUMMARY: comp514 comp_corr [2, 5] == 2,5 2,5
+
+comp515_t0 corr [2, 5] == 2,5 2,5
+taut info: comp515_t0 c1(O)c(O)cc2c(c1)CCN(CC=C)CC2c1ccccc1 -30.575732 
+1> comp515_t0+_5-0 C=CCN1CCC2=CC(O)=C(O)C[C+]2C(C2=CC=CC=C2)C1 2 145.476072 
+1> comp515_t0+_6-15 C=CCN1CC[C+]2CC(O)=C(O)C=C2C(C2=CC=CC=C2)C1 5 144.565712 
+FINAL SUMMARY: comp515 comp_corr [2, 5] == 2,5 2,5
+
+comp516_t0 corr [3, 1] == 1,3 1,3
+taut info: comp516_t0 c1cc(C)ccc1C(F)(F)F -146.51926 
+1> comp516_t0+_2-2 CC1=CC=C(C(F)(F)F)[CH+]C1 1 155.27058 
+FINAL SUMMARY: comp516 comp_corr [3, 1] == 1,3 1,3
+
+comp517_t0 corr [3, 1] == 1,3 1,3
+taut info: comp517_t0 c1cc(Cl)ccc1C(F)(F)F -143.03084 
+1> comp517_t0+_2-0 FC(F)(F)C1=CC=C(Cl)C[CH+]1 1 157.61714 
+FINAL SUMMARY: comp517 comp_corr [3, 1] == 1,3 1,3
+
+comp518_t0 corr [4, 0] == 0,4 0,2,4
+taut info: comp518_t0 c1c(N)cccc1C(F)(F)F -140.5266 
+1> comp518_t0+_3-1 N[C+]1C=CC=C(C(F)(F)F)C1 0 134.70686 
+1> comp518_t0+_4-1 NC1=C[C+](C(F)(F)F)CC=C1 4 134.54532 
+2> comp518_t0+_1-3 NC1=CC(C(F)(F)F)=C[CH+]C1 2 136.03671 
+FINAL SUMMARY: comp518 comp_corr [4, 0] == 0,4 0,2,4
+
+comp519_t0 corr [3] == 3 1,3
+taut info: comp519_t0 c1(N)ccccc1C(F)(F)F -138.92885 
+1> comp519_t0+_2-1 NC1=C[CH+]CC=C1C(F)(F)F 3 134.72484 
+2> comp519_t0+_3-2 N[C+]1CC=CC=C1C(F)(F)F 1 136.47522 
+FINAL SUMMARY: comp519 comp_corr [3] == 3 1,3
+
+comp520_t0 corr [2] == 2 2
+taut info: comp520_t0 c1(C(=O)O)cccc(C(F)(F)F)c1 -228.67965 
+1> comp520_t0+_1-2 O=C(O)C1=CC[CH+]C(C(F)(F)F)=C1 2 162.19783 
+FINAL SUMMARY: comp520 comp_corr [2] == 2 2
+
+comp521_t0 corr [3] == 3 1,3
+taut info: comp521_t0 c1(N)cccc(F)c1C(F)(F)F -182.61288 
+1> comp521_t0+_2-2 NC1=C[CH+]CC(F)=C1C(F)(F)F 3 135.84571 
+2> comp521_t0+_3-2 N[C+]1CC=CC(F)=C1C(F)(F)F 1 137.02023 
+FINAL SUMMARY: comp521 comp_corr [3] == 3 1,3
+
+comp522_t0 semi [4] == 0 0,4
+taut info: comp522_t0 c1c(F)c(B2OC(=O)CN(C)CC(=O)O2)ccc1C(F)(F)F -395.50681 
+1> comp522_t0+_1-6 CN1CC(=O)OB(C2=CC=C(C(F)(F)F)C[C+]2F)OC(=O)C1 0 160.07735999999997 
+2> comp522_t0+_3-2 CN1CC(=O)OB(C2=CC[C+](C(F)(F)F)C=C2F)OC(=O)C1 4 162.78860999999998 
+FINAL SUMMARY: comp522 comp_semi [4] == 0 0,4
+
+comp523_t0 fail [5] == 20,24 20,24
+taut info: comp523_t0 c1(C(F)(F)F)c(C)cc2c(c1)NCCC[C@@H]2N(c1nnn(C)n1)Cc1cc(C(F)(F)F)cc(C(F)(F)F)c1 -348.053092 
+1> comp523_t0+_3-5 CC1=C(C(F)(F)F)C=C2NCCC[C@H](N(C[C+]3C=C(C(F)(F)F)C=C(C(F)(F)F)C3)C3=NN(C)N=N3)C2=C1 20 125.64596899999998 
+FINAL SUMMARY: comp523 comp_fail [5] == 20,24 20,24
+
+comp524_t0 semi [2, 0, 4] == 2 0,2,4
+taut info: comp524_t0 c1ccccc1NC(=O)C -24.26688 
+1> comp524_t0+_3-5 CC(=O)NC1=C[CH+]CC=C1 2 135.90458999999998 
+2> comp524_t0+_1-0 CC(=O)NC1=CC=C[CH+]C1 0 137.07477 
+FINAL SUMMARY: comp524 comp_semi [2, 0, 4] == 2 0,2,4
+
+comp526_t0 corr [4, 0] == 0,4 0,4
+taut info: comp526_t0 c1cc(C)ccc1NC(=O)C -33.72145 
+1> comp526_t0+_1-4 CC(=O)NC1=CC=C(C)[CH+]C1 0 136.82833 
+FINAL SUMMARY: comp526 comp_corr [4, 0] == 0,4 0,4
+
+comp528_t0 semi [5] == 1 1,5
+taut info: comp528_t0 c1(NC(=O)C)ccc2c(c1)CCC2=O -68.63788 
+1> comp528_t0+_1-1 CC(=O)N[C+]1C=C2CCC(=O)C2=CC1 1 137.41734 
+2> comp528_t0+_3-5 CC(=O)NC1=CC=C2C(=O)CC[C+]2C1 5 139.52681 
+FINAL SUMMARY: comp528 comp_semi [5] == 1 1,5
+
+comp529_t0 corr [1, 5] == 1,5 1,5
+taut info: comp529_t0 c1cc(OC)cc(NC(=O)C(=O)OCC)c1 -139.73023 
+1> comp529_t0+_2-8 CCOC(=O)C(=O)NC1=C[CH+]CC(OC)=C1 1 135.99822 
+1> comp529_t0+_4-15 CCOC(=O)C(=O)N[C+]1C=C(OC)C=CC1 5 136.04144 
+FINAL SUMMARY: comp529 comp_corr [1, 5] == 1,5 1,5
+
+comp530_t0 corr [1] == 1 1
+taut info: comp530_t0 c1(NC(=O)C(F)(F)F)ccc2c(c1)OC(F)(F)O2 -345.4427 
+1> comp530_t0+_1-3 O=C(N[C+]1C=C2OC(F)(F)OC2=CC1)C(F)(F)F 1 148.32749 
+FINAL SUMMARY: comp530 comp_corr [1] == 1 1
+
+comp531_t0 corr [14, 16] == 16,14 16,14
+taut info: comp531_t0 c1ccc(Cn2cc(-c3ccc(NC(=O)C)cc3)nn2)cc1 63.17302 
+1> comp531_t0+_5-1 CC(=O)NC1=CC=C(C2=CN(CC3=CC=CC=C3)N=N2)[CH+]C1 16 137.76121999999998 
+FINAL SUMMARY: comp531 comp_corr [14, 16] == 14,16 14,16
+
+comp532_t0 corr [0] == 0,2 0,2
+taut info: comp532_t0 c1ccc2c(c1/C=C/C(=O)OCC)C(=O)C(=O)N2C -117.25715 
+1> comp532_t0+_1-3 CCOC(=O)/C=C/C1=C2C(=O)C(=O)N(C)C2=C[CH+]C1 0 144.00158 
+1> comp532_t0+_3-4 CCOC(=O)/C=C/C1=C2C(=O)C(=O)N(C)[C+]2CC=C1 2 144.43885 
+FINAL SUMMARY: comp532 comp_corr [0] == 0,2 0,2
+
+comp533_t0 fail [1] == 2 2
+taut info: comp533_t0 c1(/C=C/C(=O)OCC)ccc2c(c1C)C(=O)C(=O)N2C -127.53542 
+1> comp533_t0+_2-4 CCOC(=O)/C=C/C1=CC[C+]2C(=C1C)C(=O)C(=O)N2C 2 144.41115 
+FINAL SUMMARY: comp533 comp_fail [1] == 2 2
+
+comp534_t0 corr [2] == 2 0,2
+taut info: comp534_t0 c1cccc(C)c1N 10.60435 
+1> comp534_t0+_3-3 CC1=C(N)C=CC[CH+]1 2 127.89546 
+2> comp534_t0+_1-0 CC1=C(N)C[CH+]C=C1 0 129.87811 
+FINAL SUMMARY: comp534 comp_corr [2] == 2 0,2
+
+comp535_t0 corr [2] == 2 0,2,4
+taut info: comp535_t0 c1c(C)cc(C)cc1N 0.03115 
+1> comp535_t0+_2-0 CC1=CC(N)=C[C+](C)C1 2 125.69113 
+2> comp535_t0+_1-3 CC1=C[C+](C)CC(N)=C1 0 127.17986 
+FINAL SUMMARY: comp535 comp_corr [2] == 2 0,2,4
+
+comp536_t0 corr [0, 4] == 0,4 0,4
+taut info: comp536_t0 c1cc(C#N)ccc1N 50.78613 
+1> comp536_t0+_1-2 N#CC1=CC=C(N)C[CH+]1 0 133.88907 
+FINAL SUMMARY: comp536 comp_corr [0, 4] == 0,4 0,4
+
+comp537_t0 corr [2] == 2 0,2
+taut info: comp537_t0 c1cccc(C#N)c1N 51.96545 
+1> comp537_t0+_3-0 N#CC1=C(N)C=CC[CH+]1 2 133.15502 
+2> comp537_t0+_1-2 N#CC1=C(N)C[CH+]C=C1 0 134.90627 
+FINAL SUMMARY: comp537 comp_corr [2] == 2 0,2
+
+comp538_t0 corr [6] == 6 6
+taut info: comp538_t0 c1ccc2c(c1)cc(N)cc2 35.36345 
+1> comp538_t0+_7-2 N[C+]1C=CC2=CC=CC=C2C1 6 122.09053 
+FINAL SUMMARY: comp538 comp_corr [6] == 6 6
+
+comp539_t0 corr [0, 4] == 0,4 0,4
+taut info: comp539_t0 c1cc(OC)ccc1N -19.68321 
+1> comp539_t0+_1-5 COC1=CC=C(N)C[CH+]1 0 129.76881 
+FINAL SUMMARY: comp539 comp_corr [0, 4] == 0,4 0,4
+
+comp540_t0 corr [4, 0] == 0,4 0,4
+taut info: comp540_t0 c1cc(CCO)ccc1N -37.71897 
+1> comp540_t0+_1-1 NC1=CC=C(CCO)[CH+]C1 0 129.89516 
+FINAL SUMMARY: comp540 comp_corr [4, 0] == 0,4 0,4
+
+comp541_t0 corr [2] == 2 0,2
+taut info: comp541_t0 c1cccc(OC)c1N -17.73737 
+1> comp541_t0+_3-3 COC1=C(N)C=CC[CH+]1 2 128.3003 
+2> comp541_t0+_1-9 COC1=C(N)C[CH+]C=C1 0 130.16871 
+FINAL SUMMARY: comp541 comp_corr [2] == 2 0,2
+
+comp542_t0 corr [4, 0] == 0,4 0,4
+taut info: comp542_t0 c1cc(CC#N)ccc1N 44.22601 
+1> comp542_t0+_1-1 N#CCC1=CC=C(N)C[CH+]1 0 131.46266 
+FINAL SUMMARY: comp542 comp_corr [4, 0] == 0,4 0,4
+
+comp543_t0 corr [4, 0] == 0,4 0,4
+taut info: comp543_t0 c1cc(C(=O)C)ccc1N -25.68227 
+1> comp543_t0+_1-6 CC(=O)C1=CC=C(N)C[CH+]1 0 131.73144 
+FINAL SUMMARY: comp543 comp_corr [4, 0] == 0,4 0,4
+
+comp544_t0 corr [6] == 6 6,8
+taut info: comp544_t0 c1(F)ccc2c(c1)cccc2N -7.37718 
+1> comp544_t0+_1-0 NC1=C[CH+]CC2=CC(F)=CC=C12 6 122.49956999999999 
+2> comp544_t0+_6-0 N[C+]1CC=CC2=CC(F)=CC=C21 8 124.59558 
+FINAL SUMMARY: comp544 comp_corr [6] == 6 6,8
+
+comp545_t0 semi [2, 0] == 2 0,2
+taut info: comp545_t0 c1cccc(C(=O)N)c1N -23.74486 
+1> comp545_t0+_3-4 NC(=O)C1=C(N)C=CC[CH+]1 2 128.36136 
+2> comp545_t0+_1-3 NC(=O)C1=C(N)C[CH+]C=C1 0 129.63049 
+FINAL SUMMARY: comp545 comp_semi [2, 0] == 2 0,2
+
+comp546_t0 corr [0, 4] == 0,4 0,4
+taut info: comp546_t0 c1cc(S(F)(F)(F)(F)F)ccc1N -210.65132 
+1> comp546_t0+_1-6 NC1=CC=C(S(F)(F)(F)(F)F)[CH+]C1 0 136.63461999999998 
+FINAL SUMMARY: comp546 comp_corr [0, 4] == 0,4 0,4
+
+comp547_t0 semi [5] == 1 1,3,5
+taut info: comp547_t0 c1(N)cc(S(F)(F)(F)(F)F)ccc1 -208.16789 
+1> comp547_t0+_3-6 N[C+]1C=CC=C(S(F)(F)(F)(F)F)C1 1 137.22003999999998 
+2> comp547_t0+_2-0 NC1=CC(S(F)(F)(F)(F)F)=C[CH+]C1 5 139.53895 
+2> comp547_t0+_4-6 NC1=C[C+](S(F)(F)(F)(F)F)CC=C1 3 138.33463 
+FINAL SUMMARY: comp547 comp_semi [5] == 1 1,3,5
+
+comp548_t0 corr [6] == 6 6
+taut info: comp548_t0 c1cnc2c(n1)cc(N)cc2 48.48318 
+1> comp548_t0+_5-0 N[C+]1C=CC2=NC=CN=C2C1 6 126.36401999999998 
+FINAL SUMMARY: comp548 comp_corr [6] == 6 6
+
+comp549_t0 corr [0, 4] == 0,4 0,4
+taut info: comp549_t0 c1cc(OC(=O)C)ccc1N -65.77457 
+1> comp549_t0+_1-0 CC(=O)OC1=CC=C(N)C[CH+]1 0 133.06560000000002 
+FINAL SUMMARY: comp549 comp_corr [0, 4] == 0,4 0,4
+
+comp550_t0 corr [4, 0] == 0,4 0,4
+taut info: comp550_t0 c1cc(OS(=O)(=O)C)ccc1N -102.30905 
+1> comp550_t0+_1-2 CS(=O)(=O)OC1=CC=C(N)C[CH+]1 0 128.077 
+FINAL SUMMARY: comp550 comp_corr [4, 0] == 0,4 0,4
+
+comp551_t0 corr [2] == 0,2 0,2
+taut info: comp551_t0 c1c(N)cc2c(c1)C(=O)CCC2 -32.21052 
+1> comp551_t0+_1-3 N[C+]1C=C2CCCC(=O)C2=CC1 0 130.95656 
+1> comp551_t0+_2-3 NC1=CC=C2C(=O)CCC[C+]2C1 2 131.21863000000002 
+FINAL SUMMARY: comp551 comp_corr [2] == 0,2 0,2
+
+comp552_t0 corr [10] == 10 10,12
+taut info: comp552_t0 c1cccc(C(=O)c2ccccc2N)c1 11.29373 
+1> comp552_t0+_5-6 NC1=C[CH+]CC=C1C(=O)C1=CC=CC=C1 10 128.9495 
+2> comp552_t0+_9-6 N[C+]1CC=CC=C1C(=O)C1=CC=CC=C1 12 130.61059999999998 
+FINAL SUMMARY: comp552 comp_corr [10] == 10 10,12
+
+comp553_t0 corr [0] == 0 0
+taut info: comp553_t0 c1cc(SCCO)cc(C)c1N -37.64978 
+1> comp553_t0+_1-7 CC1=C(N)C[CH+]C(SCCO)=C1 0 133.07915 
+FINAL SUMMARY: comp553 comp_corr [0] == 0 0
+
+comp554_t0 corr [2] == 2 2,4
+taut info: comp554_t0 c1(OC(F)(F)F)ccc(C)cc1N -193.43794 
+1> comp554_t0+_2-0 C[C+]1C=C(N)C(OC(F)(F)F)=CC1 2 132.81355 
+2> comp554_t0+_3-2 CC1=CC=C(OC(F)(F)F)[C+](N)C1 4 134.41449 
+FINAL SUMMARY: comp554 comp_corr [2] == 2 2,4
+
+comp555_t0 corr [2] == 2 0,2
+taut info: comp555_t0 c1cccc(C2(C)OCCO2)c1N -62.09883 
+1> comp555_t0+_3-3 CC1(C2=C(N)C=CC[CH+]2)OCCO1 2 126.97597999999999 
+2> comp555_t0+_1-8 CC1(C2=C(N)C[CH+]C=C2)OCCO1 0 128.85577 
+FINAL SUMMARY: comp555 comp_corr [2] == 2 0,2
+
+comp556_t0 corr [2] == 2 0,2
+taut info: comp556_t0 c1cccc(/[N+]([O-])=N\C(C)C)c1N 37.68079 
+1> comp556_t0+_3-3 CC(C)/N=[N+](/[O-])C1=C(N)C=CC[CH+]1 2 137.18709 
+2> comp556_t0+_1-13 CC(C)/N=[N+](/[O-])C1=C(N)C[CH+]C=C1 0 139.40726 
+FINAL SUMMARY: comp556 comp_corr [2] == 2 0,2
+
+comp557_t0 corr [2] == 2 2
+taut info: comp557_t0 c1c(N)cc2c(c1)oc(=O)cc2 -46.21772 
+1> comp557_t0+_4-2 NC1=CC=C2OC(=O)C=C[C+]2C1 2 132.07029 
+FINAL SUMMARY: comp557 comp_corr [2] == 2 2
+
+comp558_t0 corr [0, 4] == 0,4 0,4
+taut info: comp558_t0 c1cc(C2CCN(OC)CC2)ccc1N -0.40691 
+1> comp558_t0+_1-2 CON1CCC(C2=CC=C(N)C[CH+]2)CC1 0 129.66272 
+FINAL SUMMARY: comp558 comp_corr [0, 4] == 0,4 0,4
+
+comp559_t0 fail [0, 4] == 8 8
+taut info: comp559_t0 c1cc(C2=CCN(OC)CC2)ccc1N 20.91402 
+1> comp559_t0+_5-3 CON1CC[C+](C2=CC=C(N)C=C2)CC1 8 125.376 
+FINAL SUMMARY: comp559 comp_fail [0, 4] == 8 8
+
+comp560_t0 corr [0, 4] == 0,4 0,4
+taut info: comp560_t0 c1cc(C(C(F)(F)F)(C(F)(F)F)F)ccc1N -339.67109 
+1> comp560_t0+_1-2 NC1=CC=C(C(F)(C(F)(F)F)C(F)(F)F)[CH+]C1 0 135.55250999999998 
+FINAL SUMMARY: comp560 comp_corr [0, 4] == 0,4 0,4
+
+comp561_t0 corr [4, 2] == 2,4 0,2,4
+taut info: comp561_t0 c1ccc(S(=O)C(F)(F)F)cc1N -147.50433 
+1> comp561_t0+_3-3 NC1=C[C+](S(=O)C(F)(F)F)CC=C1 2 135.98823000000002 
+1> comp561_t0+_4-3 N[C+]1C=CC=C(S(=O)C(F)(F)F)C1 4 135.43325000000002 
+2> comp561_t0+_1-2 NC1=CC(S(=O)C(F)(F)F)=C[CH+]C1 0 137.08678 
+FINAL SUMMARY: comp561 comp_corr [4, 2] == 2,4 0,2,4
+
+comp562_t0 corr [2] == 2 2
+taut info: comp562_t0 c1(Cl)ccc2c(c1N)OCO2 -50.26838 
+1> comp562_t0+_2-1 NC1=C2OCO[C+]2CC=C1Cl 2 132.39119 
+FINAL SUMMARY: comp562 comp_corr [2] == 2 2
+
+comp563_t0 corr [0, 4] == 0,4 0,4
+taut info: comp563_t0 c1cc(OS(=O)(=O)c2ccc(C)cc2)ccc1N -76.11147 
+1> comp563_t0+_1-15 CC1=CC=C(S(=O)(=O)OC2=CC=C(N)C[CH+]2)C=C1 0 129.37236000000001 
+FINAL SUMMARY: comp563 comp_corr [0, 4] == 0,4 0,4
+
+comp564_t0 corr [0] == 0 0
+taut info: comp564_t0 c1cc(C)cc(/[N+]([O-])=N\C(C)(C)C)c1N 25.09565 
+1> comp564_t0+_1-7 CC1=CC(/[N+]([O-])=N\C(C)(C)C)=C(N)C[CH+]1 0 137.23316 
+FINAL SUMMARY: comp564 comp_corr [0] == 0 0
+
+comp565_t0 semi [3, 5] == 3 1,3,5
+taut info: comp565_t0 c1(N)cccc(COCC(C(F)(F)F)(F)F)c1 -281.89829 
+1> comp565_t0+_2-4 NC1=C[CH+]CC(COCC(F)(F)C(F)(F)F)=C1 3 130.75047999999998 
+2> comp565_t0+_3-12 N[C+]1C=C(COCC(F)(F)C(F)(F)F)C=CC1 1 132.16782999999998 
+2> comp565_t0+_4-5 NC1=CC=C[C+](COCC(F)(F)C(F)(F)F)C1 5 132.83400999999998 
+FINAL SUMMARY: comp565 comp_semi [3, 5] == 3 1,3,5
+
+comp566_t0 corr [2] == 0,2 0,2
+taut info: comp566_t0 c1ccc2c(c1N)C(=O)NC2=O -55.0649 
+1> comp566_t0+_1-1 NC1=C2C(=O)NC(=O)C2=C[CH+]C1 0 138.48562 
+1> comp566_t0+_3-0 NC1=C2C(=O)NC(=O)[C+]2CC=C1 2 137.50977 
+FINAL SUMMARY: comp566 comp_corr [2] == 0,2 0,2
+
+comp567_t0 corr [11, 13] == 13,11 13,11
+taut info: comp567_t0 c1ccc2c(c1)oc(-c1ccc(N)cc1)n2 34.06427 
+1> comp567_t0+_3-0 NC1=CC=C(C2=NC3=CC=CC=C3O2)[CH+]C1 13 132.04891 
+FINAL SUMMARY: comp567 comp_corr [11, 13] == 11,13 11,13
+
+comp568_t0 corr [2] == 2 0,2
+taut info: comp568_t0 c1cccc(C(=O)C(F)(F)C(F)(F)F)c1N -263.06427 
+1> comp568_t0+_3-1 NC1=C(C(=O)C(F)(F)C(F)(F)F)[CH+]CC=C1 2 133.56676000000002 
+2> comp568_t0+_1-6 NC1=C(C(=O)C(F)(F)C(F)(F)F)C=C[CH+]C1 0 134.81539 
+FINAL SUMMARY: comp568 comp_corr [2] == 2 0,2
+
+comp569_t0 corr [0, 4] == 0,4 0,4
+taut info: comp569_t0 c1cc(C2CC(=O)NC(=O)C2)ccc1N -77.1309 
+1> comp569_t0+_1-2 NC1=CC=C(C2CC(=O)NC(=O)C2)[CH+]C1 0 131.86293 
+FINAL SUMMARY: comp569 comp_corr [0, 4] == 0,4 0,4
+
+comp570_t0 corr [11] == 11 11
+taut info: comp570_t0 c1ccc2c(c1)[se]c(-c1ccc(N)c(C)c1)n2 45.95353 
+1> comp570_t0+_6-3 CC1=CC(C2=NC3=CC=CC=C3[Se]2)=CC[C+]1N 11 132.42327 
+FINAL SUMMARY: comp570 comp_corr [11] == 11 11
+
+comp571_t0 semi [1, 3, 5] == 1,3 1,3,5
+taut info: comp571_t0 c1(N)cccc(SC(F)(F)C(F)(F)C(F)(F)F)c1 -304.96356 
+1> comp571_t0+_2-12 NC1=C[CH+]CC(SC(F)(F)C(F)(F)C(F)(F)F)=C1 3 134.40580999999997 
+1> comp571_t0+_3-12 N[C+]1C=C(SC(F)(F)C(F)(F)C(F)(F)F)C=CC1 1 134.64157999999998 
+2> comp571_t0+_4-10 NC1=CC=C[C+](SC(F)(F)C(F)(F)C(F)(F)F)C1 5 135.49751999999998 
+FINAL SUMMARY: comp571 comp_semi [1, 3, 5] == 1,3 1,3,5
+
+comp572_t0 corr [4, 0] == 0,4 0,4
+taut info: comp572_t0 c1cc(CCCCN2C(=O)CCC2=O)ccc1N -87.8208 
+1> comp572_t0+_1-7 NC1=CC=C(CCCCN2C(=O)CCC2=O)[CH+]C1 0 129.95111 
+FINAL SUMMARY: comp572 comp_corr [4, 0] == 0,4 0,4
+
+comp573_t0 corr [4, 0] == 0,4 0,4
+taut info: comp573_t0 c1cc(C2(F)C(F)C(F)(F)C(F)(F)C(F)(F)C2(F)F)ccc1N -456.81846 
+1> comp573_t0+_1-3 NC1=CC=C(C2(F)C(F)C(F)(F)C(F)(F)C(F)(F)C2(F)F)[CH+]C1 0 134.60894000000002 
+FINAL SUMMARY: comp573 comp_corr [4, 0] == 0,4 0,4
+
+comp575_t0 corr [4] == 4 4
+taut info: comp575_t0 c1(OC(F)F)cc(C(C(F)(Cl)F)(C(F)(F)F)F)ccc1N -429.84487 
+1> comp575_t0+_3-6 N[C+]1CC=C(C(F)(C(F)(F)F)C(F)(F)Cl)C=C1OC(F)F 4 141.26412 
+FINAL SUMMARY: comp575 comp_corr [4] == 4 4
+
+comp576_t0 corr [4] == 4 4
+taut info: comp576_t0 c1(OC(F)F)cc(C(C(F)(Br)F)(C(F)(F)F)F)ccc1N -419.86219 
+1> comp576_t0+_3-11 N[C+]1CC=C(C(F)(C(F)(F)F)C(F)(F)Br)C=C1OC(F)F 4 140.95819999999998 
+FINAL SUMMARY: comp576 comp_corr [4] == 4 4
+
+comp577_t0 corr [4] == 4 4
+taut info: comp577_t0 c1(OC(F)(F)F)cc(C(C(F)(F)F)(C(F)(F)F)O)ccc1N -541.54316 
+1> comp577_t0+_3-12 N[C+]1CC=C(C(O)(C(F)(F)F)C(F)(F)F)C=C1OC(F)(F)F 4 141.09716999999995 
+FINAL SUMMARY: comp577 comp_corr [4] == 4 4
+
+comp578_t0 corr [4] == 4 4
+taut info: comp578_t0 c1(SC(F)(F)F)cc(C(C(F)(F)F)(C(F)(F)F)F)ccc1N -469.81868 
+1> comp578_t0+_3-8 N[C+]1CC=C(C(F)(C(F)(F)F)C(F)(F)F)C=C1SC(F)(F)F 4 142.45227 
+FINAL SUMMARY: comp578 comp_corr [4] == 4 4
+
+comp579_t0 corr [3] == 3 3,5
+taut info: comp579_t0 c1(N)c(OC)ccc(CCNC(=O)C(F)(F)F)c1 -219.95444 
+1> comp579_t0+_2-3 COC1=C(N)C=C(CCNC(=O)C(F)(F)F)C[CH+]1 3 129.49378000000002 
+2> comp579_t0+_3-16 COC1=C(N)C[C+](CCNC(=O)C(F)(F)F)C=C1 5 130.97519 
+FINAL SUMMARY: comp579 comp_corr [3] == 3 3,5
+
+comp580_t0 corr [5] == 5 5
+taut info: comp580_t0 c1(N)ccc2c(c1)ncn(Cc1ccccc1)c2=O 17.93641 
+1> comp580_t0+_7-9 NC1=CC=C2C(=O)N(CC3=CC=CC=C3)C=N[C+]2C1 5 128.23363 
+FINAL SUMMARY: comp580 comp_corr [5] == 5 5
+
+comp581_t0 corr [2] == 2 2
+taut info: comp581_t0 c1c(N)cc2c(c1)ncn(C1CC1)c2=O 18.61323 
+1> comp581_t0+_2-4 NC1=CC=C2N=CN(C3CC3)C(=O)[C+]2C1 2 130.31759999999997 
+FINAL SUMMARY: comp581 comp_corr [2] == 2 2
+
+comp582_t0 corr [8, 10] == 10,8 10,8
+taut info: comp582_t0 c1c(OC2CN3CCC2CC3)nnc(-c2ccc(N)cc2)c1 32.01646 
+1> comp582_t0+_1-9 NC1=CC=C(C2=CC=C(OC3CN4CCC3CC4)N=N2)[CH+]C1 10 130.7679 
+FINAL SUMMARY: comp582 comp_corr [8, 10] == 8,10 8,10
+
+comp583_t0 corr [5, 3] == 3,5 3,5
+taut info: comp583_t0 c1(C)c(Cc2nc(C3CCCCC3)c(OCOC)cc2)c(C)cc(N)c1 -77.460742 
+1> comp583_t0+_3-6 COCOC1=C(C2CCCCC2)N=C(CC2=C(C)C=C(N)C[C+]2C)C=C1 3 129.136734 
+FINAL SUMMARY: comp583 comp_corr [5, 3] == 3,5 3,5
+
+comp584_t0 corr [5, 3] == 3,5 3,5
+taut info: comp584_t0 c1([C@@]2(C)NC(NC(=O)OC(C)(C)C)N(C)S(=O)(=O)C2)c(F)ccc(N)c1 -188.419983 
+1> comp584_t0+_2-11 CN1C(NC(=O)OC(C)(C)C)N[C@](C)(C2=C(F)[CH+]CC(N)=C2)CS1(=O)=O 3 131.773851 
+1> comp584_t0+_3-6 CN1C(NC(=O)OC(C)(C)C)N[C@](C)(C2=C(F)C=C[C+](N)C2)CS1(=O)=O 5 131.629163 
+FINAL SUMMARY: comp584 comp_corr [5, 3] == 3,5 3,5
+
+comp585_t0 corr [14] == 14 14
+taut info: comp585_t0 Cn1ncc(-c2sc3c(n2)cc[nH]c3=O)c1 52.80241 
+1> comp585_t0+_2-4 CN1C=C(C2=NC3=C(S2)C(=O)N[CH+]C3)C=N1 14 133.05047 
+FINAL SUMMARY: comp585 comp_corr [14] == 14 14
+
+comp586_t0 corr [18] == 18 13,16,18
+taut info: comp586_t0 O=C(ON1C(=O)CCC1=O)c1sc(-c2cccs2)cc1 -50.94933 
+1> comp586_t0+_2-3 O=C(ON1C(=O)CCC1=O)C1=CC=C(C2=C[CH+]CS2)S1 18 141.65967 
+2> comp586_t0+_4-2 O=C(ON1C(=O)CCC1=O)C1=CC[C+](C2=CC=CS2)S1 13 142.73892999999998 
+2> comp586_t0+_5-0 O=C(ON1C(=O)CCC1=O)C1=CC=C([C+]2CC=CS2)S1 16 143.81172 
+FINAL SUMMARY: comp586 comp_corr [18] == 18 13,16,18
+
+comp587_t0 fail [20] == 13 13
+taut info: comp587_t0 O=C(ON1C(=O)CCC1=O)c1sc(-c2c(SC)ccs2)cc1 -52.2057 
+1> comp587_t0+_4-11 CSC1=C([C+]2CC=C(C(=O)ON3C(=O)CCC3=O)S2)SC=C1 13 139.64843 
+FINAL SUMMARY: comp587 comp_fail [20] == 13 13
+
+comp588_t0 corr [14] == 14 14
+taut info: comp588_t0 O=C(ON1C(=O)CCC1=O)c1sc(OCCC)cc1C -137.92934 
+1> comp588_t0+_1-11 CCCO[C+]1CC(C)=C(C(=O)ON2C(=O)CCC2=O)S1 14 138.96881 
+FINAL SUMMARY: comp588 comp_corr [14] == 14 14
+
+comp593_t0 corr [10] == 10 10
+taut info: comp593_t0 Nc1nc(-c2ccccc2)cc(-c2ccc3c(c2)OCO3)n1 13.73549 
+1> comp593_t0+_6-0 NC1=N[C+](C2=CC=CC=C2)CC(C2=CC=C3OCOC3=C2)=N1 10 128.16476 
+FINAL SUMMARY: comp593 comp_corr [10] == 10 10
+
+comp594_t0 corr [16] == 16 16
+taut info: comp594_t0 Clc1ccc(-n2nnc(Cl)c2)c(-c2[nH]cnc(=O)c2)c1 73.45741 
+1> comp594_t0+_5-3 O=C1C[C+](C2=CC(Cl)=CC=C2N2C=C(Cl)N=N2)NC=N1 16 138.49588 
+FINAL SUMMARY: comp594 comp_corr [16] == 16 16
+
+comp595_t0 corr [15] == 15 15
+taut info: comp595_t0 Clc1ccc(-n2nncc2)c(-c2[nH]cnc(=O)c2)c1F 40.2255 
+1> comp595_t0+_6-3 O=C1C[C+](C2=C(F)C(Cl)=CC=C2N2C=CN=N2)NC=N1 15 140.71849000000003 
+FINAL SUMMARY: comp595 comp_corr [15] == 15 15
+
+comp596_t0 corr [11] == 11 11
+taut info: comp596_t0 Clc1ccc(Br)c(-c2[nH]cnc(=O)c2)c1 15.19298 
+1> comp596_t0+_4-2 O=C1C[C+](C2=CC(Cl)=CC=C2Br)NC=N1 11 137.26451 
+FINAL SUMMARY: comp596 comp_corr [11] == 11 11
+
+comp597_t0 corr [27] == 27 27
+taut info: comp597_t0 N#Cc1nccc(Oc2ccc(Nc3nc(N)nc(-c4ccccc4)c3)cc2)c1 112.37986 
+1> comp597_t0+_12-8 N#CC1=NC=CC(OC2=CC=C(NC3=NC(N)=N[C+](C4=CC=CC=C4)C3)C=C2)=C1 27 123.12461 
+FINAL SUMMARY: comp597 comp_corr [27] == 27 27
+
+comp598_t0 semi [3] == 11,7 3,11,7
+taut info: comp598_t0 OCc1cc(-c2ccc(OC)cc2)ns1 -36.98802 
+1> comp598_t0+_1-5 COC1=CC=C(C2=NSC(CO)=C2)[CH+]C1 11 145.03942 
+2> comp598_t0+_3-4 COC1=CC=C(C2=NS[C+](CO)C2)C=C1 3 147.54904 
+FINAL SUMMARY: comp598 comp_semi [3] == 7,11 3,7,11
+
+comp599_t0 corr [7] == 7 7
+taut info: comp599_t0 Cn1c([B-](F)(F)F)cc(-c2ccccc2)n1 -332.82957 
+1> comp599_t0+_5-9 CN1N=C(C2=CC=CC=C2)C[C+]1[B-](F)(F)F 7 103.93330999999998 
+FINAL SUMMARY: comp599 comp_corr [7] == 7 7
+
+comp600_t0 corr [7] == 7 7
+taut info: comp600_t0 Cn1c([B-](F)(F)F)cc(-c2ccc(OC)cc2)n1 -371.85036 
+1> comp600_t0+_3-14 COC1=CC=C(C2=NN(C)[C+]([B-](F)(F)F)C2)C=C1 7 103.11976000000004 
+FINAL SUMMARY: comp600 comp_corr [7] == 7 7
+
+comp601_t0 corr [7] == 7 7
+taut info: comp601_t0 Cn1c([B-](F)(F)F)cc(-c2ccc(C(F)(F)F)cc2)n1 -493.48293 
+1> comp601_t0+_3-5 CN1N=C(C2=CC=C(C(F)(F)F)C=C2)C[C+]1[B-](F)(F)F 7 107.72032000000002 
+FINAL SUMMARY: comp601 comp_corr [7] == 7 7
+
