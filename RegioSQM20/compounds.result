@@ -3495,10 +3495,10 @@ comp522_t0 semi [4] == 3 3,4
 taut info: comp522_t0 c1c(F)c(B2OC(=O)CN(C)CC(=O)O2)ccc1C(F)(F)F -46975.46596944335 
 1> comp522_t0+_2-1 CN1CC(=O)OB([C+]2CC=C(C(F)(F)F)C=C2F)OC(=O)C1 3 -57.77182052050193 
 2> comp522_t0+_3-2 CN1CC(=O)OB(C2=CC[C+](C(F)(F)F)C=C2F)OC(=O)C1 4 -55.291134051767585 
-comp522_t1 fail [4] == 14,16 14,16
+comp522_t1 fail [4] == 14 14
 taut info: comp522_t1 c1c(F)c(B2OC(O)=CN(C)CC(=O)O2)ccc1C(F)(F)F -46967.800927941695 
 1> comp522_t1+_4-3 CN1CC(=O)OB(C2=CC=C(C(F)(F)F)C=C2F)O[C+](O)C1 14 -94.85500436738221 
-FINAL SUMMARY: comp522 comp_semi [4] == 3,14,16 3,4,14,16
+FINAL SUMMARY: comp522 comp_semi [4] == 3,14 3,4,14
 
 comp523_t0 corr [5] == 5 5
 taut info: comp523_t0 c1(C(F)(F)F)c(C)cc2c(c1)NCCC[C@@H]2N(c1nnn(C)n1)Cc1cc(C(F)(F)F)cc(C(F)(F)F)c1 -78724.07338845449 
@@ -3758,10 +3758,10 @@ FINAL SUMMARY: comp568 comp_corr [2] == 0,2 0,2
 comp569_t0 corr [0, 4] == 0,4 0,4
 taut info: comp569_t0 c1cc(C2CC(=O)NC(=O)C2)ccc1N -28607.629431915226 
 1> comp569_t0+_1-2 NC1=CC=C(C2CC(=O)NC(=O)C2)[CH+]C1 0 -88.35218763142984 
-comp569_t2 fail [0, 4] == 8,14 8,14
+comp569_t2 fail [0, 4] == 8 8
 taut info: comp569_t2 c1cc(C2C=C(O)NC(=O)C2)ccc1N -28596.6244982424 
 1> comp569_t2+_5-8 NC1=CC=C(C2CC(=O)N[C+](O)C2)C=C1 8 -100.26622120990214 
-FINAL SUMMARY: comp569 comp_corr [0, 4] == 0,4,8,14 0,4,8,14
+FINAL SUMMARY: comp569 comp_corr [0, 4] == 0,4,8 0,4,8
 
 comp570_t0 corr [11] == 0,2,11 0,2,11
 taut info: comp570_t0 c1ccc2c(c1)[se]c(-c1ccc(N)c(C)c1)n2 -28768.82808295148 
@@ -3780,10 +3780,10 @@ FINAL SUMMARY: comp571 comp_semi [1, 3, 5] == 1,3 1,3,5
 comp572_t1 corr [4, 0] == 0,4 0,4
 taut info: comp572_t1 c1cc(CCCCN2C(=O)CCC2=O)ccc1N -34626.21107086701 
 1> comp572_t1+_1-0 NC1=CC=C(CCCCN2C(=O)CCC2=O)[CH+]C1 0 -91.82870849518804 
-comp572_t2 fail [4, 0] == 14,15 14,15
+comp572_t2 fail [4, 0] == 14 14
 taut info: comp572_t2 c1cc(CCCCN2C(O)=CCC2=O)ccc1N -34611.85641883899 
 1> comp572_t2+_5-7 NC1=CC=C(CCCCN2C(=O)CC[C+]2O)C=C1 14 -103.39556975643063 
-FINAL SUMMARY: comp572 comp_corr [4, 0] == 0,4,14,15 0,4,14,15
+FINAL SUMMARY: comp572 comp_corr [4, 0] == 0,4,14 0,4,14
 
 comp573_t0 corr [4, 0] == 0,4 0,4
 taut info: comp573_t0 c1cc(C2(F)C(F)C(F)(F)C(F)(F)C(F)(F)C2(F)F)ccc1N -52580.57769307133 
@@ -3855,26 +3855,26 @@ FINAL SUMMARY: comp585 comp_corr [14] == 3,4,14 3,4,14
 comp586_t1 corr [18] == 18 18
 taut info: comp586_t1 O=C(ON1C(=O)CCC1=O)c1sc(-c2cccs2)cc1 -38717.3567478904 
 1> comp586_t1+_2-3 O=C(ON1C(=O)CCC1=O)C1=CC=C(C2=C[CH+]CS2)S1 18 -85.39426982816804 
-comp586_t2 fail [18] == 5,6 5,6
+comp586_t2 fail [18] == 5 5
 taut info: comp586_t2 O=C(ON1C(O)=CCC1=O)c1sc(-c2cccs2)cc1 -38705.83453984376 
 1> comp586_t2+_3-0 O=C(ON1C(=O)CC[C+]1O)C1=CC=C(C2=CC=CS2)S1 5 -96.21743004994642 
-FINAL SUMMARY: comp586 comp_corr [18] == 5,6,18 5,6,18
+FINAL SUMMARY: comp586 comp_corr [18] == 5,18 5,18
 
 comp587_t1 fail [20] == 13 13
 taut info: comp587_t1 O=C(ON1C(=O)CCC1=O)c1sc(-c2c(SC)ccs2)cc1 -43047.94577431277 
 1> comp587_t1+_4-2 CSC1=C([C+]2CC=C(C(=O)ON3C(=O)CCC3=O)S2)SC=C1 13 -88.25420570742426 
-comp587_t2 fail [20] == 5,6 5,6
+comp587_t2 fail [20] == 5 5
 taut info: comp587_t2 O=C(ON1C(O)=CCC1=O)c1sc(-c2c(SC)ccs2)cc1 -43034.91252500483 
 1> comp587_t2+_3-1 CSC1=C(C2=CC=C(C(=O)ON3C(=O)CC[C+]3O)S2)SC=C1 5 -97.33038900355314 
-FINAL SUMMARY: comp587 comp_fail [20] == 5,6,13 5,6,13
+FINAL SUMMARY: comp587 comp_fail [20] == 5,13 5,13
 
 comp588_t1 corr [14] == 14 14
 taut info: comp588_t1 O=C(ON1C(=O)CCC1=O)c1sc(OCCC)cc1C -41404.81381046986 
 1> comp588_t1+_1-6 CCCO[C+]1CC(C)=C(C(=O)ON2C(=O)CCC2=O)S1 14 -81.77133626645809 
-comp588_t2 fail [14] == 5,6 5,6
+comp588_t2 fail [14] == 5 5
 taut info: comp588_t2 O=C(ON1C(O)=CCC1=O)c1sc(OCCC)cc1C -41393.09593783195 
 1> comp588_t2+_1-13 CCCOC1=CC(C)=C(C(=O)ON2C(=O)CC[C+]2O)S1 5 -96.19124098285101 
-FINAL SUMMARY: comp588 comp_corr [14] == 5,6,14 5,6,14
+FINAL SUMMARY: comp588 comp_corr [14] == 5,14 5,14
 
 comp593_t2 corr [10] == 10 10
 taut info: comp593_t2 Nc1nc(-c2ccccc2)cc(-c2ccc3c(c2)OCO3)n1 -38888.46200722831 
